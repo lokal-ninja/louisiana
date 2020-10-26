@@ -1,6 +1,6 @@
 ---
-title: franklinton
+title: Franklinton
 url: /franklinton/
-latitude: 
-longitude: 
+latitude: 30.8471283
+longitude: -90.153141
 ---
