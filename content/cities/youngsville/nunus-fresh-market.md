@@ -1,5 +1,5 @@
 ---
 title: "NuNu's Fresh Market"
-url: /youngsville-la/nunus-fresh-market/
+url: /youngsville/nunus-fresh-market/
 shop: supermarket
 ---
