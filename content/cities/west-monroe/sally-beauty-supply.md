@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty Supply"
-url: /natchitoches/sally-beauty-supply/
+url: /west-monroe/sally-beauty-supply/
 shop: hairdresser supply
 ---
