@@ -1,5 +1,5 @@
 ---
 title: "Jared"
 url: /baton-rouge/jared/
-shop: jewelry
+shop: Schmuck
 ---

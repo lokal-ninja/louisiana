@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /mansura/shell/
-shop: convenience
+shop: Lebensmittel
 ---

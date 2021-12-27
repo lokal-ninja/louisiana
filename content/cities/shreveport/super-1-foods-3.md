@@ -1,5 +1,5 @@
 ---
 title: "Super 1 Foods"
 url: /shreveport/super-1-foods-3/
-shop: supermarket
+shop: Supermarkt
 ---

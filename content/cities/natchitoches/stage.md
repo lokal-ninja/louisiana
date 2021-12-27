@@ -1,5 +1,5 @@
 ---
 title: "Stage"
 url: /natchitoches/stage/
-shop: clothes
+shop: Kleidung
 ---

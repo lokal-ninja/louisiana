@@ -1,6 +1,6 @@
 ---
 title: Slidell
 url: /slidell/
-latitude: 30.2751945
-longitude: -89.7811745
+latitude: 30.29
+longitude: -89.721
 ---

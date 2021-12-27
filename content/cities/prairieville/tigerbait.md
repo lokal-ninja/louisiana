@@ -1,5 +1,5 @@
 ---
 title: "Tigerbait"
 url: /prairieville/tigerbait/
-shop: trophy
+shop: Pokal
 ---

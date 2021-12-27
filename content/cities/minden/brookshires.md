@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /minden/brookshires/
-shop: supermarket
+shop: Supermarkt
 ---

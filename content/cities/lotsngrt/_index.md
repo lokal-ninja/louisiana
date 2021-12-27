@@ -1,6 +1,6 @@
 ---
 title: Lotsngrt
 url: /lotsngrt/
-latitude: 
-longitude: 
+latitude: 30.636
+longitude: -90.398
 ---

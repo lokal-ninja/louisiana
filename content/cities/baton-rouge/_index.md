@@ -1,6 +1,6 @@
 ---
 title: Baton Rouge
 url: /baton-rouge/
-latitude: 30.445959600000002
-longitude: -91.18738
+latitude: 30.542
+longitude: -91.025
 ---

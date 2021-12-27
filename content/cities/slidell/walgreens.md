@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /slidell/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,6 +1,6 @@
 ---
 title: Coushatta
 url: /coushatta/
-latitude: 32.0148834
-longitude: -93.3421165
+latitude: 32.026
+longitude: -93.34
 ---

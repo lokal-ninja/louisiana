@@ -1,6 +1,6 @@
 ---
 title: Vivian
 url: /vivian/
-latitude: 32.8715278
-longitude: -93.9874032
+latitude: 32.858
+longitude: -93.987
 ---

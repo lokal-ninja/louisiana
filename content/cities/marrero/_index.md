@@ -1,6 +1,6 @@
 ---
 title: Marrero
 url: /marrero/
-latitude: 29.899372300000003
-longitude: -90.1003506
+latitude: 29.879
+longitude: -90.093
 ---

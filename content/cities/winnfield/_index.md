@@ -1,6 +1,6 @@
 ---
 title: Winnfield
 url: /winnfield/
-latitude: 
-longitude: 
+latitude: 31.95
+longitude: -92.657
 ---

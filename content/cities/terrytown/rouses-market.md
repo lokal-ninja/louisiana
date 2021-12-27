@@ -1,5 +1,5 @@
 ---
 title: "Rouses Market"
 url: /terrytown/rouses-market/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Slagle Mall"
 url: /leesville/slagle-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /lafayette/petsmart/
-shop: pet
+shop: Tiere
 ---

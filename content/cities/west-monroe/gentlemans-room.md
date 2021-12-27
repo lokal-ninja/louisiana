@@ -1,5 +1,5 @@
 ---
 title: "Gentleman's Room"
 url: /west-monroe/gentlemans-room/
-shop: hairdresser
+shop: Friseur
 ---

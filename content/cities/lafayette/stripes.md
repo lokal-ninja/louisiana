@@ -1,5 +1,5 @@
 ---
 title: "Stripes"
 url: /lafayette/stripes/
-shop: convenience
+shop: Lebensmittel
 ---

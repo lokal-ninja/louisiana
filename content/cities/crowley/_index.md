@@ -1,6 +1,6 @@
 ---
 title: Crowley
 url: /crowley/
-latitude: 30.214092800000003
-longitude: -92.3745761
+latitude: 30.229
+longitude: -92.38
 ---

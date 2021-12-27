@@ -1,6 +1,6 @@
 ---
 title: DeRidder
 url: /deridder/
-latitude: 30.846201
-longitude: -93.289281
+latitude: 30.847
+longitude: -93.298
 ---

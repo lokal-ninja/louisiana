@@ -1,6 +1,6 @@
 ---
 title: Elmwood
 url: /elmwood/
-latitude: 31.036578700000003
-longitude: -93.3062759
+latitude: 29.946
+longitude: -90.185
 ---

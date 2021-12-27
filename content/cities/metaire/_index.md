@@ -1,6 +1,6 @@
 ---
 title: Metaire
 url: /metaire/
-latitude: 
-longitude: 
+latitude: 30.003
+longitude: -90.148
 ---

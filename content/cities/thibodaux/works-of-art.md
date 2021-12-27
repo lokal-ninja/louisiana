@@ -1,5 +1,5 @@
 ---
 title: "Works of Art"
 url: /thibodaux/works-of-art/
-shop: hairdresser
+shop: Friseur
 ---

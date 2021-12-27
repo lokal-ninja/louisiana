@@ -1,5 +1,5 @@
 ---
 title: "Fashion Nails"
 url: /west-monroe/fashion-nails/
-shop: beauty
+shop: Kosmetik
 ---

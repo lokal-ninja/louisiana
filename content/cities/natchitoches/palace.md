@@ -1,5 +1,5 @@
 ---
 title: "Palace"
 url: /natchitoches/palace/
-shop: hairdresser
+shop: Friseur
 ---

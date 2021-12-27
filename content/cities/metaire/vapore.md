@@ -1,5 +1,5 @@
 ---
 title: "Vaporè"
 url: /metaire/vapore/
-shop: variety store
+shop: Kramladen
 ---

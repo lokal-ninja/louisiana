@@ -1,5 +1,5 @@
 ---
 title: "Willowbrook Center"
 url: /baton-rouge/willowbrook-center/
-shop: mall
+shop: Einkaufszentrum
 ---

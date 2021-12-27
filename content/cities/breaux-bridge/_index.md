@@ -1,6 +1,6 @@
 ---
 title: Breaux Bridge
 url: /breaux-bridge/
-latitude: 30.273532300000003
-longitude: -91.89928370000001
+latitude: 30.278
+longitude: -91.9
 ---

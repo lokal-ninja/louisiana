@@ -1,5 +1,5 @@
 ---
 title: "Coutelier"
 url: /new-orleans/coutelier/
-shop: houseware
+shop: Haushaltsartikel
 ---

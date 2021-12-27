@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /marrero/walgreens/
-shop: chemist
+shop: Drogerie
 ---

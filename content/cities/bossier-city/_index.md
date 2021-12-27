@@ -1,6 +1,6 @@
 ---
 title: Bossier City
 url: /bossier-city/
-latitude: 
-longitude: 
+latitude: 32.527
+longitude: -93.704
 ---

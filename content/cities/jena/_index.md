@@ -1,6 +1,6 @@
 ---
 title: Jena
 url: /jena/
-latitude: 31.683227100000003
-longitude: -92.1337448
+latitude: 31.693
+longitude: -92.14
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heavenly Sweets"
 url: /new-orleans/heavenly-sweets/
-shop: bakery
+shop: Bäckerei
 ---

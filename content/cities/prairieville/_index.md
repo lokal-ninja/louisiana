@@ -1,6 +1,6 @@
 ---
 title: Prairieville
 url: /prairieville/
-latitude: 30.3029721
-longitude: -90.9720451
+latitude: 30.285
+longitude: -90.957
 ---
