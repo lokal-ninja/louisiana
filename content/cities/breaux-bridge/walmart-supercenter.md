@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /breaux-bridge/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

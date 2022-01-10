@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /marrero/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

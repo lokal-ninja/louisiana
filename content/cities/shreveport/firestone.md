@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /shreveport/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

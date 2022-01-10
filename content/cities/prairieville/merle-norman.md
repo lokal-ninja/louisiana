@@ -1,5 +1,5 @@
 ---
 title: "Merle Norman"
 url: /prairieville/merle-norman/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mary Lou's Flowers"
 url: /natchitoches/mary-lous-flowers/
-shop: Blumen
+shop: florist
 ---

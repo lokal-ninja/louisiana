@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
 url: /shreveport/circle-k/
-shop: Lebensmittel
+shop: convenience
 ---

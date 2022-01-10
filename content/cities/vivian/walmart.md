@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /vivian/walmart/
-shop: Supermarkt
+shop: supermarket
 ---

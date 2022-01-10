@@ -1,5 +1,5 @@
 ---
 title: "University Donuts"
 url: /natchitoches/university-donuts/
-shop: Süßwaren
+shop: confectionery
 ---

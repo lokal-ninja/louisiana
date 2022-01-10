@@ -1,5 +1,5 @@
 ---
 title: "CarMax"
 url: /kenner/carmax/
-shop: Autohaus
+shop: car
 ---

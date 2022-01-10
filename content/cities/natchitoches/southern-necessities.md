@@ -1,5 +1,5 @@
 ---
 title: "Southern Necessities"
 url: /natchitoches/southern-necessities/
-shop: Andenken
+shop: gift
 ---

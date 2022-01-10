@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /natchitoches/gamestop/
-shop: Videospiele
+shop: video games
 ---

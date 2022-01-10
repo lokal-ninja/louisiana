@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /lafayette/michaels/
-shop: Basteln
+shop: craft
 ---

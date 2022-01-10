@@ -1,5 +1,5 @@
 ---
 title: "St. James Cheese Company"
 url: /new-orleans/st-james-cheese-company/
-shop: Käse
+shop: cheese
 ---

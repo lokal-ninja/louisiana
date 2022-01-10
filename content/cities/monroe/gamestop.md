@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /monroe/gamestop/
-shop: Videospiele
+shop: video games
 ---

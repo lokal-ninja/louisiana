@@ -1,5 +1,5 @@
 ---
 title: "Brookshire Brothers"
 url: /deridder/brookshire-brothers-2/
-shop: Supermarkt
+shop: supermarket
 ---

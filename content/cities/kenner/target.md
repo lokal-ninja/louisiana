@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /kenner/target/
-shop: Warenhaus
+shop: department store
 ---

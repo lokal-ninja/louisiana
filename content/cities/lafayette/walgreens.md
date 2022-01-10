@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /lafayette/walgreens/
-shop: Drogerie
+shop: chemist
 ---

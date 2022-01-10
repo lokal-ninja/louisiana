@@ -1,5 +1,5 @@
 ---
 title: "Blanchard Auto Repair"
 url: /shreveport/blanchard-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

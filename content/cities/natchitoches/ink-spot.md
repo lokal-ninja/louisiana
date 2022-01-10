@@ -1,5 +1,5 @@
 ---
 title: "Ink Spot"
 url: /natchitoches/ink-spot/
-shop: Kopieren
+shop: copyshop
 ---

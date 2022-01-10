@@ -1,5 +1,5 @@
 ---
 title: "Divine Nails"
 url: /slidell/divine-nails/
-shop: Kosmetik
+shop: beauty
 ---

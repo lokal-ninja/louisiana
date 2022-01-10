@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /baton-rouge/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

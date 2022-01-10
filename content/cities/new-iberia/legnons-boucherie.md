@@ -1,5 +1,5 @@
 ---
 title: "Legnon's Boucherie"
 url: /new-iberia/legnons-boucherie/
-shop: Metzgerei
+shop: butcher
 ---

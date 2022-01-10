@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /bossier-city/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

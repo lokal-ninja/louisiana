@@ -1,5 +1,5 @@
 ---
 title: "Perfect Nails"
 url: /natchitoches/perfect-nails/
-shop: Kosmetik
+shop: beauty
 ---

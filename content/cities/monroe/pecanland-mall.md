@@ -1,5 +1,5 @@
 ---
 title: "Pecanland Mall"
 url: /monroe/pecanland-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

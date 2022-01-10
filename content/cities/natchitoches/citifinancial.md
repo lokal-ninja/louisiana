@@ -1,5 +1,5 @@
 ---
 title: "Citifinancial"
 url: /natchitoches/citifinancial/
-shop: Leiher
+shop: pawnbroker
 ---

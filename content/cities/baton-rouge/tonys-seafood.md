@@ -1,5 +1,5 @@
 ---
 title: "Tony's Seafood"
 url: /baton-rouge/tonys-seafood/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /baton-rouge/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

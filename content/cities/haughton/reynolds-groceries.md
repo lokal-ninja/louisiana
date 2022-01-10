@@ -1,5 +1,5 @@
 ---
 title: "Reynolds Groceries"
 url: /haughton/reynolds-groceries/
-shop: Lebensmittel
+shop: convenience
 ---

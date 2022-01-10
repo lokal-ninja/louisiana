@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /haughton/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hydro Nails"
 url: /prairieville/hydro-nails/
-shop: Kosmetik
+shop: beauty
 ---

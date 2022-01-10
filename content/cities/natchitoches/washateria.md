@@ -1,5 +1,5 @@
 ---
 title: "Washateria"
 url: /natchitoches/washateria/
-shop: Wäscherei
+shop: laundry
 ---

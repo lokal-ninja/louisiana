@@ -1,5 +1,5 @@
 ---
 title: "Kehoe Tire"
 url: /new-orleans/kehoe-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Salon Brushed"
 url: /prairieville/salon-brushed/
-shop: Friseur
+shop: hairdresser
 ---
