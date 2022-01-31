@@ -1,5 +1,5 @@
 ---
 title: "QUEORK"
 url: /new-orleans/queork/
-shop: shop
+shop: boutique
 ---
