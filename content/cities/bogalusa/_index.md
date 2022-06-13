@@ -1,6 +1,6 @@
 ---
 title: Bogalusa
 url: /bogalusa/
-latitude: 30.794
-longitude: -89.865
+latitude: 30.793
+longitude: -89.866
 ---
