@@ -1,6 +1,6 @@
 ---
 title: Ruston
 url: /ruston/
-latitude: 32.544
-longitude: -92.625
+latitude: 32.531
+longitude: -92.639
 ---
