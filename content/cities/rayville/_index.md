@@ -1,6 +1,6 @@
 ---
 title: Rayville
 url: /rayville/
-latitude: 32.463
-longitude: -91.763
+latitude: 32.462
+longitude: -91.76
 ---
