@@ -1,6 +1,6 @@
 ---
 title: Carencro
 url: /carencro/
-latitude: 30.32
+latitude: 30.322
 longitude: -92.031
 ---
