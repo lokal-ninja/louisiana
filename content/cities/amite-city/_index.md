@@ -1,6 +1,6 @@
 ---
 title: Amite City
 url: /amite-city/
-latitude: 30.729
-longitude: -90.511
+latitude: 30.732
+longitude: -90.537
 ---
