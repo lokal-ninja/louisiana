@@ -1,6 +1,6 @@
 ---
 title: Abita Springs
 url: /abita-springs/
-latitude: 30.483
-longitude: -90.043
+latitude: 30.484
+longitude: -90.044
 ---
