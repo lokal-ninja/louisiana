@@ -1,6 +1,6 @@
 ---
 title: Abbeville
 url: /abbeville/
-latitude: 29.984
-longitude: -92.132
+latitude: 29.97
+longitude: -92.103
 ---
