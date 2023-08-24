@@ -1,6 +1,6 @@
 ---
 title: Haughton
 url: /haughton/
-latitude: 32.557
-longitude: -93.612
+latitude: 32.555
+longitude: -93.599
 ---
