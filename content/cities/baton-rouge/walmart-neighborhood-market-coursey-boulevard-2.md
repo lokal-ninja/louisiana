@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /baton-rouge/walmart-neighborhood-market/
+url: /baton-rouge/walmart-neighborhood-market-coursey-boulevard-2/
 shop: supermarket
 ---

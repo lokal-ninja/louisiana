@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /lafayette/walgreens/
+url: /lafayette/walgreens-kaliste-saloom-road/
 shop: chemist
 ---

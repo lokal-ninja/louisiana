@@ -1,5 +1,5 @@
 ---
 title: "Rouses"
-url: /metairie/rouses/
+url: /metairie/rouses-clearview-parkway/
 shop: supermarket
 ---

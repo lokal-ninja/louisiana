@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /shreveport/walmart-supercenter/
+url: /shreveport/walmart-supercenter-mansfield-road/
 shop: supermarket
 ---

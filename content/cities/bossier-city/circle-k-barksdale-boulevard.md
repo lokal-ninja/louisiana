@@ -1,5 +1,5 @@
 ---
 title: "Circle K"
-url: /bossier-city/circle-k/
+url: /bossier-city/circle-k-barksdale-boulevard/
 shop: convenience
 ---

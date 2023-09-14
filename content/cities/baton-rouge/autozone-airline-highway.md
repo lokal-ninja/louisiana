@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /baton-rouge/autozone/
+url: /baton-rouge/autozone-airline-highway/
 shop: car parts
 ---

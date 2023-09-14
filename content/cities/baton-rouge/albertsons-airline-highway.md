@@ -1,5 +1,5 @@
 ---
 title: "Albertsons"
-url: /baton-rouge/albertsons/
+url: /baton-rouge/albertsons-airline-highway/
 shop: supermarket
 ---

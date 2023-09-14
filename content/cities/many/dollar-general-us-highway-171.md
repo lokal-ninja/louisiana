@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /many/dollar-general/
+url: /many/dollar-general-us-highway-171/
 shop: variety store
 ---

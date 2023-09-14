@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /shreveport/family-dollar/
+url: /shreveport/family-dollar-caddo/
 shop: variety store
 ---
