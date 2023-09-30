@@ -1,6 +1,6 @@
 ---
 title: Westwego
 url: /westwego/
-latitude: 29.899
-longitude: -90.142
+latitude: 29.897
+longitude: -90.137
 ---
