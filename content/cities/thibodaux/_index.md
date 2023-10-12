@@ -1,6 +1,6 @@
 ---
 title: Thibodaux
 url: /thibodaux/
-latitude: 29.809
-longitude: -90.818
+latitude: 29.801
+longitude: -90.819
 ---
