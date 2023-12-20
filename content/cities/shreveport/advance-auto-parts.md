@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
-url: /west-monroe/advance-auto-parts-thomas-road/
+url: /shreveport/advance-auto-parts/
 shop: car parts
 ---
