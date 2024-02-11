@@ -1,6 +1,6 @@
 ---
 title: Lake Charles
 url: /lake-charles/
-latitude: 30.186
-longitude: -93.218
+latitude: 30.185
+longitude: -93.22
 ---
