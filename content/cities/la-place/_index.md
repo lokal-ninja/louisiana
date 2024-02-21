@@ -1,6 +1,6 @@
 ---
 title: La Place
 url: /la-place/
-latitude: 30.075
-longitude: -90.498
+latitude: 30.076
+longitude: -90.503
 ---
