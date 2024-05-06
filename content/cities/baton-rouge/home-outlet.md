@@ -1,5 +1,5 @@
 ---
 title: "Home Outlet"
 url: /baton-rouge/home-outlet/
-shop: shop
+shop: doityourself
 ---
