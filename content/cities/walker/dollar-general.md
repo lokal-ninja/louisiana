@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /shreveport/dollar-general-west-70th-street/
+url: /walker/dollar-general/
 shop: variety store
 ---
