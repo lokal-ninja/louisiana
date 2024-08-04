@@ -1,6 +1,6 @@
 ---
 title: Houma
 url: /houma/
-latitude: 29.608
-longitude: -90.752
+latitude: 29.632
+longitude: -90.76
 ---
