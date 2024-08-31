@@ -1,6 +1,6 @@
 ---
 title: Bastrop
 url: /bastrop/
-latitude: 32.776
-longitude: -91.87
+latitude: 32.778
+longitude: -91.885
 ---

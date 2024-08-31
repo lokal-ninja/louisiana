@@ -1,6 +1,6 @@
 ---
 title: Amite
 url: /amite/
-latitude: 30.729
-longitude: -90.53
+latitude: 30.728
+longitude: -90.521
 ---

@@ -1,6 +1,6 @@
 ---
 title: Zachary
 url: /zachary/
-latitude: 30.651
-longitude: -91.142
+latitude: 30.646
+longitude: -91.148
 ---

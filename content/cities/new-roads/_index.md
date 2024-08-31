@@ -1,6 +1,6 @@
 ---
 title: New Roads
 url: /new-roads/
-latitude: 30.689
-longitude: -91.464
+latitude: 30.685
+longitude: -91.46
 ---

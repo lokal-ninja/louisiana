@@ -1,6 +1,6 @@
 ---
 title: Ponchatoula
 url: /ponchatoula/
-latitude: 30.444
-longitude: -90.453
+latitude: 30.44
+longitude: -90.438
 ---
