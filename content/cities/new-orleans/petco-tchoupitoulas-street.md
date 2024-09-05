@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /new-orleans/petco-tchoupitoulas-street/
-shop: pet
+shop: Tiere
 ---

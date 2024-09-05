@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /metairie/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

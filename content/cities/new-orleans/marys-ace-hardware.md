@@ -1,5 +1,5 @@
 ---
 title: "Mary's Ace Hardware"
 url: /new-orleans/marys-ace-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

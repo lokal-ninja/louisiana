@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lafayette/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

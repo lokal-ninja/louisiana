@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /bush/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

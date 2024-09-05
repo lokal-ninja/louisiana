@@ -1,5 +1,5 @@
 ---
 title: "Comeaux"
 url: /metairie/comeaux/
-shop: furniture
+shop: Möbel
 ---

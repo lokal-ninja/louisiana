@@ -1,5 +1,5 @@
 ---
 title: "Classic Cleaners"
 url: /metairie/classic-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

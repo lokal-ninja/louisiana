@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /gretna/shell/
-shop: convenience
+shop: Lebensmittel
 ---

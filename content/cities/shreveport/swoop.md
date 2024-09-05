@@ -1,5 +1,5 @@
 ---
 title: "Swoop"
 url: /shreveport/swoop/
-shop: convenience
+shop: Lebensmittel
 ---

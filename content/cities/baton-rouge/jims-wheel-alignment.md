@@ -1,5 +1,5 @@
 ---
 title: "Jim's Wheel Alignment"
 url: /baton-rouge/jims-wheel-alignment/
-shop: car repair
+shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cousin's Food Mart"
 url: /baton-rouge/cousins-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

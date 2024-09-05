@@ -1,5 +1,5 @@
 ---
 title: "Off The Hanger"
 url: /west-monroe/off-the-hanger/
-shop: clothes
+shop: Kleidung
 ---

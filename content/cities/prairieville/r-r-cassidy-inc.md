@@ -1,5 +1,5 @@
 ---
 title: "R.R. Cassidy Inc."
 url: /prairieville/r-r-cassidy-inc/
-shop: storage rental
+shop: Mieten
 ---

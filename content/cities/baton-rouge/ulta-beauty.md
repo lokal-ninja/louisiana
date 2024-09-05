@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /baton-rouge/ulta-beauty/
-shop: beauty
+shop: Kosmetik
 ---

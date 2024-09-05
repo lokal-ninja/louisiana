@@ -1,5 +1,5 @@
 ---
 title: "University Ink"
 url: /ruston/university-ink/
-shop: tattoo
+shop: Tattoo
 ---

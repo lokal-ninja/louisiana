@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /metairie/petsmart/
-shop: pet
+shop: Tiere
 ---

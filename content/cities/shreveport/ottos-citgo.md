@@ -1,5 +1,5 @@
 ---
 title: "Otto's Citgo"
 url: /shreveport/ottos-citgo/
-shop: convenience
+shop: Lebensmittel
 ---

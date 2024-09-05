@@ -1,5 +1,5 @@
 ---
 title: "Sir Speedy"
 url: /new-orleans/sir-speedy/
-shop: copyshop
+shop: Kopieren
 ---

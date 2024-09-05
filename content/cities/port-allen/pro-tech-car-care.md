@@ -1,5 +1,5 @@
 ---
 title: "Pro-Tech Car Care"
 url: /port-allen/pro-tech-car-care/
-shop: car repair
+shop: Autowerkstatt
 ---

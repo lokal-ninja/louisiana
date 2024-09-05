@@ -1,5 +1,5 @@
 ---
 title: "Day Old Blues"
 url: /shreveport/day-old-blues/
-shop: music
+shop: Musik
 ---

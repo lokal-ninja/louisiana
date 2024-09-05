@@ -1,5 +1,5 @@
 ---
 title: "Chad's Auto and Exhaust"
 url: /minden/chads-auto-and-exhaust/
-shop: car repair
+shop: Autowerkstatt
 ---

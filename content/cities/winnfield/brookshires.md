@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /winnfield/brookshires/
-shop: supermarket
+shop: Supermarkt
 ---

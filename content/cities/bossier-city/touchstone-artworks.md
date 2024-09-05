@@ -1,5 +1,5 @@
 ---
 title: "Touchstone Artworks"
 url: /bossier-city/touchstone-artworks/
-shop: art
+shop: Kunst
 ---

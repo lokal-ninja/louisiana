@@ -1,5 +1,5 @@
 ---
 title: "Country Market Shopping Center"
 url: /shreveport/country-market-shopping-center/
-shop: mall
+shop: Einkaufszentrum
 ---

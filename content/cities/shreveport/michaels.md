@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /shreveport/michaels/
-shop: craft
+shop: Basteln
 ---

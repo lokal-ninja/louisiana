@@ -1,5 +1,5 @@
 ---
 title: "Icee"
 url: /bossier-city/icee/
-shop: convenience
+shop: Lebensmittel
 ---

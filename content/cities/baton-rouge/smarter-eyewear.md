@@ -1,5 +1,5 @@
 ---
 title: "Smarter Eyewear"
 url: /baton-rouge/smarter-eyewear/
-shop: optician
+shop: Optiker
 ---

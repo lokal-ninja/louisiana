@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
 url: /baton-rouge/lululemon/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marucci Club"
 url: /baton-rouge/marucci-club/
-shop: sports
+shop: Sport
 ---

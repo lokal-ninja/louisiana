@@ -1,5 +1,5 @@
 ---
 title: "L H Johnson Wholesale"
 url: /natchitoches/l-h-johnson-wholesale/
-shop: general
+shop: Dorfladen
 ---

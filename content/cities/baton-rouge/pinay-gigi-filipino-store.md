@@ -1,5 +1,5 @@
 ---
 title: "Pinay Gigi Filipino Store"
 url: /baton-rouge/pinay-gigi-filipino-store/
-shop: supermarket
+shop: Supermarkt
 ---

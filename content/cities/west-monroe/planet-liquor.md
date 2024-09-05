@@ -1,5 +1,5 @@
 ---
 title: "Planet Liquor"
 url: /west-monroe/planet-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /baton-rouge/shell/
-shop: convenience
+shop: Lebensmittel
 ---

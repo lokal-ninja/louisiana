@@ -1,5 +1,5 @@
 ---
 title: "Van's Nails"
 url: /baton-rouge/vans-nails/
-shop: beauty
+shop: Kosmetik
 ---

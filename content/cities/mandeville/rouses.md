@@ -1,5 +1,5 @@
 ---
 title: "Rouses"
 url: /mandeville/rouses/
-shop: supermarket
+shop: Supermarkt
 ---

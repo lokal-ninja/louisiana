@@ -1,5 +1,5 @@
 ---
 title: "Texaco"
 url: /shreveport/texaco/
-shop: convenience
+shop: Lebensmittel
 ---

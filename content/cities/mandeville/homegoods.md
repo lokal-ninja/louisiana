@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /mandeville/homegoods/
-shop: houseware
+shop: Haushaltsartikel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kenny's Auto Sales"
 url: /shreveport/kennys-auto-sales/
-shop: car
+shop: Autohaus
 ---

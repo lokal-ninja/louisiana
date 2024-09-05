@@ -1,5 +1,5 @@
 ---
 title: "Autorama"
 url: /shreveport/autorama/
-shop: car
+shop: Autohaus
 ---

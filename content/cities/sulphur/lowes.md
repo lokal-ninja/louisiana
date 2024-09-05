@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /sulphur/lowes/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Whold Nine Yard"
 url: /baton-rouge/whold-nine-yard/
-shop: antiques
+shop: Antiquitäten
 ---

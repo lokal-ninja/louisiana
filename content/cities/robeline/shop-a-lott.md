@@ -1,5 +1,5 @@
 ---
 title: "Shop-A-Lott"
 url: /robeline/shop-a-lott/
-shop: convenience
+shop: Lebensmittel
 ---

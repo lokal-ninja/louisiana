@@ -1,5 +1,5 @@
 ---
 title: "Crawler Supply"
 url: /baton-rouge/crawler-supply/
-shop: trade
+shop: Baustoffe
 ---

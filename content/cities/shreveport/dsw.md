@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /shreveport/dsw/
-shop: shoes
+shop: Schuhe
 ---

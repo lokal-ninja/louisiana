@@ -1,5 +1,5 @@
 ---
 title: "Skent 'N' Dent"
 url: /monroe/skent-n-dent/
-shop: appliance
+shop: Haushaltsgeräte
 ---

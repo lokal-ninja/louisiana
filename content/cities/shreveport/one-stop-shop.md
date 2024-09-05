@@ -1,5 +1,5 @@
 ---
 title: "One Stop Shop"
 url: /shreveport/one-stop-shop/
-shop: convenience
+shop: Lebensmittel
 ---

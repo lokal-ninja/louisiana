@@ -1,5 +1,5 @@
 ---
 title: "Dollar Mania"
 url: /bossier-city/dollar-mania/
-shop: beauty
+shop: Kosmetik
 ---

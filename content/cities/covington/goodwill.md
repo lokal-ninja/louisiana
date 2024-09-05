@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /covington/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kids Korner"
 url: /slidell/kids-korner/
-shop: gift
+shop: Andenken
 ---

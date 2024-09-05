@@ -1,5 +1,5 @@
 ---
 title: "Harvest Foods"
 url: /west-monroe/harvest-foods/
-shop: supermarket
+shop: Supermarkt
 ---

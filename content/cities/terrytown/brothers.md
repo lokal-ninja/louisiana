@@ -1,5 +1,5 @@
 ---
 title: "Brother's"
 url: /terrytown/brothers/
-shop: convenience
+shop: Lebensmittel
 ---

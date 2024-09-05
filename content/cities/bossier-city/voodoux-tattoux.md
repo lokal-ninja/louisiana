@@ -1,5 +1,5 @@
 ---
 title: "Voodoux Tattoux"
 url: /bossier-city/voodoux-tattoux/
-shop: tattoo
+shop: Tattoo
 ---
