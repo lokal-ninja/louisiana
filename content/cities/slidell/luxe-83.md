@@ -1,5 +1,5 @@
 ---
 title: "Luxe 83"
 url: /slidell/luxe-83/
-shop: Kleidung
+shop: clothes
 ---

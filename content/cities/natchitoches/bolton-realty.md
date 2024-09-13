@@ -1,5 +1,5 @@
 ---
 title: "Bolton Realty"
 url: /natchitoches/bolton-realty/
-shop: Immobilien
+shop: estate agent
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tshirt Connection"
 url: /natchitoches/tshirt-connection/
-shop: Kleidung
+shop: clothes
 ---

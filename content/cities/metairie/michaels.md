@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /metairie/michaels/
-shop: Basteln
+shop: craft
 ---

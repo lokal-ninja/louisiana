@@ -1,5 +1,5 @@
 ---
 title: "Wabash"
 url: /baton-rouge/wabash/
-shop: Autowerkstatt
+shop: car repair
 ---

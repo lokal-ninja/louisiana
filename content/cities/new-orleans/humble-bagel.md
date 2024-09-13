@@ -1,5 +1,5 @@
 ---
 title: "Humble bagel"
 url: /new-orleans/humble-bagel/
-shop: Bäckerei
+shop: bakery
 ---

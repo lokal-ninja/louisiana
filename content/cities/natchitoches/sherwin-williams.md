@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /natchitoches/sherwin-williams/
-shop: Farben
+shop: paint
 ---

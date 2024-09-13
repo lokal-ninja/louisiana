@@ -1,5 +1,5 @@
 ---
 title: "Fireworks Mega Store"
 url: /shreveport/fireworks-mega-store/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

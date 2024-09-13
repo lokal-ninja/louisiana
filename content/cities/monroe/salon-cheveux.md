@@ -1,5 +1,5 @@
 ---
 title: "Salon Cheveux"
 url: /monroe/salon-cheveux/
-shop: Friseur
+shop: hairdresser
 ---

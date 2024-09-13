@@ -1,5 +1,5 @@
 ---
 title: "Phillips 66"
 url: /shreveport/phillips-66/
-shop: Lebensmittel
+shop: convenience
 ---

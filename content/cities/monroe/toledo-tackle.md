@@ -1,5 +1,5 @@
 ---
 title: "Toledo Tackle"
 url: /monroe/toledo-tackle/
-shop: Angeln
+shop: fishing
 ---

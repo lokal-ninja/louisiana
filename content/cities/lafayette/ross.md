@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /lafayette/ross/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hebert Guns"
 url: /prairieville/hebert-guns/
-shop: Waffen
+shop: weapons
 ---

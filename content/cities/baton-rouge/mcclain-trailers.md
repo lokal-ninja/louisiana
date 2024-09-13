@@ -1,5 +1,5 @@
 ---
 title: "McClain Trailers"
 url: /baton-rouge/mcclain-trailers/
-shop: Baustoffe
+shop: trade
 ---

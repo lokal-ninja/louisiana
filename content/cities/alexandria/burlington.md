@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /alexandria/burlington/
-shop: Warenhaus
+shop: department store
 ---

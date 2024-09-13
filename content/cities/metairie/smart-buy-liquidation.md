@@ -1,5 +1,5 @@
 ---
 title: "Smart Buy Liquidation"
 url: /metairie/smart-buy-liquidation/
-shop: Allgemein
+shop: shop
 ---

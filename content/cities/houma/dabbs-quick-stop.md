@@ -1,5 +1,5 @@
 ---
 title: "Dabb's Quick Stop"
 url: /houma/dabbs-quick-stop/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /slidell/winn-dixie-pontchartrain-drive/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /bossier-city/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

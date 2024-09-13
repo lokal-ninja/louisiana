@@ -1,5 +1,5 @@
 ---
 title: "Sprouts Farmers Market"
 url: /baton-rouge/sprouts-farmers-market/
-shop: Supermarkt
+shop: supermarket
 ---

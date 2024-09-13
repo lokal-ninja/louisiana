@@ -1,5 +1,5 @@
 ---
 title: "The Floral Cottage"
 url: /prairieville/the-floral-cottage/
-shop: Blumen
+shop: florist
 ---

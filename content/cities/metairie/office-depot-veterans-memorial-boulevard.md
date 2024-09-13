@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /metairie/office-depot-veterans-memorial-boulevard/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Sugar Shack"
 url: /natchitoches/the-sugar-shack/
-shop: Süßwaren
+shop: confectionery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Apocalypse Sports"
 url: /ponchatoula/apocalypse-sports/
-shop: Waffen
+shop: weapons
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /metairie/big-lots/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /port-allen/autozone/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
 url: /gretna/walmart-neighborhood-market/
-shop: Supermarkt
+shop: supermarket
 ---

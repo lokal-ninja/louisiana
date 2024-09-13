@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /lafayette/burlington/
-shop: Warenhaus
+shop: department store
 ---

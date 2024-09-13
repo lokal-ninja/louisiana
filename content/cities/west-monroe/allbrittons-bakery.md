@@ -1,5 +1,5 @@
 ---
 title: "Allbritton's Bakery"
 url: /west-monroe/allbrittons-bakery/
-shop: Bäckerei
+shop: bakery
 ---

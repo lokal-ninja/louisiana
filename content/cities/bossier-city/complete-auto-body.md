@@ -1,5 +1,5 @@
 ---
 title: "Complete Auto Body"
 url: /bossier-city/complete-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

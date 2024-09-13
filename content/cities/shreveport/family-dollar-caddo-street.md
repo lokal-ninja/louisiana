@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /shreveport/family-dollar-caddo-street/
-shop: Kramladen
+shop: variety store
 ---

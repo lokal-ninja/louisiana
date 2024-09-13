@@ -1,5 +1,5 @@
 ---
 title: "DJ Automotive"
 url: /bossier-city/dj-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

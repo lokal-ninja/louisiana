@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /lake-charles/ross/
-shop: Warenhaus
+shop: department store
 ---

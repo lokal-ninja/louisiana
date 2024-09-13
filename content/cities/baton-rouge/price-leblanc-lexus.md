@@ -1,5 +1,5 @@
 ---
 title: "Price LeBlanc Lexus"
 url: /baton-rouge/price-leblanc-lexus/
-shop: Autohaus
+shop: car
 ---

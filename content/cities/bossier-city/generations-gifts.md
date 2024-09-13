@@ -1,5 +1,5 @@
 ---
 title: "Generations Gifts"
 url: /bossier-city/generations-gifts/
-shop: Andenken
+shop: gift
 ---

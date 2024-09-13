@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /gretna/autozone/
-shop: Autoteile
+shop: car parts
 ---

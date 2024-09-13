@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /prairieville/autozone/
-shop: Autoteile
+shop: car parts
 ---

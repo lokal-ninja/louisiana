@@ -1,5 +1,5 @@
 ---
 title: "Metairie Car Care"
 url: /metairie/metairie-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

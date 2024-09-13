@@ -1,5 +1,5 @@
 ---
 title: "Cousin's Cajun Meat Market"
 url: /stonewall/cousins-cajun-meat-market/
-shop: Friseur
+shop: hairdresser
 ---

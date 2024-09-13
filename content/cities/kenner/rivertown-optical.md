@@ -1,5 +1,5 @@
 ---
 title: "Rivertown Optical"
 url: /kenner/rivertown-optical/
-shop: Optiker
+shop: optician
 ---

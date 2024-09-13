@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /baton-rouge/dollar-general-airline-highway/
-shop: Kramladen
+shop: variety store
 ---

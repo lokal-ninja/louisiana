@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /slidell/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

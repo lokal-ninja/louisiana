@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /baton-rouge/target/
-shop: Warenhaus
+shop: department store
 ---

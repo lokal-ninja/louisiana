@@ -1,5 +1,5 @@
 ---
 title: "Lincare"
 url: /baton-rouge/lincare/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /shreveport/kohls/
-shop: Warenhaus
+shop: department store
 ---

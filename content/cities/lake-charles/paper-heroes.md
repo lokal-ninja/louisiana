@@ -1,5 +1,5 @@
 ---
 title: "Paper Heroes"
 url: /lake-charles/paper-heroes/
-shop: Spielzeug
+shop: toys
 ---

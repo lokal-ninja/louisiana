@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /lafayette/autozone/
-shop: Autoteile
+shop: car parts
 ---

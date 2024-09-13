@@ -1,5 +1,5 @@
 ---
 title: "Blessings Bookstore"
 url: /west-monroe/blessings-bookstore/
-shop: Bücher
+shop: books
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AGCO Automotive"
 url: /baton-rouge/agco-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

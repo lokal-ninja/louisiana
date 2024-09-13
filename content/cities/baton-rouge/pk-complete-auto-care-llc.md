@@ -1,5 +1,5 @@
 ---
 title: "PK Complete Auto Care LLC"
 url: /baton-rouge/pk-complete-auto-care-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

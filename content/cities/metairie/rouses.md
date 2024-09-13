@@ -1,5 +1,5 @@
 ---
 title: "Rouses"
 url: /metairie/rouses/
-shop: Supermarkt
+shop: supermarket
 ---

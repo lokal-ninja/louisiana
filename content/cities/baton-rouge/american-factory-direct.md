@@ -1,5 +1,5 @@
 ---
 title: "American Factory Direct"
 url: /baton-rouge/american-factory-direct/
-shop: Möbel
+shop: furniture
 ---

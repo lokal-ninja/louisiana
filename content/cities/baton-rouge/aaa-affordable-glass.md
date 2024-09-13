@@ -1,5 +1,5 @@
 ---
 title: "AAA Affordable Glass"
 url: /baton-rouge/aaa-affordable-glass/
-shop: Autohaus
+shop: car
 ---

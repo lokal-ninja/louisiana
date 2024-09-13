@@ -1,5 +1,5 @@
 ---
 title: "River Road Coffee"
 url: /baton-rouge/river-road-coffee/
-shop: Kaffee
+shop: coffee
 ---

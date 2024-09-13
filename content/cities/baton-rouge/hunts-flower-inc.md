@@ -1,5 +1,5 @@
 ---
 title: "Hunt's Flower Inc"
 url: /baton-rouge/hunts-flower-inc/
-shop: Blumen
+shop: florist
 ---

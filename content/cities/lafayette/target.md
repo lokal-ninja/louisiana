@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lafayette/target/
-shop: Warenhaus
+shop: department store
 ---

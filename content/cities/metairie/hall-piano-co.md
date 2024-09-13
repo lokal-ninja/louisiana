@@ -1,5 +1,5 @@
 ---
 title: "Hall Piano Co."
 url: /metairie/hall-piano-co/
-shop: Instrumente
+shop: musical instrument
 ---

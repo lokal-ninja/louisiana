@@ -1,5 +1,5 @@
 ---
 title: "NAPA"
 url: /saint-francisville/napa/
-shop: Autoteile
+shop: car parts
 ---

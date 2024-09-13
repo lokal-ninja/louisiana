@@ -1,5 +1,5 @@
 ---
 title: "Chabill's"
 url: /baton-rouge/chabills-airline-highway/
-shop: Reifen
+shop: tyres
 ---

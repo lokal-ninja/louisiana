@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /metairie/party-city/
-shop: Partyzubehör
+shop: party
 ---

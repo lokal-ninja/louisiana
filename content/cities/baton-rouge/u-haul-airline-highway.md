@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /baton-rouge/u-haul-airline-highway/
-shop: Mieten
+shop: storage rental
 ---

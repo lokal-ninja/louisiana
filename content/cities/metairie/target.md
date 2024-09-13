@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /metairie/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /walker/autozone/
-shop: Autoteile
+shop: car parts
 ---

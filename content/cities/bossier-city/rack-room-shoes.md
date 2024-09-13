@@ -1,5 +1,5 @@
 ---
 title: "Rack Room Shoes"
 url: /bossier-city/rack-room-shoes/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /river-ridge/winn-dixie/
-shop: Supermarkt
+shop: supermarket
 ---

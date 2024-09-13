@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /new-orleans/bluemercury/
-shop: Kosmetik
+shop: beauty
 ---

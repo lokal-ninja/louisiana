@@ -1,5 +1,5 @@
 ---
 title: "Michael's Seafood"
 url: /hammond/michaels-seafood/
-shop: Fisch
+shop: seafood
 ---

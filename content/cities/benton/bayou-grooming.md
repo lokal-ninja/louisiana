@@ -1,5 +1,5 @@
 ---
 title: "Bayou Grooming"
 url: /benton/bayou-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

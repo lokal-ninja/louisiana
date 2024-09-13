@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /slidell/ross/
-shop: Warenhaus
+shop: department store
 ---

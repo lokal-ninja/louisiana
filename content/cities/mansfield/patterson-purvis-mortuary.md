@@ -1,5 +1,5 @@
 ---
 title: "Patterson Purvis Mortuary"
 url: /mansfield/patterson-purvis-mortuary/
-shop: Bestattungen
+shop: funeral directors
 ---

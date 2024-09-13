@@ -1,5 +1,5 @@
 ---
 title: "Sherry's Beauty Salon"
 url: /shreveport/sherrys-beauty-salon/
-shop: Kosmetik
+shop: beauty
 ---

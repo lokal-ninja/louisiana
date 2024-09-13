@@ -1,5 +1,5 @@
 ---
 title: "Flowmaster Inc"
 url: /baton-rouge/flowmaster-inc/
-shop: Baustoffe
+shop: trade
 ---

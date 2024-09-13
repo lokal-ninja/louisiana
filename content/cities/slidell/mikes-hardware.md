@@ -1,5 +1,5 @@
 ---
 title: "Mike's Hardware"
 url: /slidell/mikes-hardware/
-shop: Eisenwaren
+shop: hardware
 ---

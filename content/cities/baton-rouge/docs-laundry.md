@@ -1,5 +1,5 @@
 ---
 title: "Doc's Laundry"
 url: /baton-rouge/docs-laundry/
-shop: Wäscherei
+shop: laundry
 ---

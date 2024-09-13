@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /lafayette/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /ville-platte/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

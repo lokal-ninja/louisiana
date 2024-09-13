@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /baton-rouge/walgreens-perkins-road/
-shop: Drogerie
+shop: chemist
 ---

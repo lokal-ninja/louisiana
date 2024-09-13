@@ -1,5 +1,5 @@
 ---
 title: "Audibel The Hearing Center"
 url: /monroe/audibel-the-hearing-center/
-shop: Hörgeräte
+shop: hearing aids
 ---

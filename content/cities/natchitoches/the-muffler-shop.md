@@ -1,5 +1,5 @@
 ---
 title: "The Muffler Shop"
 url: /natchitoches/the-muffler-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

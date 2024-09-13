@@ -1,5 +1,5 @@
 ---
 title: "Blancos Tires"
 url: /baton-rouge/blancos-tires/
-shop: Reifen
+shop: tyres
 ---

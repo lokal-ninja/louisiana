@@ -1,5 +1,5 @@
 ---
 title: "Polaris of Ruston"
 url: /ruston/polaris-of-ruston/
-shop: Motorrad
+shop: motorcycle
 ---

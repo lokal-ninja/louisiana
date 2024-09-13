@@ -1,5 +1,5 @@
 ---
 title: "Amberleys"
 url: /ruston/amberleys/
-shop: Friseur
+shop: hairdresser
 ---

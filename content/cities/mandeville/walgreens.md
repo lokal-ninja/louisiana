@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /mandeville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

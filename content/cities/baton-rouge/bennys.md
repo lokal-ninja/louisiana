@@ -1,5 +1,5 @@
 ---
 title: "Benny's"
 url: /baton-rouge/bennys/
-shop: Autowerkstatt
+shop: car repair
 ---

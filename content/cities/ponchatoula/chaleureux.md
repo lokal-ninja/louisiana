@@ -1,5 +1,5 @@
 ---
 title: "Chaleureux"
 url: /ponchatoula/chaleureux/
-shop: Raumausstattung
+shop: interior decoration
 ---

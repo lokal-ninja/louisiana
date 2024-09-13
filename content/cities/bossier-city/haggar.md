@@ -1,5 +1,5 @@
 ---
 title: "Haggar"
 url: /bossier-city/haggar/
-shop: Kleidung
+shop: clothes
 ---

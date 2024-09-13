@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /metairie/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

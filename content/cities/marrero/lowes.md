@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
 url: /marrero/lowes/
-shop: Baumarkt
+shop: doityourself
 ---

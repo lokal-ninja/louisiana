@@ -1,5 +1,5 @@
 ---
 title: "Cormie's Grocery"
 url: /lake-charles/cormies-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

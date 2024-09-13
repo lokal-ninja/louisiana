@@ -1,5 +1,5 @@
 ---
 title: "Kangaroo Express"
 url: /shreveport/kangaroo-express/
-shop: Lebensmittel
+shop: convenience
 ---

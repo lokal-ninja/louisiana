@@ -1,5 +1,5 @@
 ---
 title: "Opelousas Radiator Services"
 url: /opelousas/opelousas-radiator-services/
-shop: Autowerkstatt
+shop: car repair
 ---

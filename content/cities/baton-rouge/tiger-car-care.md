@@ -1,5 +1,5 @@
 ---
 title: "Tiger Car Care"
 url: /baton-rouge/tiger-car-care/
-shop: Autowerkstatt
+shop: car repair
 ---

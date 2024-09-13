@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /bossier-city/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

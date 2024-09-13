@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /baton-rouge/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

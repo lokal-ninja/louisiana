@@ -1,5 +1,5 @@
 ---
 title: "SpeeDee"
 url: /metairie/speedee/
-shop: Autowerkstatt
+shop: car repair
 ---

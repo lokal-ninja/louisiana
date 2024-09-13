@@ -1,5 +1,5 @@
 ---
 title: "Ideal Market"
 url: /metairie/ideal-market/
-shop: Supermarkt
+shop: supermarket
 ---

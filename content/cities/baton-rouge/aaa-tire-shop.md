@@ -1,5 +1,5 @@
 ---
 title: "AAA Tire Shop"
 url: /baton-rouge/aaa-tire-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

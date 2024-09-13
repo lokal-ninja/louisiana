@@ -1,5 +1,5 @@
 ---
 title: "All About U"
 url: /metairie/all-about-u/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Neo Automotive, LLC"
 url: /kenner/neo-automotive-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

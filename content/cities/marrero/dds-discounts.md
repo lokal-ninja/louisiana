@@ -1,5 +1,5 @@
 ---
 title: "dd's Discounts"
 url: /marrero/dds-discounts/
-shop: Warenhaus
+shop: department store
 ---

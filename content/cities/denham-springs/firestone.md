@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /denham-springs/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

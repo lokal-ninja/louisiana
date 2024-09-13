@@ -1,5 +1,5 @@
 ---
 title: "Discount Auto Parts Depot"
 url: /shreveport/discount-auto-parts-depot/
-shop: Autoteile
+shop: car parts
 ---

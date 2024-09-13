@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /lafayette/kohls/
-shop: Warenhaus
+shop: department store
 ---

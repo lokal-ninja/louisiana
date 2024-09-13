@@ -1,5 +1,5 @@
 ---
 title: "Trinity Diamonds Direct"
 url: /west-monroe/trinity-diamonds-direct/
-shop: Schmuck
+shop: jewelry
 ---

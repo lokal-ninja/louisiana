@@ -1,5 +1,5 @@
 ---
 title: "Southpaw Sports"
 url: /baton-rouge/southpaw-sports/
-shop: Sammler
+shop: collector
 ---

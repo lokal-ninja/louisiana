@@ -1,5 +1,5 @@
 ---
 title: "Man Cave Archery"
 url: /bentley/man-cave-archery/
-shop: Waffen
+shop: weapons
 ---

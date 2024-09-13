@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /bossier-city/cricket-wireless-airline-drive/
-shop: Handy
+shop: mobile phone
 ---

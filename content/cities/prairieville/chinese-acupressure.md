@@ -1,5 +1,5 @@
 ---
 title: "Chinese Acupressure"
 url: /prairieville/chinese-acupressure/
-shop: Massage
+shop: massage
 ---

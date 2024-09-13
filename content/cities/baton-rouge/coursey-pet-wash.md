@@ -1,5 +1,5 @@
 ---
 title: "Coursey Pet Wash"
 url: /baton-rouge/coursey-pet-wash/
-shop: Tiersalon
+shop: pet grooming
 ---

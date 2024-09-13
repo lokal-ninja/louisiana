@@ -1,5 +1,5 @@
 ---
 title: "Clint's Garage"
 url: /baton-rouge/clints-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

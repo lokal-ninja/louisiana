@@ -1,5 +1,5 @@
 ---
 title: "Gerry Lane"
 url: /saint-francisville/gerry-lane/
-shop: Autohaus
+shop: car
 ---

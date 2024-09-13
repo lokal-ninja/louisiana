@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /columbia/brookshires/
-shop: Supermarkt
+shop: supermarket
 ---

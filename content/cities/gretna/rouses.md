@@ -1,5 +1,5 @@
 ---
 title: "Rouses"
 url: /gretna/rouses/
-shop: Supermarkt
+shop: supermarket
 ---

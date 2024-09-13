@@ -1,5 +1,5 @@
 ---
 title: "Brookshire's"
 url: /shreveport/brookshires-pines-road/
-shop: Supermarkt
+shop: supermarket
 ---

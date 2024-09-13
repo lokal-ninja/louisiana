@@ -1,5 +1,5 @@
 ---
 title: "SoSis Boutique"
 url: /port-allen/sosis-boutique/
-shop: Supermarkt
+shop: supermarket
 ---

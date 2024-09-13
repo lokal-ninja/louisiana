@@ -1,5 +1,5 @@
 ---
 title: "Life Storage"
 url: /baton-rouge/life-storage-airline-highway/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Humidity"
 url: /new-orleans/humidity/
-shop: Sport
+shop: sports
 ---

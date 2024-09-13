@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /hammond/target/
-shop: Warenhaus
+shop: department store
 ---

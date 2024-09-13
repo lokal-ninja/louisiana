@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /baton-rouge/family-dollar-government-street/
-shop: Kramladen
+shop: variety store
 ---

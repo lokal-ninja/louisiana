@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /baton-rouge/ross/
-shop: Warenhaus
+shop: department store
 ---

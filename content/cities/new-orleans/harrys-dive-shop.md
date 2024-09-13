@@ -1,5 +1,5 @@
 ---
 title: "Harry's Dive Shop"
 url: /new-orleans/harrys-dive-shop/
-shop: Tauchen
+shop: diving
 ---

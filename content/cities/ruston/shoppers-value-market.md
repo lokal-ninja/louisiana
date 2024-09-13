@@ -1,5 +1,5 @@
 ---
 title: "Shoppers Value Market"
 url: /ruston/shoppers-value-market/
-shop: Supermarkt
+shop: supermarket
 ---

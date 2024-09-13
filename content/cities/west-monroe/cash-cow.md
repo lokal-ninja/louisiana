@@ -1,5 +1,5 @@
 ---
 title: "Cash Cow"
 url: /west-monroe/cash-cow/
-shop: Leiher
+shop: pawnbroker
 ---

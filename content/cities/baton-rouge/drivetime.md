@@ -1,5 +1,5 @@
 ---
 title: "DriveTime"
 url: /baton-rouge/drivetime/
-shop: Autohaus
+shop: car
 ---

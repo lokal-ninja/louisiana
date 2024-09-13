@@ -1,5 +1,5 @@
 ---
 title: "AutoModz"
 url: /prairieville/automodz/
-shop: Autowerkstatt
+shop: car repair
 ---

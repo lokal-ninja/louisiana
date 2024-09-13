@@ -1,5 +1,5 @@
 ---
 title: "Big John's Landing"
 url: /prairieville/big-johns-landing/
-shop: Mieten
+shop: storage rental
 ---

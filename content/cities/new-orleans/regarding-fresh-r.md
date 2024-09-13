@@ -1,5 +1,5 @@
 ---
 title: "Regarding Fresh ®"
 url: /new-orleans/regarding-fresh-r/
-shop: Kleidung
+shop: clothes
 ---

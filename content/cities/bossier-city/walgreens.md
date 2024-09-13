@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /bossier-city/walgreens/
-shop: Drogerie
+shop: chemist
 ---

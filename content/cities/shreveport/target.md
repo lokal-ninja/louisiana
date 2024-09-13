@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /shreveport/target/
-shop: Warenhaus
+shop: department store
 ---

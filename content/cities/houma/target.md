@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /houma/target/
-shop: Warenhaus
+shop: department store
 ---

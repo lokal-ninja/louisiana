@@ -1,5 +1,5 @@
 ---
 title: "American Mattress Outlet"
 url: /west-monroe/american-mattress-outlet/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /metairie/walgreens/
-shop: Drogerie
+shop: chemist
 ---

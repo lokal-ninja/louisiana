@@ -1,5 +1,5 @@
 ---
 title: "Optimum"
 url: /ruston/optimum/
-shop: Handy
+shop: mobile phone
 ---

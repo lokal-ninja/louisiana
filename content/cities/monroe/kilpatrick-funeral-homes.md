@@ -1,5 +1,5 @@
 ---
 title: "Kilpatrick Funeral Homes"
 url: /monroe/kilpatrick-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

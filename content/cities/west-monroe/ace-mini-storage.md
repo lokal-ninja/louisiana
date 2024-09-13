@@ -1,5 +1,5 @@
 ---
 title: "Ace Mini Storage"
 url: /west-monroe/ace-mini-storage/
-shop: Mieten
+shop: storage rental
 ---

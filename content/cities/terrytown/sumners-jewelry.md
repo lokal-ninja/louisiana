@@ -1,5 +1,5 @@
 ---
 title: "Sumner's Jewelry"
 url: /terrytown/sumners-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /covington/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

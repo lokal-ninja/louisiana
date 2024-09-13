@@ -1,5 +1,5 @@
 ---
 title: "APS"
 url: /metairie/aps/
-shop: Sicherheit
+shop: security
 ---

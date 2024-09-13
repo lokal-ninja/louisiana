@@ -1,5 +1,5 @@
 ---
 title: "Discount Tire"
 url: /baton-rouge/discount-tire/
-shop: Reifen
+shop: tyres
 ---

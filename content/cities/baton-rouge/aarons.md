@@ -1,5 +1,5 @@
 ---
 title: "Aaron's"
 url: /baton-rouge/aarons/
-shop: Möbel
+shop: furniture
 ---

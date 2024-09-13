@@ -1,5 +1,5 @@
 ---
 title: "Winn-Dixie"
 url: /la-place/winn-dixie/
-shop: Supermarkt
+shop: supermarket
 ---

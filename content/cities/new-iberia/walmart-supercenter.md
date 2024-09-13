@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /new-iberia/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

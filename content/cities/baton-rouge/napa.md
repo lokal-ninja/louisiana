@@ -1,5 +1,5 @@
 ---
 title: "NAPA"
 url: /baton-rouge/napa/
-shop: Autoteile
+shop: car parts
 ---

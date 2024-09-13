@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /metairie/autozone/
-shop: Autoteile
+shop: car parts
 ---

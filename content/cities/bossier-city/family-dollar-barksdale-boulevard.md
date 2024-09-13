@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /bossier-city/family-dollar-barksdale-boulevard/
-shop: Kramladen
+shop: variety store
 ---

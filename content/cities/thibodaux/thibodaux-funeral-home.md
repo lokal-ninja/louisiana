@@ -1,5 +1,5 @@
 ---
 title: "Thibodaux Funeral Home"
 url: /thibodaux/thibodaux-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

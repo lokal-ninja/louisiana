@@ -1,5 +1,5 @@
 ---
 title: "Glass Services"
 url: /bossier-city/glass-services/
-shop: Autowerkstatt
+shop: car repair
 ---

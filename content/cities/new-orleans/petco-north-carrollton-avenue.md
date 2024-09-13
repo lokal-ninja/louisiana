@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /new-orleans/petco-north-carrollton-avenue/
-shop: Tiere
+shop: pet
 ---

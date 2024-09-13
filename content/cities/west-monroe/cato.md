@@ -1,5 +1,5 @@
 ---
 title: "Cato"
 url: /west-monroe/cato/
-shop: Kleidung
+shop: clothes
 ---

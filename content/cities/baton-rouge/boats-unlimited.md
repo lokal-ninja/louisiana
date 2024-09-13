@@ -1,5 +1,5 @@
 ---
 title: "Boats Unlimited"
 url: /baton-rouge/boats-unlimited/
-shop: Boot
+shop: boat
 ---

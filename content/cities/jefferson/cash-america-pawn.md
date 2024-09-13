@@ -1,5 +1,5 @@
 ---
 title: "Cash America Pawn"
 url: /jefferson/cash-america-pawn/
-shop: Leiher
+shop: pawnbroker
 ---

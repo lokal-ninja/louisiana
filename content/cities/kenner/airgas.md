@@ -1,5 +1,5 @@
 ---
 title: "Airgas"
 url: /kenner/airgas/
-shop: Gasflaschen
+shop: gas
 ---

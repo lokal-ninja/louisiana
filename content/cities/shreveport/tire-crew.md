@@ -1,5 +1,5 @@
 ---
 title: "Tire Crew"
 url: /shreveport/tire-crew/
-shop: Reifen
+shop: tyres
 ---

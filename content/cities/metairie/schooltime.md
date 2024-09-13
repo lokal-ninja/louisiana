@@ -1,5 +1,5 @@
 ---
 title: "Schooltime"
 url: /metairie/schooltime/
-shop: Kleidung
+shop: clothes
 ---

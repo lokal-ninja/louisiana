@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /monroe/saloncentric/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jubilee"
 url: /pearl-river/jubilee/
-shop: Supermarkt
+shop: supermarket
 ---

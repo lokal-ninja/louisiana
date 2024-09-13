@@ -1,5 +1,5 @@
 ---
 title: "Southeast Tire"
 url: /baton-rouge/southeast-tire/
-shop: Reifen
+shop: tyres
 ---

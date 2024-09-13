@@ -1,5 +1,5 @@
 ---
 title: "Cryers Sports"
 url: /leesville/cryers-sports/
-shop: Kramladen
+shop: variety store
 ---

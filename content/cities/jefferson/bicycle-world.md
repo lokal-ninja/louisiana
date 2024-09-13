@@ -1,5 +1,5 @@
 ---
 title: "Bicycle World"
 url: /jefferson/bicycle-world/
-shop: Fahrrad
+shop: bicycle
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SpeeDee"
 url: /kenner/speedee/
-shop: Autowerkstatt
+shop: car repair
 ---
