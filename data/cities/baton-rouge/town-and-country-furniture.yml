@@ -1,11 +1,11 @@
 id: 1214454577
-type: way
+type: node
 latitude: 30.49403
 longitude: -91.12423
 postcode: "70805"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 6545
-phone: "+1-225-355-6666"
+street: Airline Highway
+housenumber: "6545"
+phone: +1-225-355-6666
 opening_hours: ""
-website: "https://tcfurniture.com/"
+website: https://tcfurniture.com/

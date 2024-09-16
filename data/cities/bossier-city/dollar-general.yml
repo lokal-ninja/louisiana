@@ -1,11 +1,11 @@
 id: 978869321
-type: way
+type: node
 latitude: 32.50831
 longitude: -93.70469
 postcode: "71112"
 city: Bossier City
-street: "Barksdale Boulevard"
-housenumber: 2314
+street: Barksdale Boulevard
+housenumber: "2314"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/la/bossier-city/4748"
+website: https://www.dollargeneral.com/store-directory/la/bossier-city/4748

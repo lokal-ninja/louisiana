@@ -1,11 +1,11 @@
 id: 177667927
-type: way
+type: node
 latitude: 30.44008
 longitude: -90.07925
 postcode: "70433"
 city: Covington
-street: "Park Place Drive"
-housenumber: 45
-phone: "+1 985-875-0466"
-opening_hours: "Mo-Sa 09:00-21:00, Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/la/covington-store0635.html"
+street: Park Place Drive
+housenumber: "45"
+phone: +1 985-875-0466
+opening_hours: Mo-Sa 09:00-21:00, Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/la/covington-store0635.html

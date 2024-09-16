@@ -1,11 +1,11 @@
 id: 1235140255
-type: way
+type: node
 latitude: 30.62382
 longitude: -90.18527
 postcode: "70437"
 city: Folsom
-street: "LA-25"
-housenumber: 82088
+street: LA-25
+housenumber: "82088"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1235141156
-type: way
+type: node
 latitude: 30.41202
 longitude: -92.05835
 postcode: "70584"
 city: Sunset
-street: "Oak Tree Park Drive"
-housenumber: 122
+street: Oak Tree Park Drive
+housenumber: "122"
 phone: ""
 opening_hours: ""
 website: ""

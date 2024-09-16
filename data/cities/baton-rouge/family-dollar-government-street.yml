@@ -1,11 +1,11 @@
 id: 617005402
-type: way
+type: node
 latitude: 30.44514
 longitude: -91.15447
 postcode: "70806"
 city: Baton Rouge
-street: "Government Street"
-housenumber: 3433
-phone: "+1-225-344-3922"
-opening_hours: "Su-Sa 08:00-22:00"
-website: "https://www.familydollar.com/locations/la/baton-rouge/23922/"
+street: Government Street
+housenumber: "3433"
+phone: +1-225-344-3922
+opening_hours: Su-Sa 08:00-22:00
+website: https://www.familydollar.com/locations/la/baton-rouge/23922/

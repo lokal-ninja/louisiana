@@ -4,8 +4,8 @@ latitude: 29.96127
 longitude: -90.18742
 postcode: "70123"
 city: New Orleans
-street: "South Clearview Parkway"
-housenumber: 1200
-phone: "+1 504-734-1151"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: South Clearview Parkway
+housenumber: "1200"
+phone: +1 504-734-1151
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

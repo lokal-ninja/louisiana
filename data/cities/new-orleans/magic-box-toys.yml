@@ -4,8 +4,8 @@ latitude: 29.92099
 longitude: -90.1164
 postcode: "70115"
 city: New Orleans
-street: "Magazine Street"
-housenumber: 5508
-phone: "504-899-0117"
-opening_hours: "Mo-Sa 10:00-17:00; Su 11:00-15:00"
+street: Magazine Street
+housenumber: "5508"
+phone: 504-899-0117
+opening_hours: Mo-Sa 10:00-17:00; Su 11:00-15:00
 website: ""

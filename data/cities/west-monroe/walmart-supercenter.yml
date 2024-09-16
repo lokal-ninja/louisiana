@@ -1,11 +1,11 @@
 id: 975792871
-type: way
+type: node
 latitude: 32.50901
 longitude: -92.15435
 postcode: "71291"
 city: West Monroe
-street: "Glenwood Drive"
-housenumber: 1025
-phone: "+1 318-322-0127"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/307/west-monroe-la/whats-new"
+street: Glenwood Drive
+housenumber: "1025"
+phone: +1 318-322-0127
+opening_hours: 24/7
+website: https://www.walmart.com/store/307/west-monroe-la/whats-new

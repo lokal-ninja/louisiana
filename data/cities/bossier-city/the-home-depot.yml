@@ -1,11 +1,11 @@
 id: 978604566
-type: way
+type: node
 latitude: 32.55454
 longitude: -93.70795
 postcode: "71111"
 city: Bossier City
-street: "Airline Drive"
-housenumber: 2800
-phone: "+1 318-752-3601"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/bossier-city/la/bossier-city/71111/364"
+street: Airline Drive
+housenumber: "2800"
+phone: +1 318-752-3601
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/bossier-city/la/bossier-city/71111/364

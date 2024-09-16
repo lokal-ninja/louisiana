@@ -1,11 +1,11 @@
 id: 630314250
-type: way
+type: node
 latitude: 29.98766
 longitude: -91.82706
 postcode: "70560"
 city: New Iberia
-street: "East Admiral Doyle Drive"
-housenumber: 724
-phone: "(337) 962-4635"
+street: East Admiral Doyle Drive
+housenumber: "724"
+phone: (337) 962-4635
 opening_hours: ""
 website: ""

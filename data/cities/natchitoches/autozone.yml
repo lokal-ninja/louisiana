@@ -1,11 +1,11 @@
 id: 190615279
-type: way
+type: node
 latitude: 31.7529
 longitude: -93.07582
 postcode: ""
 city: Natchitoches
-street: "Keyser Ave"
-housenumber: 605
+street: Keyser Ave
+housenumber: "605"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/la/natchitoches/605-keyser-ave.html"
+website: https://www.autozone.com/locations/la/natchitoches/605-keyser-ave.html

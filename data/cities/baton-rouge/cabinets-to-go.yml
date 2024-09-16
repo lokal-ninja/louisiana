@@ -1,11 +1,11 @@
 id: 357854297
-type: way
+type: node
 latitude: 30.4655
 longitude: -91.10421
 postcode: "70815"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 8055
-phone: "+1-225-319-5975"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://cabinetstogo.com/pages/baton-rouge-la"
+street: Airline Highway
+housenumber: "8055"
+phone: +1-225-319-5975
+opening_hours: Mo-Sa 09:00-18:00
+website: https://cabinetstogo.com/pages/baton-rouge-la

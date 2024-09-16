@@ -1,11 +1,11 @@
 id: 1099889044
-type: way
+type: node
 latitude: 30.40865
 longitude: -91.01886
 postcode: "70817"
 city: Baton Rouge
-street: "Coursey Boulevard"
-housenumber: 14335
+street: Coursey Boulevard
+housenumber: "14335"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

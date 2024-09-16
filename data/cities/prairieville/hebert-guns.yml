@@ -1,11 +1,11 @@
 id: 829477094
-type: way
+type: node
 latitude: 30.32738
 longitude: -90.98028
 postcode: "70769"
 city: Prairieville
-street: "Airline Highway"
-housenumber: 17400
-phone: "225-673-1850"
+street: Airline Highway
+housenumber: "17400"
+phone: 225-673-1850
 opening_hours: ""
 website: ""

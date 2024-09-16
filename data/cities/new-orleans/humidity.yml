@@ -4,8 +4,8 @@ latitude: 29.95862
 longitude: -90.06166
 postcode: "70116"
 city: New Orleans
-street: "Dumaine Street"
-housenumber: 515
-phone: "+1-504-529-6822"
-opening_hours: "Mo-Sa 11:00-19:00; Su 12:00-18:00"
-website: "https://www.humiditynola.com"
+street: Dumaine Street
+housenumber: "515"
+phone: +1-504-529-6822
+opening_hours: Mo-Sa 11:00-19:00; Su 12:00-18:00
+website: https://www.humiditynola.com

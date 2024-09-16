@@ -1,11 +1,11 @@
 id: 833953029
-type: way
+type: node
 latitude: 32.55103
 longitude: -93.70711
 postcode: "71111"
 city: Bossier City
-street: "George Dement Boulevard"
-housenumber: 1050
+street: George Dement Boulevard
+housenumber: "1050"
 phone: ""
 opening_hours: ""
-website: "https://www.kroger.com/stores/grocery/la/bossier-city/airline/035/00534"
+website: https://www.kroger.com/stores/grocery/la/bossier-city/airline/035/00534

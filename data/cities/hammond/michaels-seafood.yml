@@ -1,11 +1,11 @@
 id: 1032762494
-type: way
+type: node
 latitude: 30.49143
 longitude: -90.48238
 postcode: "70403"
 city: Hammond
-street: "South Morrison Boulevard"
-housenumber: 927
+street: South Morrison Boulevard
+housenumber: "927"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 30.00717
 longitude: -90.25243
 postcode: "70062"
 city: Kenner
-street: "Veterans Memorial Blvd, #4"
-housenumber: 1210
-phone: "504-469-9111"
+street: 'Veterans Memorial Blvd, #4'
+housenumber: "1210"
+phone: 504-469-9111
 opening_hours: ""
-website: "http://reamestrophies.com"
+website: http://reamestrophies.com

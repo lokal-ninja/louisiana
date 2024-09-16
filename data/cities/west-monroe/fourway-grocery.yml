@@ -4,8 +4,8 @@ latitude: 32.41331
 longitude: -92.2351
 postcode: "71292"
 city: West Monroe
-street: "LA-34"
-housenumber: 104
-phone: "(318) 323-6786"
-opening_hours: "Mo-Su 06:00-24:00"
+street: LA-34
+housenumber: "104"
+phone: (318) 323-6786
+opening_hours: Mo-Su 06:00-24:00
 website: ""

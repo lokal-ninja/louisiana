@@ -1,11 +1,11 @@
 id: 1056885742
-type: way
+type: node
 latitude: 32.53554
 longitude: -92.10832
 postcode: "71201"
 city: Monroe
-street: "Justice Street"
-housenumber: 2108
-phone: "(318) 322-6032"
-opening_hours: "Mo-Fr 09:00-17:30, Sa 09:00-15:00"
+street: Justice Street
+housenumber: "2108"
+phone: (318) 322-6032
+opening_hours: Mo-Fr 09:00-17:30, Sa 09:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 979455189
-type: way
+type: node
 latitude: 32.51732
 longitude: -93.71293
 postcode: "71111"
 city: Bossier City
-street: "Old Minden Road"
-housenumber: 1975
+street: Old Minden Road
+housenumber: "1975"
 phone: ""
 opening_hours: ""
 website: ""

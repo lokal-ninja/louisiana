@@ -4,8 +4,8 @@ latitude: 29.90514
 longitude: -90.05403
 postcode: "70053"
 city: Gretna
-street: "19th St"
-housenumber: 509
-phone: "504-366-6574"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://jacobsensautomotive.com"
+street: 19th St
+housenumber: "509"
+phone: 504-366-6574
+opening_hours: Mo-Fr 08:00-17:00
+website: https://jacobsensautomotive.com

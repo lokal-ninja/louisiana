@@ -1,11 +1,11 @@
 id: 909133189
-type: way
+type: node
 latitude: 30.15372
 longitude: -93.21301
 postcode: ""
 city: Lake Charles
-street: "Common Street"
-housenumber: 5959
+street: Common Street
+housenumber: "5959"
 phone: ""
 opening_hours: ""
 website: ""

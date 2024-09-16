@@ -1,11 +1,11 @@
 id: 1209629743
-type: way
+type: node
 latitude: 30.464
 longitude: -91.05777
 postcode: "70815"
 city: Baton Rouge
-street: "North Sherwood Forest Drive"
-housenumber: 1654
-phone: "+1-225-508-4505"
-opening_hours: "Su 11:00-18:00; Mo-Sa 09:00-20:00"
-website: "https://botasyenvioslopez.com/"
+street: North Sherwood Forest Drive
+housenumber: "1654"
+phone: +1-225-508-4505
+opening_hours: Su 11:00-18:00; Mo-Sa 09:00-20:00
+website: https://botasyenvioslopez.com/

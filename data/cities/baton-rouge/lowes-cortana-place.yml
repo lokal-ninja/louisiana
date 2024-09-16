@@ -1,11 +1,11 @@
 id: 175506665
-type: way
+type: node
 latitude: 30.46293
 longitude: -91.09377
 postcode: "70815"
 city: Baton Rouge
-street: "Cortana Place"
-housenumber: 9460
-phone: "+1 225-928-7200"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/LA-Baton-Rouge/0461"
+street: Cortana Place
+housenumber: "9460"
+phone: +1 225-928-7200
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.lowes.com/store/LA-Baton-Rouge/0461

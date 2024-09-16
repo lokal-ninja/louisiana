@@ -1,11 +1,11 @@
 id: 1124837476
-type: way
+type: node
 latitude: 30.77969
 longitude: -91.37635
 postcode: "70775"
 city: Saint Francisville
-street: "Ferdinand Street"
-housenumber: 11952
+street: Ferdinand Street
+housenumber: "11952"
 phone: ""
 opening_hours: ""
 website: ""

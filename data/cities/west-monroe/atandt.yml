@@ -1,11 +1,11 @@
 id: 963022883
-type: way
+type: node
 latitude: 32.51146
 longitude: -92.15813
 postcode: "71291"
 city: West Monroe
-street: "Thomas Road"
-housenumber: 208
+street: Thomas Road
+housenumber: "208"
 phone: ""
 opening_hours: ""
 website: ""

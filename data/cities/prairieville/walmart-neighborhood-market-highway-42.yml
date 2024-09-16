@@ -1,11 +1,11 @@
 id: 1197863216
-type: way
+type: node
 latitude: 30.32377
 longitude: -90.92109
 postcode: "70769"
 city: Prairieville
-street: "Highway 42"
-housenumber: 40567
-phone: "+1 225-622-4200"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4048/prairieville-la/whats-new"
+street: Highway 42
+housenumber: "40567"
+phone: +1 225-622-4200
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4048/prairieville-la/whats-new

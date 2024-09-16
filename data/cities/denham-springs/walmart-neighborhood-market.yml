@@ -1,11 +1,11 @@
 id: 700380011
-type: way
+type: node
 latitude: 30.44424
 longitude: -90.94519
 postcode: "70726"
 city: Denham Springs
-street: "DK Harris Lane"
-housenumber: 25820
-phone: "+1 225-369-6924"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/7241-denham-springs-la"
+street: DK Harris Lane
+housenumber: "25820"
+phone: +1 225-369-6924
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/7241-denham-springs-la

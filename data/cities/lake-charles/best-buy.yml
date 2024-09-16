@@ -1,11 +1,11 @@
 id: 1293507271
-type: way
+type: node
 latitude: 30.19804
 longitude: -93.23132
 postcode: "70601"
 city: Lake Charles
-street: "West Prien Lake Road"
-housenumber: 715
-phone: "+1 337-474-1196"
+street: West Prien Lake Road
+housenumber: "715"
+phone: +1 337-474-1196
 opening_hours: ""
-website: "https://stores.bestbuy.com/la/lake-charles/715-w-prien-lake-rd-1080.html"
+website: https://stores.bestbuy.com/la/lake-charles/715-w-prien-lake-rd-1080.html

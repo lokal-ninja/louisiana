@@ -1,11 +1,11 @@
 id: 827969548
-type: way
+type: node
 latitude: 30.3617
 longitude: -91.00636
 postcode: "70817"
 city: Baton Rouge
-street: "Highland Road"
-housenumber: 20321
-phone: "(225)325-7070"
-opening_hours: "Su-Sa 7:00-21:00"
-website: "https://www.dollargeneral.com/store-directory/la/baton-rouge/6590"
+street: Highland Road
+housenumber: "20321"
+phone: (225)325-7070
+opening_hours: Su-Sa 7:00-21:00
+website: https://www.dollargeneral.com/store-directory/la/baton-rouge/6590

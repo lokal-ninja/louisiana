@@ -1,11 +1,11 @@
 id: 608387276
-type: way
+type: node
 latitude: 32.54512
 longitude: -92.63761
 postcode: "71270"
 city: Ruston
-street: "North Trenton Street"
-housenumber: 1500
-phone: "+1-318-254-1445"
-opening_hours: "24/7"
+street: North Trenton Street
+housenumber: "1500"
+phone: +1-318-254-1445
+opening_hours: 24/7
 website: ""

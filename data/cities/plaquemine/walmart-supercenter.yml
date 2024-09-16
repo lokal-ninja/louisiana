@@ -1,11 +1,11 @@
 id: 998584528
-type: way
+type: node
 latitude: 30.26443
-longitude: -91.25467
+longitude: -91.25468
 postcode: "70764"
 city: Plaquemine
-street: "Belleview Drive"
-housenumber: 59690
-phone: "+1 225-687-2550"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/401/plaquemine-la/whats-new"
+street: Belleview Drive
+housenumber: "59690"
+phone: +1 225-687-2550
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/401/plaquemine-la/whats-new

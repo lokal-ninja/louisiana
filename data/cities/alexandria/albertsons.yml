@@ -4,8 +4,8 @@ latitude: 31.27417
 longitude: -92.4634
 postcode: "71301"
 city: Alexandria
-street: "South MacArthur Drive"
-housenumber: 2265
-phone: "+1 318-487-9395"
-opening_hours: "Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00"
-website: "https://local.albertsons.com/la/alexandria/2265-s-macarthur-dr.html"
+street: South MacArthur Drive
+housenumber: "2265"
+phone: +1 318-487-9395
+opening_hours: Mo-Fr 06:00-23:00; Sa 06:00-23:00; Su 06:00-23:00
+website: https://local.albertsons.com/la/alexandria/2265-s-macarthur-dr.html

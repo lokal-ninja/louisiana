@@ -1,11 +1,11 @@
 id: 1032478308
-type: way
+type: node
 latitude: 30.93944
 longitude: -90.51041
 postcode: "70444"
 city: Kentwood
-street: "Avenue E"
-housenumber: 307
+street: Avenue E
+housenumber: "307"
 phone: ""
 opening_hours: ""
 website: ""

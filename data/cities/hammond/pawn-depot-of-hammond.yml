@@ -1,11 +1,11 @@
 id: 1032763370
-type: way
+type: node
 latitude: 30.51715
 longitude: -90.4836
 postcode: "70401"
 city: Hammond
-street: "North Morrison Boulevard"
-housenumber: 1803
+street: North Morrison Boulevard
+housenumber: "1803"
 phone: ""
 opening_hours: ""
-website: "https://www.pawndepot.net/"
+website: https://www.pawndepot.net/

@@ -1,11 +1,11 @@
 id: 1065005577
-type: way
+type: node
 latitude: 29.91885
 longitude: -90.05133
 postcode: "70053"
 city: Gretna
-street: "Westbank Expressway"
-housenumber: 91
-phone: "+1-504-267-9090"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.rouses.com/locations/rouses-market-49/"
+street: Westbank Expressway
+housenumber: "91"
+phone: +1-504-267-9090
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.rouses.com/locations/rouses-market-49/

@@ -1,11 +1,11 @@
 id: 1075140896
-type: way
+type: node
 latitude: 32.53444
 longitude: -92.62337
 postcode: "71270"
 city: Ruston
-street: "Farmerville Highway"
-housenumber: 1103
-phone: "+1-318-224-2665"
+street: Farmerville Highway
+housenumber: "1103"
+phone: +1-318-224-2665
 opening_hours: ""
-website: "https://rhmbookstore.com/"
+website: https://rhmbookstore.com/

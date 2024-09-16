@@ -1,11 +1,11 @@
 id: 868469319
-type: way
+type: node
 latitude: 31.56682
 longitude: -93.48944
 postcode: ""
 city: Many
-street: "San Antonio Avenue"
-housenumber: 280
+street: San Antonio Avenue
+housenumber: "280"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-280+san+antonio+ave-many-la-71449/id=12306"
+website: https://www.walgreens.com/locator/walgreens-280+san+antonio+ave-many-la-71449/id=12306

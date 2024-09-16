@@ -1,11 +1,11 @@
 id: 1208201804
-type: way
+type: node
 latitude: 30.40773
 longitude: -91.05107
 postcode: "70816"
 city: Baton Rouge
-street: "South Sherwood Forest Boulevard"
-housenumber: 5151
-phone: "+1-225-295-1333"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00"
-website: "https://www.la-z-boy.com/baton-rouge/baton-rouge"
+street: South Sherwood Forest Boulevard
+housenumber: "5151"
+phone: +1-225-295-1333
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00
+website: https://www.la-z-boy.com/baton-rouge/baton-rouge

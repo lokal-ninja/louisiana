@@ -1,11 +1,11 @@
 id: 346181931
-type: way
+type: node
 latitude: 32.53026
 longitude: -92.63727
 postcode: "71270"
 city: Ruston
-street: "North Bonner Street"
-housenumber: 209
+street: North Bonner Street
+housenumber: "209"
 phone: ""
 opening_hours: ""
 website: ""

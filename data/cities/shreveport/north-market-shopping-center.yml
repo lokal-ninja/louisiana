@@ -1,11 +1,11 @@
 id: 1017558882
-type: way
+type: node
 latitude: 32.54374
 longitude: -93.77451
 postcode: "71107"
 city: Shreveport
-street: "Nelson Street"
-housenumber: 2031
+street: Nelson Street
+housenumber: "2031"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1185536935
-type: way
+type: node
 latitude: 32.51685
 longitude: -92.1718
 postcode: "71291"
 city: West Monroe
-street: "Cypress Street"
-housenumber: 4326
-phone: "(318) 397-7171"
-opening_hours: "Mo-Fr 07:30-17:30, Sa 09:00-15:00"
-website: "https://www.golsonsonline.com/"
+street: Cypress Street
+housenumber: "4326"
+phone: (318) 397-7171
+opening_hours: Mo-Fr 07:30-17:30, Sa 09:00-15:00
+website: https://www.golsonsonline.com/

@@ -4,8 +4,8 @@ latitude: 31.27842
 longitude: -92.47437
 postcode: "71301"
 city: Alexandria
-street: "Macarthur Drive"
-housenumber: 1804
-phone: "+1 318-443-5151"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/la/alexandria/office-depot-349"
+street: Macarthur Drive
+housenumber: "1804"
+phone: +1 318-443-5151
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/la/alexandria/office-depot-349

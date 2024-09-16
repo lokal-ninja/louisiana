@@ -1,11 +1,11 @@
 id: 1200698988
-type: way
+type: node
 latitude: 30.32229
 longitude: -90.93523
 postcode: "70769"
 city: Prairieville
-street: "Highway 42"
-housenumber: 
+street: Highway 42
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

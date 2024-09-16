@@ -1,11 +1,11 @@
 id: 677818224
-type: way
+type: node
 latitude: 32.69974
 longitude: -92.09793
 postcode: "71281"
 city: Sterlington
-street: "Highway 2"
-housenumber: 378
+street: Highway 2
+housenumber: "378"
 phone: ""
 opening_hours: ""
 website: ""

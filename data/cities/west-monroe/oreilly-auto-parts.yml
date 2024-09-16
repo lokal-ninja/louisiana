@@ -1,11 +1,11 @@
 id: 992504513
-type: way
+type: node
 latitude: 32.51787
 longitude: -92.1532
 postcode: "71291"
 city: West Monroe
-street: "Cypress Street"
-housenumber: 3014
-phone: "(318) 388-2042"
-opening_hours: "Mo-Sa 07:00-21:00, Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/la/westmonroe/autoparts-848.html"
+street: Cypress Street
+housenumber: "3014"
+phone: (318) 388-2042
+opening_hours: Mo-Sa 07:00-21:00, Su 08:00-20:00
+website: https://locations.oreillyauto.com/la/westmonroe/autoparts-848.html

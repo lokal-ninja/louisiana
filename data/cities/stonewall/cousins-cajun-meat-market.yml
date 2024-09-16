@@ -1,11 +1,11 @@
 id: 1071664726
-type: way
+type: node
 latitude: 32.25744
 longitude: -93.82466
 postcode: "71078"
 city: Stonewall
-street: "US 171"
-housenumber: 2070
+street: US 171
+housenumber: "2070"
 phone: ""
 opening_hours: ""
 website: ""

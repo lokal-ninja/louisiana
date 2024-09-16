@@ -1,11 +1,11 @@
 id: 1150184760
-type: way
+type: node
 latitude: 30.40415
 longitude: -91.05988
 postcode: "70816"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 10968
-phone: "225-900-7615"
+street: Airline Highway
+housenumber: "10968"
+phone: 225-900-7615
 opening_hours: ""
-website: "https://www.teammazda.com/"
+website: https://www.teammazda.com/

@@ -1,11 +1,11 @@
 id: 699821271
-type: way
+type: node
 latitude: 29.97876
 longitude: -90.21764
 postcode: "70003"
 city: Metairie
-street: "Airline Drive"
-housenumber: 7505
+street: Airline Drive
+housenumber: "7505"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/la/metairie/24082"
+website: https://www.dollargeneral.com/store-directory/la/metairie/24082

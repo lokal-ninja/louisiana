@@ -1,11 +1,11 @@
 id: 1056885747
-type: way
+type: node
 latitude: 32.53638
 longitude: -92.108
 postcode: "71201"
 city: Monroe
-street: "Justice Street"
-housenumber: 2200
-phone: "(318) 325-2363"
-opening_hours: "Mo-Th 08:30-17:00, Fr 08:30-12:00"
-website: "https://www.audibelthehearingcenter.com/"
+street: Justice Street
+housenumber: "2200"
+phone: (318) 325-2363
+opening_hours: Mo-Th 08:30-17:00, Fr 08:30-12:00
+website: https://www.audibelthehearingcenter.com/

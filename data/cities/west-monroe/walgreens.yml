@@ -1,11 +1,11 @@
 id: 963773287
-type: way
+type: node
 latitude: 32.51764
 longitude: -92.1583
 postcode: "71291"
 city: West Monroe
-street: "Cypress Street"
-housenumber: 3304
+street: Cypress Street
+housenumber: "3304"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-3304+cypress+st-west+monroe-la-71291/id=6274"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-3304+cypress+st-west+monroe-la-71291/id=6274

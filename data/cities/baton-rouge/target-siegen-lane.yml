@@ -1,11 +1,11 @@
 id: 234509003
-type: way
+type: node
 latitude: 30.38532
 longitude: -91.06066
-postcode: "70809-4528"
+postcode: 70809-4528
 city: Baton Rouge
-street: "Siegen Lane"
-housenumber: 6885
-phone: "+1 225-293-0984"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/baton-rouge-siegen/1369"
+street: Siegen Lane
+housenumber: "6885"
+phone: +1 225-293-0984
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/baton-rouge-siegen/1369

@@ -1,11 +1,11 @@
 id: 1308426510
-type: way
+type: node
 latitude: 30.57954
 longitude: -91.13215
 postcode: "70714"
 city: Baker
-street: "Plank Road"
-housenumber: 14507
-phone: "+1 225-774-2050"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1102/baker-la/whats-new"
+street: Plank Road
+housenumber: "14507"
+phone: +1 225-774-2050
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1102/baker-la/whats-new

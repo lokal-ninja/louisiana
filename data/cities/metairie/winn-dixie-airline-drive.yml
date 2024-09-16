@@ -1,11 +1,11 @@
 id: 708347337
-type: way
+type: node
 latitude: 29.97829
 longitude: -90.19782
 postcode: "70003"
 city: Metairie
-street: "Airline Drive"
-housenumber: 5901
-phone: "+1 504-734-0702"
+street: Airline Drive
+housenumber: "5901"
+phone: +1 504-734-0702
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/metairie/la?search=1411"
+website: https://www.winndixie.com/storedetails/metairie/la?search=1411

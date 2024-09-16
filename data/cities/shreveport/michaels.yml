@@ -1,11 +1,11 @@
 id: 1199691755
-type: way
+type: node
 latitude: 32.43707
 longitude: -93.718
-postcode: "71105-5536"
+postcode: 71105-5536
 city: Shreveport
-street: "Youree Drive"
-housenumber: 7440
-phone: "+1 318-524-9902"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/la/shreveport/4850"
+street: Youree Drive
+housenumber: "7440"
+phone: +1 318-524-9902
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/la/shreveport/4850

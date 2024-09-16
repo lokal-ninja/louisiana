@@ -1,11 +1,11 @@
 id: 227235154
-type: way
+type: node
 latitude: 30.37634
 longitude: -91.06592
 postcode: "70809"
 city: Baton Rouge
-street: "South Mall Drive"
-housenumber: 10303
-phone: "+1 225-291-5100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=0186"
+street: South Mall Drive
+housenumber: "10303"
+phone: +1 225-291-5100
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=0186

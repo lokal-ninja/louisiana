@@ -1,11 +1,11 @@
 id: 1027262592
-type: way
+type: node
 latitude: 32.52801
 longitude: -93.71693
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 2218
-phone: "(318) 742-6767"
-opening_hours: "Mo-Th 07:30-17:00, Fr 7:30-16:00"
-website: "https://officefurnituresource.net"
+street: East Texas Street
+housenumber: "2218"
+phone: (318) 742-6767
+opening_hours: Mo-Th 07:30-17:00, Fr 7:30-16:00
+website: https://officefurnituresource.net

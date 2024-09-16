@@ -1,11 +1,11 @@
 id: 978862866
-type: way
+type: node
 latitude: 32.51504
 longitude: -93.7347
 postcode: "71111"
 city: Bossier City
-street: "Traffic Street"
-housenumber: 221
+street: Traffic Street
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

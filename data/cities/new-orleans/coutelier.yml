@@ -4,8 +4,8 @@ latitude: 29.94875
 longitude: -90.13135
 postcode: "70118"
 city: New Orleans
-street: "Oak Street"
-housenumber: 8239
-phone: "504-475-5606"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://couteliernola.com/"
+street: Oak Street
+housenumber: "8239"
+phone: 504-475-5606
+opening_hours: Mo-Sa 10:00-18:00
+website: https://couteliernola.com/

@@ -1,11 +1,11 @@
 id: 991802366
-type: way
+type: node
 latitude: 30.65039
 longitude: -91.151
 postcode: "70797"
 city: Zachary
-street: "Church Street"
-housenumber: 5005
-phone: "+1 225-654-5030"
+street: Church Street
+housenumber: "5005"
+phone: +1 225-654-5030
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/zachary/la?search=1581"
+website: https://www.winndixie.com/storedetails/zachary/la?search=1581

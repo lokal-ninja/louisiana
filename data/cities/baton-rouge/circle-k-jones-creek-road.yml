@@ -1,11 +1,11 @@
 id: 843335561
-type: way
+type: node
 latitude: 30.40791
 longitude: -91.01581
 postcode: ""
 city: Baton Rouge
-street: "Jones Creek Road"
-housenumber: 5055
+street: Jones Creek Road
+housenumber: "5055"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

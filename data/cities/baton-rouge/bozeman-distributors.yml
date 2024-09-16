@@ -1,11 +1,11 @@
 id: 1150184786
-type: way
+type: node
 latitude: 30.40109
 longitude: -91.05723
 postcode: "70809"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 11150
-phone: "225-295-1092"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://bozemandistributors.com/honda-mowers"
+street: Airline Highway
+housenumber: "11150"
+phone: 225-295-1092
+opening_hours: Mo-Fr 07:30-16:30
+website: https://bozemandistributors.com/honda-mowers

@@ -2,10 +2,10 @@ id: 10174785493
 type: node
 latitude: 29.94045
 longitude: -90.09553
-postcode: "70125-3934"
+postcode: 70125-3934
 city: New Orleans
-street: "South Claiborne Avenue"
-housenumber: 2900
-phone: "+1 504-322-7559"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/la/new-orleans/1182"
+street: South Claiborne Avenue
+housenumber: "2900"
+phone: +1 504-322-7559
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/la/new-orleans/1182

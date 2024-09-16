@@ -1,11 +1,11 @@
 id: 920946078
-type: way
+type: node
 latitude: 29.98095
 longitude: -90.24733
 postcode: "70062"
 city: Kenner
-street: "Daniel Street"
-housenumber: 809
+street: Daniel Street
+housenumber: "809"
 phone: "+15047125333"
 opening_hours: ""
 website: ""

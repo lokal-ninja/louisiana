@@ -1,11 +1,11 @@
 id: 545729001
-type: way
+type: node
 latitude: 30.42032
 longitude: -91.07466
-postcode: "70809-2591"
+postcode: 70809-2591
 city: Baton Rouge
-street: "Dawnadele Avenue"
-housenumber: 10000
-phone: "+1 225-295-4600"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/baton-rouge-la-1172.html"
+street: Dawnadele Avenue
+housenumber: "10000"
+phone: +1 225-295-4600
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/baton-rouge-la-1172.html

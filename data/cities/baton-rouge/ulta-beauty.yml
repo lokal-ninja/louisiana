@@ -4,8 +4,8 @@ latitude: 30.43318
 longitude: -91.11361
 postcode: "70809"
 city: Baton Rouge
-street: "Corporate Boulevard"
-housenumber: 7445
-phone: "+1 225-800-3457"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/baton-rouge-la-1439"
+street: Corporate Boulevard
+housenumber: "7445"
+phone: +1 225-800-3457
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/baton-rouge-la-1439

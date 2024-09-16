@@ -4,8 +4,8 @@ latitude: 29.92104
 longitude: -90.11545
 postcode: "70115"
 city: New Orleans
-street: "Magazine Street"
-housenumber: 5415
-phone: "504-324-3745"
-opening_hours: "Mo-Th 11:00-18:00; Fr-Su 10:00-18:00"
-website: "https://dirtycoast.com/"
+street: Magazine Street
+housenumber: "5415"
+phone: 504-324-3745
+opening_hours: Mo-Th 11:00-18:00; Fr-Su 10:00-18:00
+website: https://dirtycoast.com/

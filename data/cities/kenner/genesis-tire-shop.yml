@@ -1,11 +1,11 @@
 id: 929812170
-type: way
+type: node
 latitude: 29.98015
 longitude: -90.24777
 postcode: "70062"
 city: Kenner
-street: "Airline Drive"
-housenumber: 1815
+street: Airline Drive
+housenumber: "1815"
 phone: "+15046673055"
 opening_hours: ""
 website: ""

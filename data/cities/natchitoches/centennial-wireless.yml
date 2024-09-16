@@ -1,11 +1,11 @@
 id: 190666786
-type: way
+type: node
 latitude: 31.75363
 longitude: -93.08496
 postcode: ""
 city: Natchitoches
-street: "Keyser Ave"
-housenumber: 203
+street: Keyser Ave
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

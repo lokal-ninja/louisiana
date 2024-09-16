@@ -1,11 +1,11 @@
 id: 802341062
-type: way
+type: node
 latitude: 30.47546
 longitude: -90.80444
 postcode: ""
 city: Livingston
-street: "Black Mud Road"
-housenumber: 16925
+street: Black Mud Road
+housenumber: "16925"
 phone: ""
 opening_hours: ""
 website: ""

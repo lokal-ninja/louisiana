@@ -1,11 +1,11 @@
 id: 404291898
-type: way
+type: node
 latitude: 30.44346
 longitude: -90.13897
 postcode: "70433"
 city: Covington
-street: "Highway 21"
-housenumber: 69326
-phone: "+1 985-892-2591"
-opening_hours: "Mo-Th 09:30-21:30; Fr-Sa 09:00-21:30; Su 10:00-20:00"
+street: Highway 21
+housenumber: "69326"
+phone: +1 985-892-2591
+opening_hours: Mo-Th 09:30-21:30; Fr-Sa 09:00-21:30; Su 10:00-20:00
 website: ""

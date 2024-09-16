@@ -1,11 +1,11 @@
 id: 1311907022
-type: way
+type: node
 latitude: 32.46342
 longitude: -91.76381
 postcode: "71269"
 city: Rayville
-street: "Julia Street"
-housenumber: 1806
-phone: "+1 318-728-6437"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1109/rayville-la/whats-new"
+street: Julia Street
+housenumber: "1806"
+phone: +1 318-728-6437
+opening_hours: 24/7
+website: https://www.walmart.com/store/1109/rayville-la/whats-new

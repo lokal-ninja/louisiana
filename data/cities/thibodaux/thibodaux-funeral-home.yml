@@ -1,11 +1,11 @@
 id: 708122002
-type: way
+type: node
 latitude: 29.79952
 longitude: -90.82368
 postcode: "70301"
 city: Thibodaux
-street: "St Patrick St"
-housenumber: 104
+street: St Patrick St
+housenumber: "104"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 1009198797
-type: way
+type: node
 latitude: 30.16945
 longitude: -92.08052
 postcode: "70503"
 city: Lafayette
-street: "Johnston Street"
-housenumber: 5825
+street: Johnston Street
+housenumber: "5825"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/6123"
+website: https://www.carmax.com/stores/6123

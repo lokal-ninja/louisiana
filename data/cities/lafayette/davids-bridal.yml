@@ -1,11 +1,11 @@
 id: 1009198903
-type: way
+type: node
 latitude: 30.17458
 longitude: -92.07081
 postcode: "70503"
 city: Lafayette
-street: "Ambassador Caffery Parkway"
-housenumber: 3600
+street: Ambassador Caffery Parkway
+housenumber: "3600"
 phone: ""
 opening_hours: ""
 website: ""

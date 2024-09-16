@@ -1,11 +1,11 @@
 id: 1086573613
-type: way
+type: node
 latitude: 30.37157
 longitude: -91.07216
 postcode: "70810"
 city: Baton Rouge
-street: "Siegen Lane"
-housenumber: 8445
+street: Siegen Lane
+housenumber: "8445"
 phone: ""
 opening_hours: ""
 website: ""

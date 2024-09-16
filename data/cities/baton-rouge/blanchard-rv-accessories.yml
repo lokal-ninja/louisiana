@@ -1,11 +1,11 @@
 id: 1216371960
-type: way
+type: node
 latitude: 30.49214
 longitude: -91.12439
 postcode: "70805"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 6632
-phone: "+1-225-355-4449"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.blanchardrv.com/"
+street: Airline Highway
+housenumber: "6632"
+phone: +1-225-355-4449
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.blanchardrv.com/

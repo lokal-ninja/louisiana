@@ -1,11 +1,11 @@
 id: 1178502416
-type: way
+type: node
 latitude: 30.38951
 longitude: -91.05279
 postcode: "70809"
 city: Baton Rouge
-street: "Cedar Park Avenue"
-housenumber: 11617
-phone: "+1-225-753-0018"
+street: Cedar Park Avenue
+housenumber: "11617"
+phone: +1-225-753-0018
 opening_hours: ""
-website: "https://summitfiresecurity.com/locations/baton-rouge/"
+website: https://summitfiresecurity.com/locations/baton-rouge/

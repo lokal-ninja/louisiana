@@ -1,11 +1,11 @@
 id: 332073194
-type: way
+type: node
 latitude: 32.23982
 longitude: -92.70924
 postcode: "71251"
 city: Jonesboro
-street: "East Main Street"
-housenumber: 325
-phone: "+1-318-259-7603"
+street: East Main Street
+housenumber: "325"
+phone: +1-318-259-7603
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 321398862
-type: way
+type: node
 latitude: 30.18859
 longitude: -92.01524
 postcode: ""
 city: Lafayette
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1850+w+pinhook+rd-lafayette-la-70508/id=2004"
+website: https://www.walgreens.com/locator/walgreens-1850+w+pinhook+rd-lafayette-la-70508/id=2004

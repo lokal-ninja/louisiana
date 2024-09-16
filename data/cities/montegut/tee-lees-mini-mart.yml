@@ -1,11 +1,11 @@
 id: 677141437
-type: way
+type: node
 latitude: 29.48249
 longitude: -90.55595
 postcode: "70377"
 city: Montegut
-street: "Highway 58"
-housenumber: 747
-phone: "+1 985 594-4376"
+street: Highway 58
+housenumber: "747"
+phone: +1 985 594-4376
 opening_hours: ""
 website: ""

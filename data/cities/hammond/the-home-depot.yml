@@ -1,11 +1,11 @@
 id: 438553246
-type: way
+type: node
 latitude: 30.48626
 longitude: -90.46112
 postcode: "70403"
 city: Hammond
-street: "West Minnesota Park Road"
-housenumber: 400
-phone: "+1 985-520-6800"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Hammond-LA/LA/Hammond/70403/347"
+street: West Minnesota Park Road
+housenumber: "400"
+phone: +1 985-520-6800
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Hammond-LA/LA/Hammond/70403/347

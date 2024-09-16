@@ -1,11 +1,11 @@
 id: 1112791683
-type: way
+type: node
 latitude: 30.41069
 longitude: -91.03629
 postcode: "70816"
 city: Baton Rouge
-street: "Coursey Boulevard"
-housenumber: 12891
+street: Coursey Boulevard
+housenumber: "12891"
 phone: ""
-opening_hours: "24/7"
-website: "https://kangarooexpress.com/store-locator/store/?storenum=2658206"
+opening_hours: 24/7
+website: https://kangarooexpress.com/store-locator/store/?storenum=2658206

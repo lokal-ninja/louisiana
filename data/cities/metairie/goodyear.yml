@@ -1,11 +1,11 @@
 id: 727360255
-type: way
+type: node
 latitude: 30.00285
 longitude: -90.16501
 postcode: "70002"
 city: Metairie
-street: "Division Street"
-housenumber: 3200
+street: Division Street
+housenumber: "3200"
 phone: ""
 opening_hours: ""
 website: ""

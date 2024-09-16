@@ -1,11 +1,11 @@
 id: 328035605
-type: way
+type: node
 latitude: 29.92407
 longitude: -90.08756
 postcode: "70115"
 city: New Orleans
-street: "Magazine Street"
-housenumber: 3233
+street: Magazine Street
+housenumber: "3233"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 593032871
-type: way
+type: node
 latitude: 32.50883
 longitude: -92.16407
 postcode: "71292"
 city: West Monroe
-street: "Constitution Drive"
-housenumber: 501
-phone: "+1 (888) 705-9812"
-opening_hours: "Tu-Fr 08:30-17:30; Sa 08:30-16:00; PH,Su,Mo off"
-website: "https://houseofcycles.com"
+street: Constitution Drive
+housenumber: "501"
+phone: +1 (888) 705-9812
+opening_hours: Tu-Fr 08:30-17:30; Sa 08:30-16:00; PH,Su,Mo off
+website: https://houseofcycles.com

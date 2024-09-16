@@ -4,8 +4,8 @@ latitude: 30.44796
 longitude: -91.09341
 postcode: "70815"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 8888
-phone: "(225) 927-2221"
-opening_hours: "Mo-Fr 10:00-21:30; Sa 09:00-21:30; Su 10:00-20:00"
-website: "https://www.conns.com/store-locator/louisiana/baton-rouge-70815"
+street: Airline Highway
+housenumber: "8888"
+phone: (225) 927-2221
+opening_hours: Mo-Fr 10:00-21:30; Sa 09:00-21:30; Su 10:00-20:00
+website: https://www.conns.com/store-locator/louisiana/baton-rouge-70815

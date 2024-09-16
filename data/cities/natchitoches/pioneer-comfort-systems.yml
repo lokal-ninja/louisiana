@@ -1,11 +1,11 @@
 id: 187831195
-type: way
+type: node
 latitude: 31.74865
 longitude: -93.08212
 postcode: "71457"
 city: Natchitoches
-street: "South Dr"
-housenumber: 129
+street: South Dr
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

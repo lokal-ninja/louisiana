@@ -1,11 +1,11 @@
 id: 1032441004
-type: way
+type: node
 latitude: 30.43846
 longitude: -90.44245
 postcode: "70454"
 city: Ponchatoula
-street: "West Pine Street"
-housenumber: 169
+street: West Pine Street
+housenumber: "169"
 phone: ""
 opening_hours: ""
-website: "https://shopchaleureux.com/"
+website: https://shopchaleureux.com/

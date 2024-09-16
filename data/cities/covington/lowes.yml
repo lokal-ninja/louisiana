@@ -1,11 +1,11 @@
 id: 177667932
-type: way
+type: node
 latitude: 30.44831
 longitude: -90.07875
 postcode: "70433"
 city: Covington
-street: "Crestwood Drive"
-housenumber: 1280
-phone: "+1 985-635-3001"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/la-covington/1698"
+street: Crestwood Drive
+housenumber: "1280"
+phone: +1 985-635-3001
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/la-covington/1698

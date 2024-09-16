@@ -1,11 +1,11 @@
 id: 630341323
-type: way
+type: node
 latitude: 29.99082
 longitude: -91.8191
 postcode: "70560"
 city: New Iberia
-street: "East Dale Street"
-housenumber: 800
+street: East Dale Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

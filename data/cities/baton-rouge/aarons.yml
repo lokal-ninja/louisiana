@@ -1,11 +1,11 @@
 id: 1190115176
-type: way
+type: node
 latitude: 30.43285
 longitude: -91.07997
 postcode: "70815"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 9681
-phone: "+1-225-927-8424"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://locations.aarons.com/us/la/baton-rouge/9681-airline-hwy"
+street: Airline Highway
+housenumber: "9681"
+phone: +1-225-927-8424
+opening_hours: Mo-Sa 10:00-20:00
+website: https://locations.aarons.com/us/la/baton-rouge/9681-airline-hwy

@@ -1,11 +1,11 @@
 id: 743158486
-type: way
+type: node
 latitude: 32.52833
 longitude: -92.64136
 postcode: "71270"
 city: Ruston
-street: "South Monroe Street"
-housenumber: 105
+street: South Monroe Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.thecleanersofruston.com/"
+website: https://www.thecleanersofruston.com/

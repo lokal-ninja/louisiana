@@ -1,11 +1,11 @@
 id: 1178502413
-type: way
+type: node
 latitude: 30.38946
 longitude: -91.05231
 postcode: "70809"
 city: Baton Rouge
-street: "Cedar Park Avenue"
-housenumber: 11647
-phone: "+1-225-753-4414"
+street: Cedar Park Avenue
+housenumber: "11647"
+phone: +1-225-753-4414
 opening_hours: ""
-website: "https://simplifiedpro.com/"
+website: https://simplifiedpro.com/

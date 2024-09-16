@@ -1,11 +1,11 @@
 id: 699821268
-type: way
+type: node
 latitude: 29.97857
 longitude: -90.21521
 postcode: "70003"
 city: Metairie
-street: "Airline Drive"
-housenumber: 7301
+street: Airline Drive
+housenumber: "7301"
 phone: ""
 opening_hours: ""
 website: ""

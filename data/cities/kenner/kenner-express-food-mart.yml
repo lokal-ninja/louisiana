@@ -1,11 +1,11 @@
 id: 648288801
-type: way
+type: node
 latitude: 29.99475
 longitude: -90.24206
 postcode: "70062"
 city: Kenner
-street: "Williams Boulevard"
-housenumber: 2111
+street: Williams Boulevard
+housenumber: "2111"
 phone: ""
 opening_hours: ""
 website: ""

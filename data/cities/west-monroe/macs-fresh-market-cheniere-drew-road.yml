@@ -1,11 +1,11 @@
 id: 984386161
-type: way
+type: node
 latitude: 32.54467
 longitude: -92.24716
 postcode: "71291"
 city: West Monroe
-street: "Cheniere-Drew Road"
-housenumber: 1065
-phone: "(318) 396-8484"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.macsfreshmarket.com/"
+street: Cheniere-Drew Road
+housenumber: "1065"
+phone: (318) 396-8484
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.macsfreshmarket.com/

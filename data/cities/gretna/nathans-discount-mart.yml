@@ -1,11 +1,11 @@
 id: 818614978
-type: way
+type: node
 latitude: 29.88015
 longitude: -90.02852
 postcode: "70056"
 city: Gretna
-street: "Lapalco Boulevard"
-housenumber: 401
+street: Lapalco Boulevard
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

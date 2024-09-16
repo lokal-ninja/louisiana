@@ -1,11 +1,11 @@
 id: 640987579
-type: way
+type: node
 latitude: 30.01745
 longitude: -90.23822
 postcode: "70065"
 city: Kenner
-street: "Williams Boulevard"
-housenumber: 3324
-phone: "+1 504-443-6598"
-opening_hours: "Mo-Sa 08:00-23:00; Su 08:00-22:00"
-website: "https://stores.burlington.com/la/kenner/258"
+street: Williams Boulevard
+housenumber: "3324"
+phone: +1 504-443-6598
+opening_hours: Mo-Sa 08:00-23:00; Su 08:00-22:00
+website: https://stores.burlington.com/la/kenner/258

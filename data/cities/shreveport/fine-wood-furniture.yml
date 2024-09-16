@@ -1,11 +1,11 @@
 id: 1119236882
-type: way
+type: node
 latitude: 32.45165
 longitude: -93.6949
 postcode: "71105"
 city: Shreveport
-street: "East 70th Street"
-housenumber: 2541
-phone: "+1 3187989663"
-opening_hours: "Mo-Fr 10:00-18:00, Sa 10:00-17:00"
-website: "https://798-wood.com"
+street: East 70th Street
+housenumber: "2541"
+phone: +1 3187989663
+opening_hours: Mo-Fr 10:00-18:00, Sa 10:00-17:00
+website: https://798-wood.com

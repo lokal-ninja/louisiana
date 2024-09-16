@@ -1,11 +1,11 @@
 id: 723259244
-type: way
+type: node
 latitude: 29.99813
 longitude: -90.18085
 postcode: "70001"
 city: Metairie
-street: "I-10 Service Road"
-housenumber: 4420
+street: I-10 Service Road
+housenumber: "4420"
 phone: ""
 opening_hours: ""
 website: ""

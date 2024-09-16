@@ -1,11 +1,11 @@
 id: 1027260442
-type: way
+type: node
 latitude: 32.52747
 longitude: -93.72605
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 1801
-phone: "(318) 752-4333"
-opening_hours: "Mo-Th 12:00-22:00, Fr 12:00-24:00, Sa 14:00-24:00, Su 14:00-22:00"
-website: "https://www.skinworkstattooshop.com"
+street: East Texas Street
+housenumber: "1801"
+phone: (318) 752-4333
+opening_hours: Mo-Th 12:00-22:00, Fr 12:00-24:00, Sa 14:00-24:00, Su 14:00-22:00
+website: https://www.skinworkstattooshop.com

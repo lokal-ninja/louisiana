@@ -1,11 +1,11 @@
 id: 533502934
-type: way
+type: node
 latitude: 31.11797
 longitude: -93.27413
 postcode: "71446"
 city: Leesville
-street: "South 5th Street"
-housenumber: 2204
-phone: "+1 337-238-9041"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/405/leesville-la/whats-new"
+street: South 5th Street
+housenumber: "2204"
+phone: +1 337-238-9041
+opening_hours: 24/7
+website: https://www.walmart.com/store/405/leesville-la/whats-new

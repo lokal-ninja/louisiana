@@ -1,11 +1,11 @@
 id: 1154659778
-type: way
+type: node
 latitude: 30.43132
 longitude: -91.07818
 postcode: "70816"
 city: Baton Rouge
-street: "Old Hammond Highway"
-housenumber: 9830
-phone: "+1 225-248-1616"
-opening_hours: "Su-Sa 06:00-23:00"
-website: "https://www.walmart.com/store/5327/baton-rouge-la/whats-new"
+street: Old Hammond Highway
+housenumber: "9830"
+phone: +1 225-248-1616
+opening_hours: Su-Sa 06:00-23:00
+website: https://www.walmart.com/store/5327/baton-rouge-la/whats-new

@@ -1,11 +1,11 @@
 id: 187814345
-type: way
+type: node
 latitude: 31.7501
 longitude: -93.08705
 postcode: ""
 city: Natchitoches
-street: "Mill St"
-housenumber: 104
+street: Mill St
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

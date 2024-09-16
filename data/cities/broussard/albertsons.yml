@@ -4,8 +4,8 @@ latitude: 30.13989
 longitude: -91.94876
 postcode: "70518"
 city: Broussard
-street: "Albertson Parkway"
-housenumber: 1210
-phone: "+1 337-839-1717"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00"
-website: "https://local.albertsons.com/la/broussard/1210-albertson-pkwy.html"
+street: Albertson Parkway
+housenumber: "1210"
+phone: +1 337-839-1717
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00
+website: https://local.albertsons.com/la/broussard/1210-albertson-pkwy.html

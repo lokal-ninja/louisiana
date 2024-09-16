@@ -1,11 +1,11 @@
 id: 327270873
-type: way
+type: node
 latitude: 29.95116
 longitude: -90.13476
 postcode: "70118"
 city: New Orleans
-street: "Oak Street"
-housenumber: 8640
-phone: "+1-504-324-8271"
-opening_hours: "Mo-Su 07:00-15:00"
-website: "https://breadsonoak.com/"
+street: Oak Street
+housenumber: "8640"
+phone: +1-504-324-8271
+opening_hours: Mo-Su 07:00-15:00
+website: https://breadsonoak.com/

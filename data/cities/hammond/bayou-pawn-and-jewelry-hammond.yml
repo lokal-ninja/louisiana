@@ -1,11 +1,11 @@
 id: 1032433249
-type: way
+type: node
 latitude: 30.50878
 longitude: -90.48287
 postcode: "70401"
 city: Hammond
-street: "North Morrison Boulevard"
-housenumber: 821
+street: North Morrison Boulevard
+housenumber: "821"
 phone: ""
 opening_hours: ""
 website: ""

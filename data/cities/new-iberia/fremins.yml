@@ -1,11 +1,11 @@
 id: 630341324
-type: way
+type: node
 latitude: 30.00244
 longitude: -91.84408
 postcode: "70560"
 city: New Iberia
-street: "West Admiral Doyle Drive"
-housenumber: 603
+street: West Admiral Doyle Drive
+housenumber: "603"
 phone: ""
 opening_hours: ""
 website: ""

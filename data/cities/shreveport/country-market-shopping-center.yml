@@ -1,11 +1,11 @@
 id: 914876777
-type: way
+type: node
 latitude: 32.47275
 longitude: -93.79817
 postcode: "71109"
 city: Shreveport
-street: "Greenwood Road"
-housenumber: 3707
-phone: "+1 (318) 636-9928"
-opening_hours: "Mo-Su 06:00-23:00"
+street: Greenwood Road
+housenumber: "3707"
+phone: +1 (318) 636-9928
+opening_hours: Mo-Su 06:00-23:00
 website: ""

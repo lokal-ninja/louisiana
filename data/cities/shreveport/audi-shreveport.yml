@@ -1,11 +1,11 @@
 id: 977336562
-type: way
+type: node
 latitude: 32.3998
 longitude: -93.75446
 postcode: "71106"
 city: Shreveport
-street: "West Bert Kouns Industrial Loop"
-housenumber: 102
+street: West Bert Kouns Industrial Loop
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

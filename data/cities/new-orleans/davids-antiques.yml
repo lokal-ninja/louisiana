@@ -4,8 +4,8 @@ latitude: 29.95525
 longitude: -90.06711
 postcode: "70130"
 city: New Orleans
-street: "Royal Street"
-housenumber: 322
-phone: "504-908-0011"
-opening_hours: "Su-Fr 9:00-17:00"
-website: "https://davidsnola.com/"
+street: Royal Street
+housenumber: "322"
+phone: 504-908-0011
+opening_hours: Su-Fr 9:00-17:00
+website: https://davidsnola.com/

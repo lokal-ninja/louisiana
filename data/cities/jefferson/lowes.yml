@@ -1,11 +1,11 @@
 id: 32386850
-type: way
+type: node
 latitude: 29.96642
 longitude: -90.13055
 postcode: "70121"
 city: Jefferson
-street: "Jefferson Highway"
-housenumber: 121
-phone: "+1 504-832-7100"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/la-jefferson/1877"
+street: Jefferson Highway
+housenumber: "121"
+phone: +1 504-832-7100
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/la-jefferson/1877

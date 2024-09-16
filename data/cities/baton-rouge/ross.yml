@@ -1,11 +1,11 @@
 id: 1032781455
-type: way
+type: node
 latitude: 30.38572
 longitude: -91.06041
 postcode: "70809"
 city: Baton Rouge
-street: "Siegen Lane"
-housenumber: 6857
-phone: "+1 225-295-1112"
-opening_hours: "Mo-Th 09:00-22:30; Fr-Sa 08:30-22:30; Su 09:30-22:00"
+street: Siegen Lane
+housenumber: "6857"
+phone: +1 225-295-1112
+opening_hours: Mo-Th 09:00-22:30; Fr-Sa 08:30-22:30; Su 09:30-22:00
 website: ""

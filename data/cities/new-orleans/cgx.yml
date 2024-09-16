@@ -1,11 +1,11 @@
 id: 337388669
-type: way
+type: node
 latitude: 30.02038
 longitude: -89.92568
 postcode: "70129"
 city: New Orleans
-street: "Old Gentilly Road"
-housenumber: 13800
+street: Old Gentilly Road
+housenumber: "13800"
 phone: ""
 opening_hours: ""
 website: ""

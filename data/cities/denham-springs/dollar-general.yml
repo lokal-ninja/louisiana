@@ -1,11 +1,11 @@
 id: 702166590
-type: way
+type: node
 latitude: 30.50083
 longitude: -90.94293
 postcode: "70726"
 city: Denham Springs
-street: "Hatchell Lane"
-housenumber: 1190
+street: Hatchell Lane
+housenumber: "1190"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/la/denham-springs/6231"
+website: https://www.dollargeneral.com/store-directory/la/denham-springs/6231

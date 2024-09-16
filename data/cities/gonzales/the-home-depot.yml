@@ -1,11 +1,11 @@
 id: 1174884774
-type: way
+type: node
 latitude: 30.20625
 longitude: -90.94157
 postcode: "70737"
 city: Gonzales
-street: "South Cajun Avenue"
-housenumber: 2740
-phone: "+1 225-644-5670"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/gonzales/la/gonzales/70737/383"
+street: South Cajun Avenue
+housenumber: "2740"
+phone: +1 225-644-5670
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/gonzales/la/gonzales/70737/383

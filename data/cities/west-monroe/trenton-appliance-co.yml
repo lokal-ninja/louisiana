@@ -1,11 +1,11 @@
 id: 1122468324
-type: way
+type: node
 latitude: 32.50125
 longitude: -92.15584
 postcode: "71292"
 city: West Monroe
-street: "Old Natchitoches Road"
-housenumber: 2054
-phone: "(318) 323-7725"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "https://www.trentonappliance.com/"
+street: Old Natchitoches Road
+housenumber: "2054"
+phone: (318) 323-7725
+opening_hours: Mo-Fr 08:00-16:30
+website: https://www.trentonappliance.com/

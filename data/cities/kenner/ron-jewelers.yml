@@ -1,11 +1,11 @@
 id: 747481099
-type: way
+type: node
 latitude: 30.03125
 longitude: -90.2389
 postcode: "70065"
 city: Kenner
-street: "Williams Boulevard"
-housenumber: 4103
-phone: "+1-504-405-5121"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.ronjewelers.com/"
+street: Williams Boulevard
+housenumber: "4103"
+phone: +1-504-405-5121
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.ronjewelers.com/

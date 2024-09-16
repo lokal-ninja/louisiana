@@ -1,11 +1,11 @@
 id: 1210473355
-type: way
+type: node
 latitude: 30.40364
 longitude: -91.05255
 postcode: "70816"
 city: Baton Rouge
-street: "South Sherwood Forest Boulevard"
-housenumber: 5744
-phone: "+1-225-434-5823"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
-website: "https://www.greasemonkeyauto.com/locations/us/la/baton-rouge/5744-south-sherwood-forest-blvd"
+street: South Sherwood Forest Boulevard
+housenumber: "5744"
+phone: +1-225-434-5823
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00
+website: https://www.greasemonkeyauto.com/locations/us/la/baton-rouge/5744-south-sherwood-forest-blvd

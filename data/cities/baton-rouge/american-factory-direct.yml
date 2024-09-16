@@ -1,11 +1,11 @@
 id: 1212654864
-type: way
+type: node
 latitude: 30.43664
 longitude: -91.08371
 postcode: "70815"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 9555
-phone: "+1-225-767-7303"
-opening_hours: "Mo-Sa 10:00-20:00; Su 13:00-18:00"
-website: "https://www.afd-furniture.com"
+street: Airline Highway
+housenumber: "9555"
+phone: +1-225-767-7303
+opening_hours: Mo-Sa 10:00-20:00; Su 13:00-18:00
+website: https://www.afd-furniture.com

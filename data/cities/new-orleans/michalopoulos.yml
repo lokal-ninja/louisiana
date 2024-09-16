@@ -1,11 +1,11 @@
 id: 208540156
-type: way
+type: node
 latitude: 29.95456
 longitude: -90.067
 postcode: "70130"
 city: New Orleans
-street: "Bienville Street"
-housenumber: 617
-phone: "(504) 558-0505"
-opening_hours: "Mo-Sa 10:00-18:00; Su 11:00-18:00"
-website: "https://www.michalopoulos.com/"
+street: Bienville Street
+housenumber: "617"
+phone: (504) 558-0505
+opening_hours: Mo-Sa 10:00-18:00; Su 11:00-18:00
+website: https://www.michalopoulos.com/

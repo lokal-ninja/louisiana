@@ -1,11 +1,11 @@
 id: 684898898
-type: way
+type: node
 latitude: 30.53015
 longitude: -92.06855
 postcode: "70570"
 city: Opelousas
-street: "East Landry Street"
-housenumber: 1130
-phone: "+1 337-943-2041"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/la-opelousas/1822"
+street: East Landry Street
+housenumber: "1130"
+phone: +1 337-943-2041
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/la-opelousas/1822

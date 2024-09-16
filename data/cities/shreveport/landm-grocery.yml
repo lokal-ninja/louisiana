@@ -1,11 +1,11 @@
 id: 1260681895
-type: way
+type: node
 latitude: 32.51299
 longitude: -93.76119
 postcode: "71101"
 city: Shreveport
-street: "North Allen Avenue"
-housenumber: 300
+street: North Allen Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

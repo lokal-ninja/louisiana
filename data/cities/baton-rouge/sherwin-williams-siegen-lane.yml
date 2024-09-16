@@ -1,11 +1,11 @@
 id: 1174483063
-type: way
+type: node
 latitude: 30.39641
 longitude: -91.05705
 postcode: "70809"
 city: Baton Rouge
-street: "Siegen Lane"
-housenumber: 5807
-phone: "225-293-0203"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 07:00-13:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/baton-rouge/la/707165"
+street: Siegen Lane
+housenumber: "5807"
+phone: 225-293-0203
+opening_hours: Mo-Fr 06:30-17:00; Sa 07:00-13:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/baton-rouge/la/707165

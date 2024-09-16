@@ -4,8 +4,8 @@ latitude: 29.9451
 longitude: -90.06207
 postcode: "70130"
 city: New Orleans
-street: "Port of New Orleans Place"
-housenumber: 500
-phone: "504-523-9291"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
+street: Port of New Orleans Place
+housenumber: "500"
+phone: 504-523-9291
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
 website: ""

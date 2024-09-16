@@ -1,11 +1,11 @@
 id: 1180916164
-type: way
+type: node
 latitude: 31.94983
 longitude: -92.65733
 postcode: "71483"
 city: Winnfield
-street: "Highway 167 North"
-housenumber: 5940
-phone: "+1 318-628-2194"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/244/winnfield-la/whats-new"
+street: Highway 167 North
+housenumber: "5940"
+phone: +1 318-628-2194
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/244/winnfield-la/whats-new

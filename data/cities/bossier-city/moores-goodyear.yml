@@ -1,11 +1,11 @@
 id: 1027264434
-type: way
+type: node
 latitude: 32.52945
 longitude: -93.69463
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 3327
-phone: "(318) 746-1613"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-17:00"
-website: "https://moorestireandservicecenters.com/"
+street: East Texas Street
+housenumber: "3327"
+phone: (318) 746-1613
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:00-17:00
+website: https://moorestireandservicecenters.com/

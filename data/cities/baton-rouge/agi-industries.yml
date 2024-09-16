@@ -1,11 +1,11 @@
 id: 1175511852
-type: way
+type: node
 latitude: 30.39182
 longitude: -91.0522
 postcode: "70809"
 city: Baton Rouge
-street: "Cloverland Avenue"
-housenumber: 11559
-phone: "225-236-3028"
-opening_hours: "Su-Sa 08:00-17:00"
-website: "https://agiindustries.com/locations/baton-rouge/"
+street: Cloverland Avenue
+housenumber: "11559"
+phone: 225-236-3028
+opening_hours: Su-Sa 08:00-17:00
+website: https://agiindustries.com/locations/baton-rouge/

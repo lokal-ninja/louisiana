@@ -1,11 +1,11 @@
 id: 957890668
-type: way
+type: node
 latitude: 30.45282
 longitude: -91.12401
 postcode: "70806"
 city: Baton Rouge
-street: "Florida Boulevard"
-housenumber: 6505
+street: Florida Boulevard
+housenumber: "6505"
 phone: ""
 opening_hours: ""
-website: "https://www.gerrylanechevrolet.com/service"
+website: https://www.gerrylanechevrolet.com/service

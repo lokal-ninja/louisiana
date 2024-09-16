@@ -1,11 +1,11 @@
 id: 1150184791
-type: way
+type: node
 latitude: 30.40019
 longitude: -91.05613
 postcode: "70809"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 11218
-phone: "225-293-9750"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-15:00"
-website: "https://www.grabince.com/"
+street: Airline Highway
+housenumber: "11218"
+phone: 225-293-9750
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-15:00
+website: https://www.grabince.com/

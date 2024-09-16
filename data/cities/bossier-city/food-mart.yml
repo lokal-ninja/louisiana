@@ -1,11 +1,11 @@
 id: 293254721
-type: way
+type: node
 latitude: 32.59087
 longitude: -93.71499
 postcode: "71111"
 city: Bossier City
-street: "Airline Drive"
-housenumber: 4903
+street: Airline Drive
+housenumber: "4903"
 phone: ""
 opening_hours: ""
 website: ""

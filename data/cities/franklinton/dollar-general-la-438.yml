@@ -1,11 +1,11 @@
 id: 1293547618
-type: way
+type: node
 latitude: 30.97557
 longitude: -90.09061
 postcode: "70438"
 city: Franklinton
-street: "LA-438"
-housenumber: 31015
+street: LA-438
+housenumber: "31015"
 phone: ""
 opening_hours: ""
 website: ""

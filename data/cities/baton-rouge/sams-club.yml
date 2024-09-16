@@ -1,11 +1,11 @@
 id: 739437887
-type: way
+type: node
 latitude: 30.37928
 longitude: -91.0636
 postcode: "70809"
 city: Baton Rouge
-street: "North Mall Drive"
-housenumber: 10444
-phone: "+1 225-295-1353"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/baton-rouge-la-sams-club/6527"
+street: North Mall Drive
+housenumber: "10444"
+phone: +1 225-295-1353
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/baton-rouge-la-sams-club/6527

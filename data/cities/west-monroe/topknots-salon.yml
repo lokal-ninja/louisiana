@@ -1,11 +1,11 @@
 id: 322506183
-type: way
+type: node
 latitude: 32.50232
 longitude: -92.1246
 postcode: "71291"
 city: West Monroe
-street: "Trenton Street"
-housenumber: 320
-phone: "(318) 376-4441"
-opening_hours: "Tu-Fr 10:00-17:00, Sa 10:00-14:00"
+street: Trenton Street
+housenumber: "320"
+phone: (318) 376-4441
+opening_hours: Tu-Fr 10:00-17:00, Sa 10:00-14:00
 website: ""

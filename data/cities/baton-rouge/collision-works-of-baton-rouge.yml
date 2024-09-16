@@ -1,11 +1,11 @@
 id: 1174483084
-type: way
+type: node
 latitude: 30.39545
 longitude: -91.05762
 postcode: "70809"
 city: Baton Rouge
-street: "Siegen Lane"
-housenumber: 5959
+street: Siegen Lane
+housenumber: "5959"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://collisionworksla.com/"
+opening_hours: Mo-Fr 07:30-17:30
+website: https://collisionworksla.com/

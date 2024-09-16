@@ -1,11 +1,11 @@
 id: 1234903146
-type: way
+type: node
 latitude: 30.6425
 longitude: -92.40537
 postcode: ""
 city: Mamou
-street: "Poinciana Avenue"
-housenumber: 1709
+street: Poinciana Avenue
+housenumber: "1709"
 phone: ""
 opening_hours: ""
 website: ""

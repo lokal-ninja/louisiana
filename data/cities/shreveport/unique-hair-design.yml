@@ -1,11 +1,11 @@
 id: 1247446435
-type: way
+type: node
 latitude: 32.51127
 longitude: -93.76372
 postcode: "71101"
 city: Shreveport
-street: "Ford Street"
-housenumber: 1606
+street: Ford Street
+housenumber: "1606"
 phone: ""
 opening_hours: ""
 website: ""

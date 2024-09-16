@@ -1,11 +1,11 @@
 id: 555581703
-type: way
+type: node
 latitude: 32.62476
 longitude: -93.28414
 postcode: "71055"
 city: Minden
-street: "Lewisville Road"
-housenumber: 720
+street: Lewisville Road
+housenumber: "720"
 phone: ""
 opening_hours: ""
 website: ""

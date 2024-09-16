@@ -1,11 +1,11 @@
 id: 1152592161
-type: way
+type: node
 latitude: 30.5039
 longitude: -91.13414
 postcode: "70805"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 5810
-phone: "225-355-7716"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://mlind.net/"
+street: Airline Highway
+housenumber: "5810"
+phone: 225-355-7716
+opening_hours: Mo-Fr 07:00-17:00
+website: https://mlind.net/

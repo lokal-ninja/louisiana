@@ -1,11 +1,11 @@
 id: 292801281
-type: way
+type: node
 latitude: 32.54621
 longitude: -93.70668
 postcode: "71111"
 city: Bossier City
-street: "Airline Drive"
-housenumber: 2360
-phone: "+1 318-655-9038"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/la-bossier-city/1813"
+street: Airline Drive
+housenumber: "2360"
+phone: +1 318-655-9038
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/la-bossier-city/1813

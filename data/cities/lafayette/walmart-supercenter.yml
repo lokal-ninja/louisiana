@@ -1,11 +1,11 @@
 id: 321377159
-type: way
+type: node
 latitude: 30.17722
 longitude: -92.00555
 postcode: "70508"
 city: Lafayette
-street: "West Pinhook Road"
-housenumber: 2428
-phone: "+1 337-231-1852"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2938/lafayette-la/whats-new"
+street: West Pinhook Road
+housenumber: "2428"
+phone: +1 337-231-1852
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2938/lafayette-la/whats-new

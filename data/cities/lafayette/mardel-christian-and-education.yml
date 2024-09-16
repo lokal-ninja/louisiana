@@ -1,11 +1,11 @@
 id: 964483471
-type: way
+type: node
 latitude: 30.17849
 longitude: -92.07578
 postcode: "70503"
 city: Lafayette
-street: "Johnston Street"
-housenumber: 5622
+street: Johnston Street
+housenumber: "5622"
 phone: ""
 opening_hours: ""
 website: ""

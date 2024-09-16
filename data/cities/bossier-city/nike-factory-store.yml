@@ -1,11 +1,11 @@
 id: 199082401
-type: way
+type: node
 latitude: 32.51759
 longitude: -93.7402
 postcode: "71111"
 city: Bossier City
-street: "Boardwalk Boulevard"
-housenumber: 201
+street: Boardwalk Boulevard
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

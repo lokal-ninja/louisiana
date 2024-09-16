@@ -1,11 +1,11 @@
 id: 1214454575
-type: way
+type: node
 latitude: 30.49317
 longitude: -91.12305
 postcode: "70805"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 6575
-phone: "+1-225-356-5050"
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://onewabash.com/location-search/location-detail/?wabash---baton-rouge-operations-baton-rouge-la"
+street: Airline Highway
+housenumber: "6575"
+phone: +1-225-356-5050
+opening_hours: Mo-Fr 07:30-16:30
+website: https://onewabash.com/location-search/location-detail/?wabash---baton-rouge-operations-baton-rouge-la

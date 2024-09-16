@@ -1,11 +1,11 @@
 id: 1074973379
-type: way
+type: node
 latitude: 32.52389
 longitude: -92.6463
 postcode: "71270"
 city: Ruston
-street: "West California Avenue"
-housenumber: 609
-phone: "+1-318-254-5001"
+street: West California Avenue
+housenumber: "609"
+phone: +1-318-254-5001
 opening_hours: ""
 website: ""

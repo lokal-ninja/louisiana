@@ -1,11 +1,11 @@
 id: 1027262593
-type: way
+type: node
 latitude: 32.52781
 longitude: -93.7165
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 2226
-phone: "(318) 399-6964"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.familydollar.com/locations/la/bossier-city/21306/"
+street: East Texas Street
+housenumber: "2226"
+phone: (318) 399-6964
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.familydollar.com/locations/la/bossier-city/21306/

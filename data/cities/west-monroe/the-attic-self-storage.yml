@@ -1,11 +1,11 @@
 id: 985155569
-type: way
+type: node
 latitude: 32.51931
 longitude: -92.16064
 postcode: "71291"
 city: West Monroe
-street: "Warren Drive"
-housenumber: 200
-phone: "(318) 396-9437"
-opening_hours: "Mo-Sa 08:00-17:00"
-website: "https://www.theatticwm.com/"
+street: Warren Drive
+housenumber: "200"
+phone: (318) 396-9437
+opening_hours: Mo-Sa 08:00-17:00
+website: https://www.theatticwm.com/

@@ -1,11 +1,11 @@
 id: 313961391
-type: way
+type: node
 latitude: 29.95213
 longitude: -90.06549
 postcode: ""
 city: New Orleans
-street: "Canal Street"
-housenumber: 333
+street: Canal Street
+housenumber: "333"
 phone: ""
 opening_hours: ""
-website: "http://www.theshopsatcanalplace.com/"
+website: http://www.theshopsatcanalplace.com/

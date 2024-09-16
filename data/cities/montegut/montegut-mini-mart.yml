@@ -1,11 +1,11 @@
 id: 671962384
-type: way
+type: node
 latitude: 29.4696
 longitude: -90.55868
 postcode: "70377"
 city: Montegut
-street: "Highway 55"
-housenumber: 1229
+street: Highway 55
+housenumber: "1229"
 phone: ""
-opening_hours: "Mo-Su 05:00-22:00"
+opening_hours: Mo-Su 05:00-22:00
 website: ""

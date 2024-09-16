@@ -4,8 +4,8 @@ latitude: 32.51959
 longitude: -92.14456
 postcode: "71291"
 city: West Monroe
-street: "Cypress Street"
-housenumber: 2400
-phone: "+1 318-267-3000"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/3743/west-monroe-la"
+street: Cypress Street
+housenumber: "2400"
+phone: +1 318-267-3000
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/3743/west-monroe-la

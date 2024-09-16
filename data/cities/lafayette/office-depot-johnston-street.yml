@@ -1,11 +1,11 @@
 id: 964483477
-type: way
+type: node
 latitude: 30.17792
 longitude: -92.07807
 postcode: "70503"
 city: Lafayette
-street: "Johnston Street"
-housenumber: 5700
-phone: "+1 337-273-2559"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/la/lafayette/office-depot-2573"
+street: Johnston Street
+housenumber: "5700"
+phone: +1 337-273-2559
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/la/lafayette/office-depot-2573

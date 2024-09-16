@@ -1,11 +1,11 @@
 id: 1032835094
-type: way
+type: node
 latitude: 30.72766
 longitude: -90.51276
 postcode: "70422"
 city: Amite City
-street: "West Oak Street"
-housenumber: 300
+street: West Oak Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-300+w+oak+st-amite-la-70422/id=13604"
+website: https://www.walgreens.com/locator/walgreens-300+w+oak+st-amite-la-70422/id=13604

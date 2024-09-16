@@ -1,11 +1,11 @@
 id: 966330866
-type: way
+type: node
 latitude: 32.50443
 longitude: -93.76308
 postcode: "71103"
 city: Shreveport
-street: "Pierre Avenue"
-housenumber: 801
+street: Pierre Avenue
+housenumber: "801"
 phone: ""
 opening_hours: ""
 website: ""

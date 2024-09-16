@@ -1,11 +1,11 @@
 id: 827884276
-type: way
+type: node
 latitude: 30.35541
 longitude: -90.99216
 postcode: "70817"
 city: Baton Rouge
-street: "Jefferson Highway"
-housenumber: 18211
+street: Jefferson Highway
+housenumber: "18211"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

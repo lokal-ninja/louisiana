@@ -4,8 +4,8 @@ latitude: 29.9602
 longitude: -90.0629
 postcode: ""
 city: New Orleans
-street: "Royal Street"
-housenumber: 927
-phone: "(504) 304-0849"
-opening_hours: "10:00-20:00"
-website: "https://antieaugallery.com/"
+street: Royal Street
+housenumber: "927"
+phone: (504) 304-0849
+opening_hours: 10:00-20:00
+website: https://antieaugallery.com/

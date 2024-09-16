@@ -1,11 +1,11 @@
 id: 1032435223
-type: way
+type: node
 latitude: 30.72884
 longitude: -90.51133
 postcode: "70422"
 city: Amite City
-street: "North 1st Street"
-housenumber: 211
+street: North 1st Street
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

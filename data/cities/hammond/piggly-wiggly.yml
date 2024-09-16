@@ -1,11 +1,11 @@
 id: 701729262
-type: way
+type: node
 latitude: 30.51095
 longitude: -90.42317
 postcode: "70401"
 city: Hammond
-street: "Highway 190 East"
-housenumber: 18150
-phone: "+1 985-345-7729"
+street: Highway 190 East
+housenumber: "18150"
+phone: +1 985-345-7729
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1018953141
-type: way
+type: node
 latitude: 30.40623
 longitude: -91.0175
 postcode: ""
 city: Baton Rouge
-street: "Market Street"
-housenumber: 15110
-phone: "+1 225 605 3070"
-opening_hours: "Mo-Fr 08:30-17:30; Sa-Su closed"
+street: Market Street
+housenumber: "15110"
+phone: +1 225 605 3070
+opening_hours: Mo-Fr 08:30-17:30; Sa-Su closed
 website: ""

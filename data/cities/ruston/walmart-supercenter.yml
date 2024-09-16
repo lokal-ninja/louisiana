@@ -1,11 +1,11 @@
 id: 332075350
-type: way
+type: node
 latitude: 32.54387
 longitude: -92.6248
 postcode: "71270"
 city: Ruston
-street: "North Service Road East"
-housenumber: 1201
-phone: "+1 318-251-1168"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/23/ruston-la/whats-new"
+street: North Service Road East
+housenumber: "1201"
+phone: +1 318-251-1168
+opening_hours: 24/7
+website: https://www.walmart.com/store/23/ruston-la/whats-new

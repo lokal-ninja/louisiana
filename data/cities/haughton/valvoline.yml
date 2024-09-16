@@ -1,11 +1,11 @@
 id: 977651382
-type: way
+type: node
 latitude: 32.55559
 longitude: -93.61411
 postcode: "71037"
 city: Haughton
-street: "US Highway 80"
-housenumber: 980
+street: US Highway 80
+housenumber: "980"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/la/haughton/oil-change-070010.html"
+website: https://store.vioc.com/la/haughton/oil-change-070010.html

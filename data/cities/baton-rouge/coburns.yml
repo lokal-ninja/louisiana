@@ -1,11 +1,11 @@
 id: 1150609216
-type: way
+type: node
 latitude: 30.39219
 longitude: -91.04897
 postcode: "70816"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 11930
+street: Airline Highway
+housenumber: "11930"
 phone: ""
 opening_hours: ""
-website: "https://showroom.coburns.com/locations/baton-rouge-louisiana/"
+website: https://showroom.coburns.com/locations/baton-rouge-louisiana/

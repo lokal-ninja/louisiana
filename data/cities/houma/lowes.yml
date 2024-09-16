@@ -1,11 +1,11 @@
 id: 1290282120
-type: way
+type: node
 latitude: 29.61094
 longitude: -90.74926
 postcode: "70360"
 city: Houma
-street: "Martin Luther King Boulevard"
-housenumber: 1592
-phone: "+1 985-223-7575"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/la-houma/0596"
+street: Martin Luther King Boulevard
+housenumber: "1592"
+phone: +1 985-223-7575
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/la-houma/0596

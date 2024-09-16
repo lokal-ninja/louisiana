@@ -1,11 +1,11 @@
 id: 1213753335
-type: way
+type: node
 latitude: 30.47182
 longitude: -91.10876
 postcode: "70814"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 7695
-phone: "+1-225-325-7231"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00"
-website: "https://locations.thetirechoice.com/la/baton-rouge/7695-airline-highway"
+street: Airline Highway
+housenumber: "7695"
+phone: +1-225-325-7231
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00
+website: https://locations.thetirechoice.com/la/baton-rouge/7695-airline-highway

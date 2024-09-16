@@ -1,11 +1,11 @@
 id: 266746401
-type: way
+type: node
 latitude: 30.29363
 longitude: -91.91136
 postcode: "70517"
 city: Breaux Bridge
-street: "Rees Street"
-housenumber: 1932
-phone: "+1 337-332-1280"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/402/breaux-bridge-la/whats-new"
+street: Rees Street
+housenumber: "1932"
+phone: +1 337-332-1280
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/402/breaux-bridge-la/whats-new

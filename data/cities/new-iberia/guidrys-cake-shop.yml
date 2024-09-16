@@ -1,11 +1,11 @@
 id: 630302189
-type: way
+type: node
 latitude: 30.0076
 longitude: -91.8203
 postcode: "70560"
 city: New Iberia
-street: "West Main Street"
-housenumber: 221
+street: West Main Street
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

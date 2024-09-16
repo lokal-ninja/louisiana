@@ -4,8 +4,8 @@ latitude: 29.95283
 longitude: -90.06546
 postcode: "70130"
 city: New Orleans
-street: "North Peters Street"
-housenumber: 223
-phone: "+1-504-592-3303"
-opening_hours: "Mo-Th 12:00-19:00; Fr-Sa 12:00-20:00; Su 12:00-18:00"
-website: "https://www.regardingfresh.com/shop"
+street: North Peters Street
+housenumber: "223"
+phone: +1-504-592-3303
+opening_hours: Mo-Th 12:00-19:00; Fr-Sa 12:00-20:00; Su 12:00-18:00
+website: https://www.regardingfresh.com/shop

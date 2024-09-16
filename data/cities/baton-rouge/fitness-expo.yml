@@ -1,11 +1,11 @@
 id: 1212654862
-type: way
+type: node
 latitude: 30.43471
 longitude: -91.0822
 postcode: "70815"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 9603
-phone: "+1-225-686-5620"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-17:00"
-website: "https://www.fitnessexpostores.com/"
+street: Airline Highway
+housenumber: "9603"
+phone: +1-225-686-5620
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-17:00
+website: https://www.fitnessexpostores.com/

@@ -1,11 +1,11 @@
 id: 957889705
-type: way
+type: node
 latitude: 32.55548
 longitude: -93.61379
 postcode: "71037"
 city: Haughton
-street: "US Highway 80"
-housenumber: 998
+street: US Highway 80
+housenumber: "998"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/haughton-la-pharmacies/998-hwy-80-haughton-la-71037/storeid=4068"
+website: https://www.cvs.com/store-locator/haughton-la-pharmacies/998-hwy-80-haughton-la-71037/storeid=4068

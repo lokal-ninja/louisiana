@@ -1,11 +1,11 @@
 id: 899297600
-type: way
+type: node
 latitude: 29.93912
 longitude: -90.19463
 postcode: "70123"
 city: Harahan
-street: "Oak Avenue"
-housenumber: 210
+street: Oak Avenue
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

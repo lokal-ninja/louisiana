@@ -1,11 +1,11 @@
 id: 1178720434
-type: way
+type: node
 latitude: 30.50021
 longitude: -90.94196
 postcode: "70726"
 city: Denham Springs
-street: "Hatchell Lane"
-housenumber: 1160
-phone: "+1 225 665 5818"
+street: Hatchell Lane
+housenumber: "1160"
+phone: +1 225 665 5818
 opening_hours: ""
-website: "https://www.carterssupermarket.com/"
+website: https://www.carterssupermarket.com/

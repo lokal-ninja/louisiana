@@ -1,11 +1,11 @@
 id: 187807624
-type: way
+type: node
 latitude: 31.75436
 longitude: -93.08197
 postcode: ""
 city: Natchitoches
-street: "Keyser Ave"
-housenumber: 300
+street: Keyser Ave
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-300+keyser+ave-natchitoches-la-71457/id=9485"
+website: https://www.walgreens.com/locator/walgreens-300+keyser+ave-natchitoches-la-71457/id=9485

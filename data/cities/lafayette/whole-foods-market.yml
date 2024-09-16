@@ -1,11 +1,11 @@
 id: 599073376
-type: way
+type: node
 latitude: 30.1614
 longitude: -92.05186
 postcode: "70508"
 city: Lafayette
-street: "Ambassador Caffery Parkway"
-housenumber: 4247
-phone: "+1 337-314-9653"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.wholefoodsmarket.com/stores/ambassadorcaffery"
+street: Ambassador Caffery Parkway
+housenumber: "4247"
+phone: +1 337-314-9653
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.wholefoodsmarket.com/stores/ambassadorcaffery

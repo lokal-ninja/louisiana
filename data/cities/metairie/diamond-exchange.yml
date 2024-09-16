@@ -1,11 +1,11 @@
 id: 712428267
-type: way
+type: node
 latitude: 30.00461
 longitude: -90.16451
 postcode: "70002"
 city: Metairie
-street: "Veterans Memorial Boulevard"
-housenumber: 3655
-phone: "504-456-3131"
+street: Veterans Memorial Boulevard
+housenumber: "3655"
+phone: 504-456-3131
 opening_hours: ""
-website: "https://www.diamondexchangenola.com"
+website: https://www.diamondexchangenola.com

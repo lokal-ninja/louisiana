@@ -1,11 +1,11 @@
 id: 982918718
-type: way
+type: node
 latitude: 29.92024
 longitude: -90.03394
 postcode: "70056"
 city: Terrytown
-street: "Terry Parkway"
-housenumber: 123
+street: Terry Parkway
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

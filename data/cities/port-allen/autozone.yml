@@ -1,11 +1,11 @@
 id: 1091964997
-type: way
+type: node
 latitude: 30.4462
 longitude: -91.20958
 postcode: "70767"
 city: Port Allen
-street: "South Alexander Avenue"
-housenumber: 850
+street: South Alexander Avenue
+housenumber: "850"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su 07:00-20:00"
-website: "https://www.autozone.com/locations/la/port-allen/850-s-alexander-ave.html"
+opening_hours: Mo-Sa 07:00-21:00; Su 07:00-20:00
+website: https://www.autozone.com/locations/la/port-allen/850-s-alexander-ave.html

@@ -1,11 +1,11 @@
 id: 1267303924
-type: way
+type: node
 latitude: 32.58104
 longitude: -93.89249
 postcode: "71107"
 city: Shreveport
-street: "West Daugherty Avenue"
-housenumber: 102
+street: West Daugherty Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1235781799
-type: way
+type: node
 latitude: 30.72579
 longitude: -90.52916
 postcode: "70422"
 city: Amite City
-street: "West Oak Street"
-housenumber: 1205
+street: West Oak Street
+housenumber: "1205"
 phone: ""
 opening_hours: ""
 website: ""

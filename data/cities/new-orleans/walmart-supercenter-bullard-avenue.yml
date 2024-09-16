@@ -1,11 +1,11 @@
 id: 326345373
-type: way
+type: node
 latitude: 30.04305
 longitude: -89.96252
 postcode: "70128"
 city: New Orleans
-street: "Bullard Avenue"
-housenumber: 6000
-phone: "+1 504-434-6266"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/912/new-orleans-la/whats-new"
+street: Bullard Avenue
+housenumber: "6000"
+phone: +1 504-434-6266
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/912/new-orleans-la/whats-new

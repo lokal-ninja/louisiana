@@ -1,11 +1,11 @@
 id: 1066801346
-type: way
+type: node
 latitude: 29.88204
 longitude: -90.0242
 postcode: "70056"
 city: Gretna
-street: "Lapalco Boulevard"
-housenumber: 160
+street: Lapalco Boulevard
+housenumber: "160"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/la/gretna/160-la-palco-blvd.html"
+website: https://www.autozone.com/locations/la/gretna/160-la-palco-blvd.html

@@ -1,11 +1,11 @@
 id: 1190775410
-type: way
+type: node
 latitude: 32.49286
 longitude: -93.77916
 postcode: "71103"
 city: Shreveport
-street: "Lakeshore Drive"
-housenumber: 2600
+street: Lakeshore Drive
+housenumber: "2600"
 phone: ""
 opening_hours: ""
 website: ""

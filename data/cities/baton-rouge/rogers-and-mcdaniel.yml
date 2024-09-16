@@ -1,11 +1,11 @@
 id: 1219246711
-type: way
+type: node
 latitude: 30.44217
 longitude: -91.15284
 postcode: "70806"
 city: Baton Rouge
-street: "South Acadian Thruway"
-housenumber: 701
-phone: "+1-225-766-4141"
+street: South Acadian Thruway
+housenumber: "701"
+phone: +1-225-766-4141
 opening_hours: ""
-website: "https://www.rogersandmcdaniel.com/"
+website: https://www.rogersandmcdaniel.com/

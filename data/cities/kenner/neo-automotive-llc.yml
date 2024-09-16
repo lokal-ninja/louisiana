@@ -1,11 +1,11 @@
 id: 723926495
-type: way
+type: node
 latitude: 30.00869
 longitude: -90.24772
 postcode: "70062"
 city: Kenner
-street: "29th Street"
-housenumber: 1500
-phone: "+1-504-466-3917"
+street: 29th Street
+housenumber: "1500"
+phone: +1-504-466-3917
 opening_hours: ""
 website: ""

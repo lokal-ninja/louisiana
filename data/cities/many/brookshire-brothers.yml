@@ -1,11 +1,11 @@
 id: 490446011
-type: way
+type: node
 latitude: 31.56691
 longitude: -93.48681
 postcode: "71449"
 city: Many
-street: "Elizabeth Street"
-housenumber: 223
-phone: "(318) 256-2045"
+street: Elizabeth Street
+housenumber: "223"
+phone: (318) 256-2045
 opening_hours: ""
 website: ""

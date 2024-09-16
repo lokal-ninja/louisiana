@@ -1,11 +1,11 @@
 id: 382149551
-type: way
+type: node
 latitude: 30.18791
 longitude: -92.01378
 postcode: "70508"
 city: Lafayette
-street: "West Pinhook Road"
-housenumber: 1902
-phone: "+1 (337) 232-7921"
+street: West Pinhook Road
+housenumber: "1902"
+phone: +1 (337) 232-7921
 opening_hours: ""
-website: "https://www.poupartsbakery.com/"
+website: https://www.poupartsbakery.com/

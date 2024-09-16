@@ -1,11 +1,11 @@
 id: 215078244
-type: way
+type: node
 latitude: 30.01723
 longitude: -90.24949
 postcode: "70065"
 city: Kenner
-street: "West Esplanade Avenue"
-housenumber: 1401
+street: West Esplanade Avenue
+housenumber: "1401"
 phone: ""
 opening_hours: ""
 website: ""

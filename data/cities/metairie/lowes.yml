@@ -1,11 +1,11 @@
 id: 723914179
-type: way
+type: node
 latitude: 30.00241
 longitude: -90.1643
 postcode: "70002"
 city: Metairie
-street: "Veterans Memorial Boulevard"
-housenumber: 3742
-phone: "+1 504-780-0114"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/la-metairie/1054"
+street: Veterans Memorial Boulevard
+housenumber: "3742"
+phone: +1 504-780-0114
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/la-metairie/1054

@@ -1,11 +1,11 @@
 id: 1128308252
-type: way
+type: node
 latitude: 30.80479
 longitude: -91.38618
 postcode: "70775"
 city: Saint Francisville
-street: "US 61"
-housenumber: 7830
-phone: "225-245-7608"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.dollargeneral.com/store-directory/la/saint-francisville/775.html"
+street: US 61
+housenumber: "7830"
+phone: 225-245-7608
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.dollargeneral.com/store-directory/la/saint-francisville/775.html

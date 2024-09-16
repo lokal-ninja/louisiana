@@ -1,11 +1,11 @@
 id: 638554811
-type: way
+type: node
 latitude: 29.99514
 longitude: -90.24029
 postcode: "70062"
 city: Kenner
-street: "Williams Boulevard"
-housenumber: 2104
-phone: "+1 504-469-0861"
+street: Williams Boulevard
+housenumber: "2104"
+phone: +1 504-469-0861
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/kenner/la?search=1412"
+website: https://www.winndixie.com/storedetails/kenner/la?search=1412

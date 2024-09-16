@@ -1,11 +1,11 @@
 id: 1182272911
-type: way
+type: node
 latitude: 32.50063
 longitude: -92.1343
 postcode: "71291"
 city: West Monroe
-street: "North 7th Street"
-housenumber: 511
-phone: "(318) 512-4160"
-opening_hours: "Mo-Fr 07:30-17:00"
+street: North 7th Street
+housenumber: "511"
+phone: (318) 512-4160
+opening_hours: Mo-Fr 07:30-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 684898877
-type: way
+type: node
 latitude: 30.53241
 longitude: -92.07213
 postcode: "70570"
 city: Opelousas
-street: "East Landry Street"
-housenumber: 971
+street: East Landry Street
+housenumber: "971"
 phone: ""
 opening_hours: ""
 website: ""

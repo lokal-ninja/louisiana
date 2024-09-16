@@ -1,11 +1,11 @@
 id: 531733788
-type: way
+type: node
 latitude: 30.02157
 longitude: -90.25633
 postcode: "70065"
 city: Kenner
-street: "West Esplanade Avenue"
-housenumber: 820
-phone: "+1-504-467-8313"
+street: West Esplanade Avenue
+housenumber: "820"
+phone: +1-504-467-8313
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kenner-la-pharmacies/820-w-esplanade-ave-kenner-la-70065/storeid=5349"
+website: https://www.cvs.com/store-locator/kenner-la-pharmacies/820-w-esplanade-ave-kenner-la-70065/storeid=5349

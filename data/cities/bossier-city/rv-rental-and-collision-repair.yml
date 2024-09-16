@@ -1,11 +1,11 @@
 id: 1034345576
-type: way
+type: node
 latitude: 32.53363
 longitude: -93.67436
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 4425
-phone: "(318) 675-9699"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://bossierrvcollisionrepair.com/"
+street: East Texas Street
+housenumber: "4425"
+phone: (318) 675-9699
+opening_hours: Mo-Fr 08:00-17:00
+website: https://bossierrvcollisionrepair.com/

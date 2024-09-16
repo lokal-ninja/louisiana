@@ -1,11 +1,11 @@
 id: 1214454579
-type: way
+type: node
 latitude: 30.49564
 longitude: -91.12558
 postcode: "70805"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 6413
-phone: "+1-225-357-7515"
-opening_hours: "Mo-Fr 07:00-16:30"
-website: "https://www.crawlersupply.com/"
+street: Airline Highway
+housenumber: "6413"
+phone: +1-225-357-7515
+opening_hours: Mo-Fr 07:00-16:30
+website: https://www.crawlersupply.com/

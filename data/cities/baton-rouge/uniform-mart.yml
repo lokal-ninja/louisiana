@@ -1,11 +1,11 @@
 id: 1212654889
-type: way
+type: node
 latitude: 30.43764
 longitude: -91.08382
 postcode: "70815"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 9535
-phone: "+1-225-925-9552"
+street: Airline Highway
+housenumber: "9535"
+phone: +1-225-925-9552
 opening_hours: ""
-website: "https://uniformmartinc.com/"
+website: https://uniformmartinc.com/

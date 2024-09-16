@@ -1,11 +1,11 @@
 id: 491675477
-type: way
+type: node
 latitude: 32.47515
 longitude: -93.75348
 postcode: "71104"
 city: Shreveport
-street: "Saint Vincent Avenue"
-housenumber: 1133
+street: Saint Vincent Avenue
+housenumber: "1133"
 phone: ""
 opening_hours: ""
-website: "https://www.mallstvincent.com/"
+website: https://www.mallstvincent.com/

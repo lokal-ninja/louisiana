@@ -4,8 +4,8 @@ latitude: 32.52791
 longitude: -93.70925
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 2900
-phone: "(318) 549-0110"
-opening_hours: "Mo-Sa 09:30-19:30, Su 12:00-18:00"
-website: "https://www.nails2000.com"
+street: East Texas Street
+housenumber: "2900"
+phone: (318) 549-0110
+opening_hours: Mo-Sa 09:30-19:30, Su 12:00-18:00
+website: https://www.nails2000.com

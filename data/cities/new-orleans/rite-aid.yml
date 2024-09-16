@@ -1,11 +1,11 @@
 id: 326712477
-type: way
+type: node
 latitude: 30.03858
 longitude: -89.95398
 postcode: ""
 city: New Orleans
-street: "Bullard Avenue"
-housenumber: 5661
+street: Bullard Avenue
+housenumber: "5661"
 phone: ""
 opening_hours: ""
 website: ""

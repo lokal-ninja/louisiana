@@ -1,11 +1,11 @@
 id: 1119645792
-type: way
+type: node
 latitude: 32.51445
 longitude: -92.16137
 postcode: "71291"
 city: West Monroe
-street: "Bell Lane"
-housenumber: 218
-phone: "(318) 600-3472"
-opening_hours: "Tu-Fr 09:00-17:00"
-website: "https://definelashco.com/"
+street: Bell Lane
+housenumber: "218"
+phone: (318) 600-3472
+opening_hours: Tu-Fr 09:00-17:00
+website: https://definelashco.com/

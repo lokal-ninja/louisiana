@@ -1,11 +1,11 @@
 id: 723925401
-type: way
+type: node
 latitude: 30.00084
 longitude: -90.1823
 postcode: "70006"
 city: Metairie
-street: "Trenton Street"
-housenumber: 4440
+street: Trenton Street
+housenumber: "4440"
 phone: ""
 opening_hours: ""
 website: ""

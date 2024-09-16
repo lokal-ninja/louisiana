@@ -1,11 +1,11 @@
 id: 670811343
-type: way
+type: node
 latitude: 30.00505
 longitude: -90.17531
 postcode: "70002"
 city: Metairie
-street: "Veterans Memorial Boulevard"
-housenumber: 4015
+street: Veterans Memorial Boulevard
+housenumber: "4015"
 phone: ""
 opening_hours: ""
 website: ""

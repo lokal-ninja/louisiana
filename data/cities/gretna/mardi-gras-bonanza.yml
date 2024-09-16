@@ -1,11 +1,11 @@
 id: 520151801
-type: way
+type: node
 latitude: 29.91237
 longitude: -90.05441
 postcode: "70053"
 city: Gretna
-street: "Westbank Expressway"
-housenumber: 225
+street: Westbank Expressway
+housenumber: "225"
 phone: ""
 opening_hours: ""
 website: ""

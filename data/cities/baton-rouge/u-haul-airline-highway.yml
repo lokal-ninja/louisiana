@@ -1,11 +1,11 @@
 id: 1217621101
-type: way
+type: node
 latitude: 30.47326
 longitude: -91.11117
 postcode: "70814"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 7650
-phone: "+1-225-927-4175"
-opening_hours: "Su 09:00-17:00; Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00"
-website: "https://www.uhaul.com/Locations/Truck-Rentals-near-Baton-Rouge-LA-70815/927050/"
+street: Airline Highway
+housenumber: "7650"
+phone: +1-225-927-4175
+opening_hours: Su 09:00-17:00; Mo-Th 07:00-19:00; Fr 07:00-20:00; Sa 07:00-19:00
+website: https://www.uhaul.com/Locations/Truck-Rentals-near-Baton-Rouge-LA-70815/927050/

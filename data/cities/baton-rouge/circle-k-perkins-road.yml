@@ -1,11 +1,11 @@
 id: 1007087218
-type: way
+type: node
 latitude: 30.42233
 longitude: -91.15459
 postcode: "70808"
 city: Baton Rouge
-street: "Perkins Road"
-housenumber: 3375
-phone: "225 387 5887"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/baton-rouge/3375-perkins-rd/2709717"
+street: Perkins Road
+housenumber: "3375"
+phone: 225 387 5887
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/baton-rouge/3375-perkins-rd/2709717

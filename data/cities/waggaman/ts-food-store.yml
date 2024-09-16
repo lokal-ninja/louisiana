@@ -1,11 +1,11 @@
 id: 1062702843
-type: way
+type: node
 latitude: 29.91972
 longitude: -90.21033
 postcode: "70094"
 city: Waggaman
-street: "River Road"
-housenumber: 6243
+street: River Road
+housenumber: "6243"
 phone: ""
 opening_hours: ""
 website: ""

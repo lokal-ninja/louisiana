@@ -1,11 +1,11 @@
 id: 879495066
-type: way
+type: node
 latitude: 31.07487
 longitude: -92.05329
 postcode: "71350"
 city: Mansura
-street: "lA-1"
-housenumber: 8016
+street: lA-1
+housenumber: "8016"
 phone: ""
 opening_hours: ""
 website: ""

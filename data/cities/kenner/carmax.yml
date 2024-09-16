@@ -1,11 +1,11 @@
 id: 706274895
-type: way
+type: node
 latitude: 30.01214
 longitude: -90.245
 postcode: "70065"
 city: Kenner
-street: "32nd Street"
-housenumber: 1601
+street: 32nd Street
+housenumber: "1601"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/6110"
+website: https://www.carmax.com/stores/6110

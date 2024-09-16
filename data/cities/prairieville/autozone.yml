@@ -1,11 +1,11 @@
 id: 1197863188
-type: way
+type: node
 latitude: 30.32197
 longitude: -90.94056
 postcode: "70769"
 city: Prairieville
-street: "Highway 42"
-housenumber: 39509
-phone: "+1-225-744-7770"
-opening_hours: "Su-Sa 07:00-21:00"
-website: "https://www.autozone.com/locations/la/prairieville/39509-la-42.html"
+street: Highway 42
+housenumber: "39509"
+phone: +1-225-744-7770
+opening_hours: Su-Sa 07:00-21:00
+website: https://www.autozone.com/locations/la/prairieville/39509-la-42.html

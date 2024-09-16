@@ -1,11 +1,11 @@
 id: 1248833179
-type: way
+type: node
 latitude: 30.45673
 longitude: -91.06888
 postcode: "70815"
 city: Baton Rouge
-street: "Florida Boulevard"
-housenumber: 10330
-phone: "+1-225-444-5006"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://tigermasterlube.business.site/"
+street: Florida Boulevard
+housenumber: "10330"
+phone: +1-225-444-5006
+opening_hours: Mo-Fr 08:30-18:00
+website: https://tigermasterlube.business.site/

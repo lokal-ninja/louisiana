@@ -1,11 +1,11 @@
 id: 1305266899
-type: way
+type: node
 latitude: 32.77277
 longitude: -92.39849
 postcode: "71241"
 city: Farmerville
-street: "Sterlington Highway"
-housenumber: 609
+street: Sterlington Highway
+housenumber: "609"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/la/farmerville/autoparts-2120.html"
+website: https://locations.oreillyauto.com/la/farmerville/autoparts-2120.html

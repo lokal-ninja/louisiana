@@ -1,11 +1,11 @@
 id: 551385618
-type: way
+type: node
 latitude: 32.62228
 longitude: -93.27697
 postcode: "71055"
 city: Minden
-street: "Homer Road"
-housenumber: 205
-phone: "+1-318-377-7720"
+street: Homer Road
+housenumber: "205"
+phone: +1-318-377-7720
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 743532314
-type: way
+type: node
 latitude: 32.52528
 longitude: -92.63944
 postcode: "71270"
 city: Ruston
-street: "Dan Reneau Avenue"
-housenumber: 101
+street: Dan Reneau Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

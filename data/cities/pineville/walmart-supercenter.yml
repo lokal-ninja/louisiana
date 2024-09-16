@@ -1,11 +1,11 @@
 id: 51998147
-type: way
+type: node
 latitude: 31.36737
 longitude: -92.40726
 postcode: "71360"
 city: Pineville
-street: "Monroe Highway"
-housenumber: 3636
-phone: "+1 318-640-6900"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/75/pineville-la/whats-new"
+street: Monroe Highway
+housenumber: "3636"
+phone: +1 318-640-6900
+opening_hours: 24/7
+website: https://www.walmart.com/store/75/pineville-la/whats-new

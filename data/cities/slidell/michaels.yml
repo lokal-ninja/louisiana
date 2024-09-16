@@ -1,11 +1,11 @@
 id: 704074965
-type: way
+type: node
 latitude: 30.26585
 longitude: -89.75878
 postcode: "70458"
 city: Slidell
-street: "Town Center Parkway"
-housenumber: 300
-phone: "+1 985-718-1464"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/la/slidell/1061"
+street: Town Center Parkway
+housenumber: "300"
+phone: +1 985-718-1464
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/la/slidell/1061

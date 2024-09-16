@@ -1,11 +1,11 @@
 id: 993466589
-type: way
+type: node
 latitude: 32.7794
 longitude: -91.89469
 postcode: ""
 city: Bastrop
-street: "East Madison Avenue"
-housenumber: 1704
-phone: "318-281-6010"
+street: East Madison Avenue
+housenumber: "1704"
+phone: 318-281-6010
 opening_hours: ""
-website: "https://www.ivansmith.com/"
+website: https://www.ivansmith.com/

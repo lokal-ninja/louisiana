@@ -1,11 +1,11 @@
 id: 599081547
-type: way
+type: node
 latitude: 30.15682
 longitude: -92.05096
 postcode: "70508"
 city: Lafayette
-street: "Ambassador Caffery"
-housenumber: 4400
-phone: "+1 337-984-4587"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00"
-website: "https://local.albertsons.com/la/lafayette/4400-ambassador-caffery.html"
+street: Ambassador Caffery
+housenumber: "4400"
+phone: +1 337-984-4587
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00
+website: https://local.albertsons.com/la/lafayette/4400-ambassador-caffery.html

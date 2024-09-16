@@ -1,11 +1,11 @@
 id: 1032794295
-type: way
+type: node
 latitude: 30.62885
 longitude: -90.49958
 postcode: "70443"
 city: Independence
-street: "West Railroad Avenue"
-housenumber: 291
+street: West Railroad Avenue
+housenumber: "291"
 phone: ""
 opening_hours: ""
-website: "https://www.specialoccasionbyora.com/"
+website: https://www.specialoccasionbyora.com/

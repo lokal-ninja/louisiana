@@ -1,11 +1,11 @@
 id: 1103555265
-type: way
+type: node
 latitude: 32.51262
 longitude: -92.35827
 postcode: "71225"
 city: Calhoun
-street: "US Highway 80"
-housenumber: 2984
-phone: "(318) 664-0330"
-opening_hours: "Mo-Fr 08:00-15:30"
+street: US Highway 80
+housenumber: "2984"
+phone: (318) 664-0330
+opening_hours: Mo-Fr 08:00-15:30
 website: ""

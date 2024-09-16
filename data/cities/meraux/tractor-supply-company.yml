@@ -1,11 +1,11 @@
 id: 1176579925
-type: way
+type: node
 latitude: 29.93338
 longitude: -89.92359
 postcode: "70075"
 city: Meraux
-street: "Archbishop Hannan Boulevard"
-housenumber: 2505
-phone: "+1 504-277-4242"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Archbishop Hannan Boulevard
+housenumber: "2505"
+phone: +1 504-277-4242
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 29.94782
 longitude: -90.1302
 postcode: "70118"
 city: New Orleans
-street: "Oak Street"
-housenumber: 8119
-phone: "504-866-9944"
-opening_hours: "Mo-Fr 10:00-17:30; Sa 10:00-16:00"
-website: "https://haases.com/"
+street: Oak Street
+housenumber: "8119"
+phone: 504-866-9944
+opening_hours: Mo-Fr 10:00-17:30; Sa 10:00-16:00
+website: https://haases.com/

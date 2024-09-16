@@ -1,11 +1,11 @@
 id: 556117383
-type: way
+type: node
 latitude: 32.87027
 longitude: -93.98757
 postcode: "71082"
 city: Vivian
-street: "South Pine Street"
-housenumber: 309
+street: South Pine Street
+housenumber: "309"
 phone: ""
 opening_hours: ""
 website: ""

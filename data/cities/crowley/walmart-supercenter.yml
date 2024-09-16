@@ -1,11 +1,11 @@
 id: 476052381
-type: way
+type: node
 latitude: 30.2338
 longitude: -92.36564
 postcode: "70526"
 city: Crowley
-street: "Odd Fellows Road"
-housenumber: 729
-phone: "+1 337-783-6387"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/310/crowley-la/whats-new"
+street: Odd Fellows Road
+housenumber: "729"
+phone: +1 337-783-6387
+opening_hours: 24/7
+website: https://www.walmart.com/store/310/crowley-la/whats-new

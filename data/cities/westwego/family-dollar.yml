@@ -1,11 +1,11 @@
 id: 1064707534
-type: way
+type: node
 latitude: 29.90328
 longitude: -90.15169
 postcode: "70094"
 city: Westwego
-street: "Louisiana Street"
-housenumber: 316
+street: Louisiana Street
+housenumber: "316"
 phone: ""
 opening_hours: ""
 website: ""

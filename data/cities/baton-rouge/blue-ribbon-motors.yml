@@ -1,11 +1,11 @@
 id: 713558537
-type: way
+type: node
 latitude: 30.46065
 longitude: -91.10227
 postcode: "70815"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 8308
-phone: "(225) 218-1113"
-opening_hours: "Mo-Tu 9:00-18:30; Sa 9:00-14:30"
-website: "https://www.blueribbonmotors.co/"
+street: Airline Highway
+housenumber: "8308"
+phone: (225) 218-1113
+opening_hours: Mo-Tu 9:00-18:30; Sa 9:00-14:30
+website: https://www.blueribbonmotors.co/

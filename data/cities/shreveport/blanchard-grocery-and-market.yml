@@ -1,11 +1,11 @@
 id: 1224002277
-type: way
+type: node
 latitude: 32.58229
 longitude: -93.89248
 postcode: "71107"
 city: Shreveport
-street: "North Main Street"
-housenumber: 103
+street: North Main Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

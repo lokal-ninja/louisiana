@@ -1,11 +1,11 @@
 id: 1029123242
-type: way
+type: node
 latitude: 32.52919
 longitude: -93.68068
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 4050
-phone: "(318) 698-7296"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://super-pawn-inc.edan.io"
+street: East Texas Street
+housenumber: "4050"
+phone: (318) 698-7296
+opening_hours: Mo-Sa 09:00-18:00
+website: https://super-pawn-inc.edan.io

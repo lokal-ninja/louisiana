@@ -1,11 +1,11 @@
 id: 1027264429
-type: way
+type: node
 latitude: 32.52925
 longitude: -93.69843
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 3151
-phone: "(318) 747-6911"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.cashamerica.com"
+street: East Texas Street
+housenumber: "3151"
+phone: (318) 747-6911
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.cashamerica.com

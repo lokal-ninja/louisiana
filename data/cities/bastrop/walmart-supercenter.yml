@@ -1,11 +1,11 @@
 id: 1311906712
-type: way
+type: node
 latitude: 32.77625
 longitude: -91.87116
 postcode: "71220"
 city: Bastrop
-street: "Mer Rouge Road"
-housenumber: 6091
-phone: "+1 318-281-9384"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/98/bastrop-la/whats-new"
+street: Mer Rouge Road
+housenumber: "6091"
+phone: +1 318-281-9384
+opening_hours: 24/7
+website: https://www.walmart.com/store/98/bastrop-la/whats-new

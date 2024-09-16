@@ -1,11 +1,11 @@
 id: 363316726
-type: way
+type: node
 latitude: 30.37459
 longitude: -91.0322
 postcode: "70817"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 13999
-phone: "225-650-2150"
+street: Airline Highway
+housenumber: "13999"
+phone: 225-650-2150
 opening_hours: ""
-website: "https://www.subarubr.com/"
+website: https://www.subarubr.com/

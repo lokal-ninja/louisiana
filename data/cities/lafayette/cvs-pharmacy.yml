@@ -1,11 +1,11 @@
 id: 670931402
-type: way
+type: node
 latitude: 30.15989
 longitude: -91.99033
 postcode: "70508"
 city: Lafayette
-street: "West Pinhook Road"
-housenumber: 3604
+street: West Pinhook Road
+housenumber: "3604"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/broussard-la-pharmacies/3604-pinhook-rd-broussard-la-70518/storeid=5560"
+website: https://www.cvs.com/store-locator/broussard-la-pharmacies/3604-pinhook-rd-broussard-la-70518/storeid=5560

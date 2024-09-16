@@ -1,11 +1,11 @@
 id: 638340055
-type: way
+type: node
 latitude: 29.99908
 longitude: -90.24078
 postcode: "70062"
 city: Kenner
-street: "Williams Boulevard"
-housenumber: 2326
-phone: "(504) 465-5980"
+street: Williams Boulevard
+housenumber: "2326"
+phone: (504) 465-5980
 opening_hours: ""
 website: ""

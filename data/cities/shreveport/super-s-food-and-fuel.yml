@@ -1,11 +1,11 @@
 id: 1010338409
-type: way
+type: node
 latitude: 32.58359
 longitude: -93.84656
 postcode: "71107"
 city: Shreveport
-street: "Roy Road"
-housenumber: 3910
-phone: "+1 (318) 489-4058"
-opening_hours: "Mo-Sa 05:00-23:00, Su 05:00-22:00"
+street: Roy Road
+housenumber: "3910"
+phone: +1 (318) 489-4058
+opening_hours: Mo-Sa 05:00-23:00, Su 05:00-22:00
 website: ""

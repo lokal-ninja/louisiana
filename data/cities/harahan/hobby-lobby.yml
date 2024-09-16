@@ -1,11 +1,11 @@
 id: 891395370
-type: way
+type: node
 latitude: 29.96686
 longitude: -90.18752
 postcode: "70123"
 city: Harahan
-street: "Citrus Boulevard"
-housenumber: 5151
+street: Citrus Boulevard
+housenumber: "5151"
 phone: ""
 opening_hours: ""
 website: ""

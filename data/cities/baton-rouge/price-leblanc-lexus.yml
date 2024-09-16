@@ -1,11 +1,11 @@
 id: 1152322452
-type: way
+type: node
 latitude: 30.37641
 longitude: -91.0366
 postcode: "70809"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 13200
-phone: "225-408-2100"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.priceleblanclexus.com/"
+street: Airline Highway
+housenumber: "13200"
+phone: 225-408-2100
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.priceleblanclexus.com/

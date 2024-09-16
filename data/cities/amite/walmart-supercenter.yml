@@ -1,11 +1,11 @@
 id: 358218736
-type: way
+type: node
 latitude: 30.72946
 longitude: -90.52898
 postcode: "70422"
 city: Amite
-street: "West Oak Street"
-housenumber: 1200
-phone: "+1 985-748-7707"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/3616/amite-la/whats-new"
+street: West Oak Street
+housenumber: "1200"
+phone: +1 985-748-7707
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/3616/amite-la/whats-new

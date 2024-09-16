@@ -1,11 +1,11 @@
 id: 1078898781
-type: way
+type: node
 latitude: 32.68284
 longitude: -91.40337
 postcode: "71266"
 city: Pioneer
-street: "Orchard Lane"
-housenumber: 195
-phone: "(318) 282-1410"
+street: Orchard Lane
+housenumber: "195"
+phone: (318) 282-1410
 opening_hours: ""
-website: "https://www.facebook.com/produceridge"
+website: https://www.facebook.com/produceridge

@@ -1,11 +1,11 @@
 id: 704074966
-type: way
+type: node
 latitude: 30.26486
 longitude: -89.75915
 postcode: "70458"
 city: Slidell
-street: "Town Center Parkway"
-housenumber: 310
-phone: "+1 985-643-1426"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/la/slidell-1502.shtml"
+street: Town Center Parkway
+housenumber: "310"
+phone: +1 985-643-1426
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/la/slidell-1502.shtml

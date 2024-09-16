@@ -1,11 +1,11 @@
 id: 404291900
-type: way
+type: node
 latitude: 30.44318
 longitude: -90.13938
 postcode: ""
 city: Covington
-street: "Highway 21"
-housenumber: 69324
+street: Highway 21
+housenumber: "69324"
 phone: ""
 opening_hours: ""
 website: ""

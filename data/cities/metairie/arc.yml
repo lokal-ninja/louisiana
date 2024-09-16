@@ -1,11 +1,11 @@
 id: 473686403
-type: way
+type: node
 latitude: 30.00736
 longitude: -90.16039
 postcode: "70002"
 city: Metairie
-street: "20th Street"
-housenumber: 3521
+street: 20th Street
+housenumber: "3521"
 phone: ""
 opening_hours: ""
-website: "https://www.e-arc.com/location/metairie/"
+website: https://www.e-arc.com/location/metairie/

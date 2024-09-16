@@ -1,11 +1,11 @@
 id: 1034855543
-type: way
+type: node
 latitude: 32.53829
 longitude: -93.6588
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 5505
-phone: "(318) 746-1993"
-opening_hours: "Mo-Sa 08:00-24:00, Su 10:30-19:00"
-website: "https://www.saveatthrifty.com/"
+street: East Texas Street
+housenumber: "5505"
+phone: (318) 746-1993
+opening_hours: Mo-Sa 08:00-24:00, Su 10:30-19:00
+website: https://www.saveatthrifty.com/

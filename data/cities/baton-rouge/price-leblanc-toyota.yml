@@ -1,11 +1,11 @@
 id: 1152322455
-type: way
+type: node
 latitude: 30.37565
 longitude: -91.03615
 postcode: "70809"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 13250
-phone: "225-399-4137"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.priceleblanctoyota.com/"
+street: Airline Highway
+housenumber: "13250"
+phone: 225-399-4137
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.priceleblanctoyota.com/

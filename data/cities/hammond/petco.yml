@@ -1,11 +1,11 @@
 id: 755455362
-type: way
+type: node
 latitude: 30.5012
 longitude: -90.48875
 postcode: "70401"
 city: Hammond
-street: "West Thomas Street"
-housenumber: 2440
-phone: "+1 985-520-6042"
-opening_hours: "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/la/hammond/pet-supplies-hammond-la-2515.html"
+street: West Thomas Street
+housenumber: "2440"
+phone: +1 985-520-6042
+opening_hours: Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/la/hammond/pet-supplies-hammond-la-2515.html

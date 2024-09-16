@@ -1,11 +1,11 @@
 id: 1192547862
-type: way
+type: node
 latitude: 30.35995
 longitude: -91.1247
 postcode: "70820"
 city: Baton Rouge
-street: "Burbank Drive"
-housenumber: 9320
-phone: "+1-225-761-8829"
-opening_hours: "24/7"
-website: "https://www.circlek.com/store-locator/US/baton-rouge/9320-burbank-dr/2709722"
+street: Burbank Drive
+housenumber: "9320"
+phone: +1-225-761-8829
+opening_hours: 24/7
+website: https://www.circlek.com/store-locator/US/baton-rouge/9320-burbank-dr/2709722

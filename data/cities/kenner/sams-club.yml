@@ -1,11 +1,11 @@
 id: 215107429
-type: way
+type: node
 latitude: 30.01019
 longitude: -90.26328
 postcode: "70065"
 city: Kenner
-street: "31st Street"
-housenumber: 455
-phone: "+1 504-467-9677"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/kenner-la-sams-club/8261"
+street: 31st Street
+housenumber: "455"
+phone: +1 504-467-9677
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/kenner-la-sams-club/8261

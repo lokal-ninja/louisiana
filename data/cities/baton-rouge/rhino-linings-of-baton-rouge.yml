@@ -1,11 +1,11 @@
 id: 1174483082
-type: way
+type: node
 latitude: 30.39394
 longitude: -91.05356
 postcode: "70809"
 city: Baton Rouge
-street: "Mc Cann Drive"
-housenumber: 5828
-phone: "225-295-1500"
-opening_hours: "Mo-Fr 07:00-17:30"
-website: "https://rhinoliningsbatonrouge.com/"
+street: Mc Cann Drive
+housenumber: "5828"
+phone: 225-295-1500
+opening_hours: Mo-Fr 07:00-17:30
+website: https://rhinoliningsbatonrouge.com/

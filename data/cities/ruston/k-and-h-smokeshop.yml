@@ -1,11 +1,11 @@
 id: 743532321
-type: way
+type: node
 latitude: 32.52444
 longitude: -92.63874
 postcode: "71270"
 city: Ruston
-street: "South Vienna Street"
-housenumber: 500
+street: South Vienna Street
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

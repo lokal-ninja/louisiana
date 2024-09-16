@@ -1,11 +1,11 @@
 id: 891398113
-type: way
+type: node
 latitude: 29.89594
 longitude: -90.09713
 postcode: "70072"
 city: Marrero
-street: "Westbank Expressway"
-housenumber: 4600
+street: Westbank Expressway
+housenumber: "4600"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4600+westbank+expy-marrero-la-70072/id=5516"
+website: https://www.walgreens.com/locator/walgreens-4600+westbank+expy-marrero-la-70072/id=5516

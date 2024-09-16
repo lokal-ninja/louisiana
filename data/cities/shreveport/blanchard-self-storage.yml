@@ -1,11 +1,11 @@
 id: 1135027960
-type: way
+type: node
 latitude: 32.60784
 longitude: -93.87192
 postcode: "71107"
 city: Shreveport
-street: "Old Mooringsport Road"
-housenumber: 7183
-phone: "(318) 929-9906"
-opening_hours: "24/7"
+street: Old Mooringsport Road
+housenumber: "7183"
+phone: (318) 929-9906
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 292229931
-type: way
+type: node
 latitude: 32.5262
 longitude: -93.70361
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 2950
+street: East Texas Street
+housenumber: "2950"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1041195903
-type: way
+type: node
 latitude: 30.0184
 longitude: -90.13322
 postcode: "70005"
 city: Metairie
-street: "Live Oak Street"
-housenumber: 1013
+street: Live Oak Street
+housenumber: "1013"
 phone: ""
 opening_hours: ""
 website: ""

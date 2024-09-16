@@ -4,8 +4,8 @@ latitude: 29.96405
 longitude: -90.0579
 postcode: "70116"
 city: New Orleans
-street: "Frenchmen Street"
-housenumber: 622
-phone: "+1 504 945 9505"
-opening_hours: "Su 10:00-15:00; Mo, Tu, Th, Fr, Sa 10:00-17:00; We off"
-website: "https://bicyclemichaels.com/"
+street: Frenchmen Street
+housenumber: "622"
+phone: +1 504 945 9505
+opening_hours: Su 10:00-15:00; Mo, Tu, Th, Fr, Sa 10:00-17:00; We off
+website: https://bicyclemichaels.com/

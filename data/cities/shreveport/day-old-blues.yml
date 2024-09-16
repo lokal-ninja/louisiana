@@ -1,11 +1,11 @@
 id: 852031403
-type: way
+type: node
 latitude: 32.48161
 longitude: -93.73875
 postcode: "71104"
 city: Shreveport
-street: "West Kings Highway"
-housenumber: 437
+street: West Kings Highway
+housenumber: "437"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/dayoldbluesrecords"
+website: https://www.facebook.com/dayoldbluesrecords

@@ -1,11 +1,11 @@
 id: 547111363
-type: way
+type: node
 latitude: 29.90924
 longitude: -90.20588
 postcode: "70094"
 city: Avondale
-street: "US-90"
-housenumber: 3001
+street: US-90
+housenumber: "3001"
 phone: ""
 opening_hours: ""
 website: ""

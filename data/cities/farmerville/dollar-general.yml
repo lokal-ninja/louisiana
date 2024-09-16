@@ -1,11 +1,11 @@
 id: 675911572
-type: way
+type: node
 latitude: 32.76102
 longitude: -92.41235
 postcode: "71241"
 city: Farmerville
-street: "South Main Street"
-housenumber: 1080
+street: South Main Street
+housenumber: "1080"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/la/farmerville/9072"
+website: https://www.dollargeneral.com/store-directory/la/farmerville/9072

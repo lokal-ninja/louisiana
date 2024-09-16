@@ -1,11 +1,11 @@
 id: 1075436761
-type: way
+type: node
 latitude: 32.54266
 longitude: -92.65566
 postcode: "71270"
 city: Ruston
-street: "Woodward Avenue"
-housenumber: 1226
+street: Woodward Avenue
+housenumber: "1226"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

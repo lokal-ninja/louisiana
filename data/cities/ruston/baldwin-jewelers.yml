@@ -1,11 +1,11 @@
 id: 743164928
-type: way
+type: node
 latitude: 32.5291
 longitude: -92.63841
 postcode: "71270"
 city: Ruston
-street: "Park Avenue"
-housenumber: 102
+street: Park Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

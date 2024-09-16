@@ -1,11 +1,11 @@
 id: 1111552507
-type: way
+type: node
 latitude: 30.54799
 longitude: -91.97406
 postcode: "70577"
 city: Port Barre
-street: "US Highway 190"
-housenumber: 17331
+street: US Highway 190
+housenumber: "17331"
 phone: ""
 opening_hours: ""
 website: ""

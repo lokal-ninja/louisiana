@@ -1,11 +1,11 @@
 id: 128119630
-type: way
+type: node
 latitude: 32.49788
 longitude: -92.06257
 postcode: "71203"
 city: Monroe
-street: "Millhaven Road"
-housenumber: 4700
+street: Millhaven Road
+housenumber: "4700"
 phone: ""
-opening_hours: "Mo-Su 10:00-21:00"
+opening_hours: Mo-Su 10:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 32.52201
 longitude: -92.10142
 postcode: "71201"
 city: Monroe
-street: "Louisville Ave"
-housenumber: 2221
-phone: "+1 -318-605-1856"
-opening_hours: "Tuesday-Saturday: 1:00PM to 6:00PM"
-website: "https://diyjoyfulcreations.com"
+street: Louisville Ave
+housenumber: "2221"
+phone: +1 -318-605-1856
+opening_hours: 'Tuesday-Saturday: 1:00PM to 6:00PM'
+website: https://diyjoyfulcreations.com

@@ -1,11 +1,11 @@
 id: 909141150
-type: way
+type: node
 latitude: 30.23578
 longitude: -93.37554
 postcode: "70663"
 city: Sulphur
-street: "East Thomas Street"
-housenumber: 217
+street: East Thomas Street
+housenumber: "217"
 phone: ""
 opening_hours: ""
 website: ""

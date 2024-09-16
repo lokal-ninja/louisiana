@@ -1,11 +1,11 @@
 id: 1029122696
-type: way
+type: node
 latitude: 32.53221
 longitude: -93.68348
 postcode: "71111"
 city: Bossier City
-street: "Eastside Street"
-housenumber: 1101
-phone: "(318) 747-1727"
+street: Eastside Street
+housenumber: "1101"
+phone: (318) 747-1727
 opening_hours: ""
 website: ""

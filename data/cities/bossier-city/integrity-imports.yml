@@ -1,11 +1,11 @@
 id: 1034345579
-type: way
+type: node
 latitude: 32.53457
 longitude: -93.67601
 postcode: "71111"
 city: Bossier City
-street: "Pearl Drive"
-housenumber: 1054
-phone: "(318) 741-6687"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "https://integrityautorepair.net/"
+street: Pearl Drive
+housenumber: "1054"
+phone: (318) 741-6687
+opening_hours: Mo-Fr 07:30-17:00
+website: https://integrityautorepair.net/

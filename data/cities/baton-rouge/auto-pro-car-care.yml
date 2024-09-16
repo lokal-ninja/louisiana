@@ -1,11 +1,11 @@
 id: 1192547866
-type: way
+type: node
 latitude: 30.35877
 longitude: -91.12153
 postcode: "70820"
 city: Baton Rouge
-street: "Burbank Drive"
-housenumber: 9544
-phone: "+1-225-767-5900"
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "https://autoprocarcare.business.site/"
+street: Burbank Drive
+housenumber: "9544"
+phone: +1-225-767-5900
+opening_hours: Mo-Fr 08:00-16:30
+website: https://autoprocarcare.business.site/

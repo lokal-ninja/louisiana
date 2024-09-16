@@ -1,11 +1,11 @@
 id: 520146982
-type: way
+type: node
 latitude: 29.91527
 longitude: -90.04895
 postcode: "70053"
 city: Gretna
-street: "Westbank Expressway"
-housenumber: 91
+street: Westbank Expressway
+housenumber: "91"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/la/gretna/91-westbank-expressway-ste-100.html"
+website: https://www.autozone.com/locations/la/gretna/91-westbank-expressway-ste-100.html

@@ -1,11 +1,11 @@
 id: 520146981
-type: way
+type: node
 latitude: 29.9155
 longitude: -90.04865
 postcode: "70053"
 city: Gretna
-street: "Westbank Expressway"
-housenumber: 89
+street: Westbank Expressway
+housenumber: "89"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-89+westbank+expy-gretna-la-70053/id=6506"
+website: https://www.walgreens.com/locator/walgreens-89+westbank+expy-gretna-la-70053/id=6506

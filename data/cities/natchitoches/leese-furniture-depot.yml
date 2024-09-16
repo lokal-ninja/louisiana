@@ -1,11 +1,11 @@
 id: 194785724
-type: way
+type: node
 latitude: 31.77243
 longitude: -93.09954
 postcode: ""
 city: Natchitoches
-street: "Texas St"
-housenumber: 1515
+street: Texas St
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

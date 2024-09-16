@@ -1,11 +1,11 @@
 id: 1235469630
-type: way
+type: node
 latitude: 30.22689
 longitude: -93.36135
 postcode: "70663"
 city: Sulphur
-street: "South Beglis Parkway"
-housenumber: 1421
-phone: "+1 337-528-9918"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.kroger.com/stores/grocery/la/sulphur/sulphur-store/034/00747"
+street: South Beglis Parkway
+housenumber: "1421"
+phone: +1 337-528-9918
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.kroger.com/stores/grocery/la/sulphur/sulphur-store/034/00747

@@ -1,11 +1,11 @@
 id: 1197863221
-type: way
+type: node
 latitude: 30.32094
 longitude: -90.95961
 postcode: "70769"
 city: Prairieville
-street: "Highway 42"
-housenumber: 38526
-phone: "+1-225-673-4384"
+street: Highway 42
+housenumber: "38526"
+phone: +1-225-673-4384
 opening_hours: ""
-website: "https://www.dieztirecompany.com/"
+website: https://www.dieztirecompany.com/

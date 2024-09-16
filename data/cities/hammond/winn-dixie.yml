@@ -1,11 +1,11 @@
 id: 413880747
-type: way
+type: node
 latitude: 30.50215
 longitude: -90.48705
 postcode: "70401"
 city: Hammond
-street: "West Thomas Street"
-housenumber: 2302
-phone: "+1 985-542-8901"
+street: West Thomas Street
+housenumber: "2302"
+phone: +1 985-542-8901
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/hammond/la?search=1537"
+website: https://www.winndixie.com/storedetails/hammond/la?search=1537

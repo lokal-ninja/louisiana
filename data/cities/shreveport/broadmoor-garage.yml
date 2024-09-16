@@ -1,11 +1,11 @@
 id: 852030314
-type: way
+type: node
 latitude: 32.48118
 longitude: -93.72434
 postcode: "71105"
 city: Shreveport
-street: "East Kings Highway"
-housenumber: 505
-phone: "+1 (318) 869-3407"
-opening_hours: "Mo-Fr 08:00-17:30"
+street: East Kings Highway
+housenumber: "505"
+phone: +1 (318) 869-3407
+opening_hours: Mo-Fr 08:00-17:30
 website: ""

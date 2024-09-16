@@ -1,11 +1,11 @@
 id: 1293750018
-type: way
+type: node
 latitude: 29.62267
 longitude: -90.74707
 postcode: "70364"
 city: Houma
-street: "West Park Avenue"
-housenumber: 6411
-phone: "+1 985-217-3665"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/5774/houma-la/whats-new"
+street: West Park Avenue
+housenumber: "6411"
+phone: +1 985-217-3665
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/5774/houma-la/whats-new

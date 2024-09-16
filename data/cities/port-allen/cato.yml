@@ -1,11 +1,11 @@
 id: 1056127024
-type: way
+type: node
 latitude: 30.42045
 longitude: -91.21902
 postcode: "70767"
 city: Port Allen
-street: "LA-1"
-housenumber: 3225
-phone: "+1-225-749-5021"
-opening_hours: "Mo 10:00-18:00; Tu-Sa 10:00-20:00; Su 1:00-18:00"
-website: "https://stores.catofashions.com/la/port-allen/3225-highway-1-south"
+street: LA-1
+housenumber: "3225"
+phone: +1-225-749-5021
+opening_hours: Mo 10:00-18:00; Tu-Sa 10:00-20:00; Su 1:00-18:00
+website: https://stores.catofashions.com/la/port-allen/3225-highway-1-south

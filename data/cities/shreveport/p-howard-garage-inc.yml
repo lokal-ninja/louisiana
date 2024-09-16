@@ -1,11 +1,11 @@
 id: 679308372
-type: way
+type: node
 latitude: 32.50943
 longitude: -93.7484
 postcode: "71101"
 city: Shreveport
-street: "Cotton Street"
-housenumber: 611
+street: Cotton Street
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 442508012
-type: way
+type: node
 latitude: 29.97707
 longitude: -90.09582
 postcode: "70119"
 city: New Orleans
-street: "North Carrollton Avenue"
-housenumber: 550
-phone: "+1 504-226-2030"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/la/neworleans/pet-supplies-neworleans-la-2511.html"
+street: North Carrollton Avenue
+housenumber: "550"
+phone: +1 504-226-2030
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/la/neworleans/pet-supplies-neworleans-la-2511.html

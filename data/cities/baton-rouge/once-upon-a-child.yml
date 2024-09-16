@@ -1,11 +1,11 @@
 id: 1150184770
-type: way
+type: node
 latitude: 30.40161
 longitude: -91.058
 postcode: "70809"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 11102
-phone: "225-291-2044"
-opening_hours: "Su 11:00-18:00; Mo-Sa 10:00-20:00"
-website: "https://www.onceuponachild.com/locations/baton-rouge-la"
+street: Airline Highway
+housenumber: "11102"
+phone: 225-291-2044
+opening_hours: Su 11:00-18:00; Mo-Sa 10:00-20:00
+website: https://www.onceuponachild.com/locations/baton-rouge-la

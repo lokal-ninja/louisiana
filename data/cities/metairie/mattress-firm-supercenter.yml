@@ -1,11 +1,11 @@
 id: 712415312
-type: way
+type: node
 latitude: 30.00561
 longitude: -90.18268
 postcode: "70006"
 city: Metairie
-street: "Veterans Memorial Boulevard"
-housenumber: 4421
-phone: "+1 504-888-6161"
+street: Veterans Memorial Boulevard
+housenumber: "4421"
+phone: +1 504-888-6161
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/la/metairie/022001/"
+website: https://www.mattressfirm.com/en-us/stores/la/metairie/022001/

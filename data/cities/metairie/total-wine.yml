@@ -1,11 +1,11 @@
 id: 727360253
-type: way
+type: node
 latitude: 30.00314
 longitude: -90.16791
 postcode: "70002"
 city: Metairie
-street: "Veterans Memorial Boulevard"
-housenumber: 3780
-phone: "+1 504-267-8866"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.totalwine.com/store-info/2501"
+street: Veterans Memorial Boulevard
+housenumber: "3780"
+phone: +1 504-267-8866
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.totalwine.com/store-info/2501

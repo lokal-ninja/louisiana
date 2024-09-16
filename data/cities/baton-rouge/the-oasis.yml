@@ -1,11 +1,11 @@
 id: 1099889088
-type: way
+type: node
 latitude: 30.4087
 longitude: -91.02421
 postcode: "70817"
 city: Baton Rouge
-street: "Coursey Boulevard"
-housenumber: 13827
+street: Coursey Boulevard
+housenumber: "13827"
 phone: ""
-opening_hours: "Sa 06:00-13:00"
-website: "https://themarketattheoasis.com/"
+opening_hours: Sa 06:00-13:00
+website: https://themarketattheoasis.com/

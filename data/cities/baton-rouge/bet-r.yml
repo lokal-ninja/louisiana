@@ -1,11 +1,11 @@
 id: 1005468705
-type: way
+type: node
 latitude: 30.42601
 longitude: -91.16034
 postcode: "70808"
 city: Baton Rouge
-street: "Kalurah Street"
-housenumber: 2812
-phone: "225 343 2361"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://betrgrocery.com/"
+street: Kalurah Street
+housenumber: "2812"
+phone: 225 343 2361
+opening_hours: Mo-Su 07:00-21:00
+website: https://betrgrocery.com/

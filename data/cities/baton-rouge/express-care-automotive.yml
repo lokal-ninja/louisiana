@@ -1,11 +1,11 @@
 id: 1210473378
-type: way
+type: node
 latitude: 30.40202
 longitude: -91.05296
 postcode: "70816"
 city: Baton Rouge
-street: "South Sherwood Forest Boulevard"
-housenumber: 5960
-phone: "+1-225-368-2273"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://oilchangebatonrouge.com/"
+street: South Sherwood Forest Boulevard
+housenumber: "5960"
+phone: +1-225-368-2273
+opening_hours: Mo-Fr 08:00-18:00
+website: https://oilchangebatonrouge.com/

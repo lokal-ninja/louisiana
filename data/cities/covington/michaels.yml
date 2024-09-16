@@ -1,11 +1,11 @@
 id: 404291915
-type: way
+type: node
 latitude: 30.44068
 longitude: -90.1425
-postcode: "70433-7214"
+postcode: 70433-7214
 city: Covington
-street: "Highway 21"
-housenumber: 69290
-phone: "+1 985-893-3420"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/la/covington/5023"
+street: Highway 21
+housenumber: "69290"
+phone: +1 985-893-3420
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/la/covington/5023

@@ -1,11 +1,11 @@
 id: 1017455001
-type: way
+type: node
 latitude: 32.59895
 longitude: -93.84044
 postcode: "71107"
 city: Shreveport
-street: "North Market Street"
-housenumber: 5865
+street: North Market Street
+housenumber: "5865"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-18:00
 website: ""

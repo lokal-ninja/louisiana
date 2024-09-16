@@ -1,11 +1,11 @@
 id: 978604556
-type: way
+type: node
 latitude: 32.55586
 longitude: -93.7094
 postcode: "71111"
 city: Bossier City
-street: "Viking Drive"
-housenumber: 2611
+street: Viking Drive
+housenumber: "2611"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su off
 website: ""

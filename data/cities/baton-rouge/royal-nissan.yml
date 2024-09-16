@@ -1,11 +1,11 @@
 id: 1212654877
-type: way
+type: node
 latitude: 30.43996
 longitude: -91.08547
 postcode: "70815"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 9325
-phone: "+1-225-924-0400"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.royalnissan.com/"
+street: Airline Highway
+housenumber: "9325"
+phone: +1-225-924-0400
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.royalnissan.com/

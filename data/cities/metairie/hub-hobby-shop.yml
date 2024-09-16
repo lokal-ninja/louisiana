@@ -1,11 +1,11 @@
 id: 725692145
-type: way
+type: node
 latitude: 29.97547
 longitude: -90.16844
 postcode: "70001"
 city: Metairie
-street: "Airline Drive"
-housenumber: 3829
+street: Airline Drive
+housenumber: "3829"
 phone: ""
 opening_hours: ""
-website: "https://hubhobbyshop.com/"
+website: https://hubhobbyshop.com/

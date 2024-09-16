@@ -1,11 +1,11 @@
 id: 404291893
-type: way
+type: node
 latitude: 30.44332
 longitude: -90.13854
 postcode: ""
 city: Covington
-street: "Highway 21"
-housenumber: 69330
+street: Highway 21
+housenumber: "69330"
 phone: ""
 opening_hours: ""
-website: "https://stores.shoecarnival.com/la/covington/shoe-store-covington-la-310.html"
+website: https://stores.shoecarnival.com/la/covington/shoe-store-covington-la-310.html

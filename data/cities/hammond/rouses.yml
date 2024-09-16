@@ -1,11 +1,11 @@
 id: 755451790
-type: way
+type: node
 latitude: 30.50242
 longitude: -90.49029
 postcode: "70401"
 city: Hammond
-street: "West Thomas Street"
-housenumber: 2704
+street: West Thomas Street
+housenumber: "2704"
 phone: ""
 opening_hours: ""
 website: ""

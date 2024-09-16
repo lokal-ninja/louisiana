@@ -1,11 +1,11 @@
 id: 1093823398
-type: way
+type: node
 latitude: 30.45167
 longitude: -91.20993
 postcode: "70767"
 city: Port Allen
-street: "South Alexander Avenue"
-housenumber: 120
+street: South Alexander Avenue
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

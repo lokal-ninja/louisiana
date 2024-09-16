@@ -1,11 +1,11 @@
 id: 176033894
-type: way
+type: node
 latitude: 30.35092
 longitude: -91.02792
 postcode: "70810"
 city: Baton Rouge
-street: "Highland Road"
-housenumber: 18139
-phone: "+1 225-755-1729"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Se-Baton-Rouge/LA/Baton-Rouge/70810/370"
+street: Highland Road
+housenumber: "18139"
+phone: +1 225-755-1729
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Se-Baton-Rouge/LA/Baton-Rouge/70810/370

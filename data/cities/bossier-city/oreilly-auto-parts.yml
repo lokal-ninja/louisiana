@@ -1,11 +1,11 @@
 id: 977686677
-type: way
+type: node
 latitude: 32.51831
 longitude: -93.71642
 postcode: "71111"
 city: Bossier City
-street: "Benton Road"
-housenumber: 200
+street: Benton Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/la/bossiercity/autoparts-855.html"
+website: https://locations.oreillyauto.com/la/bossiercity/autoparts-855.html

@@ -4,8 +4,8 @@ latitude: 30.474
 longitude: -90.08437
 postcode: "70433"
 city: Covington
-street: "Business"
-housenumber: 1200
-phone: "+1 985-809-2188"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00"
-website: "https://local.biglots.com/la/covington/1200-business-190"
+street: Business
+housenumber: "1200"
+phone: +1 985-809-2188
+opening_hours: Mo-We 10:00-21:00; Th-Sa 09:00-21:00; Su 10:00-21:00
+website: https://local.biglots.com/la/covington/1200-business-190

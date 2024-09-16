@@ -4,8 +4,8 @@ latitude: 30.40118
 longitude: -91.05744
 postcode: "70809"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 11112
+street: Airline Highway
+housenumber: "11112"
 phone: ""
-opening_hours: "Su 11:00-18:00; Mo-Sa 10:00-20:00"
-website: "https://www.style-encore.com/locations/baton-rouge-la"
+opening_hours: Su 11:00-18:00; Mo-Sa 10:00-20:00
+website: https://www.style-encore.com/locations/baton-rouge-la

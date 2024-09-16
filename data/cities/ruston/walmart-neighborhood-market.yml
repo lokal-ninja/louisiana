@@ -1,11 +1,11 @@
 id: 531583951
-type: way
+type: node
 latitude: 32.52244
 longitude: -92.64327
 postcode: "71270"
 city: Ruston
-street: "West California Avenue"
-housenumber: 321
-phone: "+1 318-497-6233"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/4577/ruston-la/whats-new"
+street: West California Avenue
+housenumber: "321"
+phone: +1 318-497-6233
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/4577/ruston-la/whats-new

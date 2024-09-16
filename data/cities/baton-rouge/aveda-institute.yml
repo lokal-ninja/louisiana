@@ -1,11 +1,11 @@
 id: 1210166284
-type: way
+type: node
 latitude: 30.42671
 longitude: -91.05445
 postcode: "70816"
 city: Baton Rouge
-street: "South Sherwood Forest Boulevard"
-housenumber: 
+street: South Sherwood Forest Boulevard
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://aveda.edu/locations/location/baton-rouge-la/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://aveda.edu/locations/location/baton-rouge-la/

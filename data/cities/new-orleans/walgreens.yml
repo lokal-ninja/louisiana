@@ -4,8 +4,8 @@ latitude: 29.92103
 longitude: -90.11659
 postcode: "70115"
 city: New Orleans
-street: "Magazine Street"
-housenumber: 5518
-phone: "504-899-0034"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-5518+magazine+st-new+orleans-la-70115/id=15199"
+street: Magazine Street
+housenumber: "5518"
+phone: 504-899-0034
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-5518+magazine+st-new+orleans-la-70115/id=15199

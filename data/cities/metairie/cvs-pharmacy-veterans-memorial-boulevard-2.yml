@@ -1,11 +1,11 @@
 id: 1064713300
-type: way
+type: node
 latitude: 30.00233
 longitude: -90.13814
 postcode: "70005"
 city: Metairie
-street: "Veterans Memorial Boulevard"
-housenumber: 1401
-phone: "+1-504-834-1570"
-opening_hours: "Su-Sa 08:00-22:00"
-website: "https://www.cvs.com/store-locator/metairie-la-pharmacies/1401-veterans-blvd-metairie-la-70005/storeid=10145"
+street: Veterans Memorial Boulevard
+housenumber: "1401"
+phone: +1-504-834-1570
+opening_hours: Su-Sa 08:00-22:00
+website: https://www.cvs.com/store-locator/metairie-la-pharmacies/1401-veterans-blvd-metairie-la-70005/storeid=10145

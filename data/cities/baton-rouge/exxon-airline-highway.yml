@@ -1,11 +1,11 @@
 id: 1217621094
-type: way
+type: node
 latitude: 30.48202
 longitude: -91.11741
 postcode: "70805"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 7234
-phone: "+1-225-888-3564"
-opening_hours: "Su-Sa 07:00-21:00"
-website: "https://locations.exxon.com/la/baton-rouge/7234-airline-hwy"
+street: Airline Highway
+housenumber: "7234"
+phone: +1-225-888-3564
+opening_hours: Su-Sa 07:00-21:00
+website: https://locations.exxon.com/la/baton-rouge/7234-airline-hwy

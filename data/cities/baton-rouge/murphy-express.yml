@@ -1,11 +1,11 @@
 id: 1212654851
-type: way
+type: node
 latitude: 30.43221
 longitude: -91.08004
 postcode: "70815"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 9679
-phone: "+1-225-325-0192"
-opening_hours: "Su 06:00-23:30; Mo-Sa 05:30-23:30"
-website: "https://www.murphyusa.com"
+street: Airline Highway
+housenumber: "9679"
+phone: +1-225-325-0192
+opening_hours: Su 06:00-23:30; Mo-Sa 05:30-23:30
+website: https://www.murphyusa.com

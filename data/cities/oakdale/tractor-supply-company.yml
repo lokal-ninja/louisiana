@@ -1,11 +1,11 @@
 id: 568598801
-type: way
+type: node
 latitude: 30.80025
 longitude: -92.67413
 postcode: "71463"
 city: Oakdale
-street: "Highway 165 South"
-housenumber: 733
-phone: "+1 318-335-0006"
-opening_hours: "Su 09:00-19:00; Mo-Sa 08:00-21:00"
-website: "https://www.tractorsupply.com/tsc/store_OAKDALE-LA-71463_1468"
+street: Highway 165 South
+housenumber: "733"
+phone: +1 318-335-0006
+opening_hours: Su 09:00-19:00; Mo-Sa 08:00-21:00
+website: https://www.tractorsupply.com/tsc/store_OAKDALE-LA-71463_1468

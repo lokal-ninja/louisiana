@@ -1,11 +1,11 @@
 id: 1053629160
-type: way
+type: node
 latitude: 32.51977
 longitude: -92.14495
 postcode: "71291"
 city: West Monroe
-street: "Cypress Street"
-housenumber: 2400
+street: Cypress Street
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

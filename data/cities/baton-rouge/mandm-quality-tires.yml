@@ -1,11 +1,11 @@
 id: 1253330056
-type: way
+type: node
 latitude: 30.45709
 longitude: -91.06685
 postcode: "70815"
 city: Baton Rouge
-street: "Florida Boulevard"
-housenumber: 10610
-phone: "+1-225-281-4282"
-opening_hours: "Su 08:00-22:00; Mo-Sa 07:00-22:30"
-website: "https://mm-quality-tires.business.site/"
+street: Florida Boulevard
+housenumber: "10610"
+phone: +1-225-281-4282
+opening_hours: Su 08:00-22:00; Mo-Sa 07:00-22:30
+website: https://mm-quality-tires.business.site/

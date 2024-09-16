@@ -1,11 +1,11 @@
 id: 199055463
-type: way
+type: node
 latitude: 32.52026
 longitude: -93.74259
 postcode: "71111"
 city: Bossier City
-street: "Bass Pro Drive"
-housenumber: 100
+street: Bass Pro Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

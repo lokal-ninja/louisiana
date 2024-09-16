@@ -1,11 +1,11 @@
 id: 1122203161
-type: way
+type: node
 latitude: 30.41743
 longitude: -91.14473
 postcode: "70808"
 city: Baton Rouge
-street: "Perkins Road"
-housenumber: 4427
+street: Perkins Road
+housenumber: "4427"
 phone: ""
 opening_hours: ""
 website: ""

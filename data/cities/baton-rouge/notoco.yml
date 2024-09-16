@@ -1,11 +1,11 @@
 id: 1060359272
-type: way
+type: node
 latitude: 30.41594
 longitude: -91.07029
 postcode: "70809"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 10380
+street: Airline Highway
+housenumber: "10380"
 phone: ""
 opening_hours: ""
-website: "http://notocoind.com/"
+website: http://notocoind.com/

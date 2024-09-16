@@ -1,11 +1,11 @@
 id: 1009198897
-type: way
+type: node
 latitude: 30.17382
 longitude: -92.07168
 postcode: "70503"
 city: Lafayette
-street: "Tucker Drive"
-housenumber: 119
+street: Tucker Drive
+housenumber: "119"
 phone: ""
 opening_hours: ""
 website: ""

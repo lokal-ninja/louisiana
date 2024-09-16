@@ -4,8 +4,8 @@ latitude: 29.97891
 longitude: -90.10203
 postcode: "70119"
 city: New Orleans
-street: "North Alexander Street"
-housenumber: 318
-phone: "504-486-5884"
-opening_hours: "Mo-Fr 07:30-17:00"
-website: "http://trepsauto.com/"
+street: North Alexander Street
+housenumber: "318"
+phone: 504-486-5884
+opening_hours: Mo-Fr 07:30-17:00
+website: http://trepsauto.com/

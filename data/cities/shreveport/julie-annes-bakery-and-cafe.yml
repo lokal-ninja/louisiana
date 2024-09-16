@@ -1,11 +1,11 @@
 id: 852028203
-type: way
+type: node
 latitude: 32.48124
 longitude: -93.74708
 postcode: "71106"
 city: Shreveport
-street: "Kings Highway"
-housenumber: 825
+street: Kings Highway
+housenumber: "825"
 phone: ""
-opening_hours: "06:30-18:00"
+opening_hours: 06:30-18:00
 website: ""

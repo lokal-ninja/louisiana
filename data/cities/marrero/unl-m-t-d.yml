@@ -1,11 +1,11 @@
 id: 1064938043
-type: way
+type: node
 latitude: 29.87362
 longitude: -90.09854
 postcode: "70072"
 city: Marrero
-street: "Barataria Boulevard"
-housenumber: 1960
+street: Barataria Boulevard
+housenumber: "1960"
 phone: ""
 opening_hours: ""
 website: ""

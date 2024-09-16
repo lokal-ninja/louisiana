@@ -1,11 +1,11 @@
 id: 725692165
-type: way
+type: node
 latitude: 29.9763
 longitude: -90.17907
 postcode: "70001"
 city: Metairie
-street: "Airline Drive"
-housenumber: 4501
+street: Airline Drive
+housenumber: "4501"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4501+airline+dr-metairie-la-70001/id=15571"
+website: https://www.walgreens.com/locator/walgreens-4501+airline+dr-metairie-la-70001/id=15571

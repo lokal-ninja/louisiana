@@ -1,11 +1,11 @@
 id: 1177119824
-type: way
+type: node
 latitude: 30.38895
 longitude: -91.05294
 postcode: "70809"
 city: Baton Rouge
-street: "Cedar Park Avenue"
-housenumber: 11616
-phone: "+1-877-394-8026"
+street: Cedar Park Avenue
+housenumber: "11616"
+phone: +1-877-394-8026
 opening_hours: ""
-website: "https://www.trioairllc.com/"
+website: https://www.trioairllc.com/

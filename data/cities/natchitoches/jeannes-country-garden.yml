@@ -1,11 +1,11 @@
 id: 1036764049
-type: way
+type: node
 latitude: 31.75521
 longitude: -93.08771
 postcode: "71457"
 city: Natchitoches
-street: "Jefferson Street"
-housenumber: 300
+street: Jefferson Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

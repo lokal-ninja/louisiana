@@ -1,11 +1,11 @@
 id: 473651988
-type: way
+type: node
 latitude: 30.47497
 longitude: -90.10054
 postcode: "70433"
 city: Covington
-street: "E 21st Ave"
-housenumber: 125
+street: E 21st Ave
+housenumber: "125"
 phone: ""
 opening_hours: ""
 website: ""

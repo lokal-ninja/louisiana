@@ -1,11 +1,11 @@
 id: 688269289
-type: way
+type: node
 latitude: 30.01575
 longitude: -90.23898
 postcode: "70065"
 city: Kenner
-street: "33rd Street"
-housenumber: 2109
+street: 33rd Street
+housenumber: "2109"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 828011538
-type: way
+type: node
 latitude: 30.41732
 longitude: -91.14409
 postcode: "70808"
 city: Baton Rouge
-street: "Perkins Road"
-housenumber: 4469
+street: Perkins Road
+housenumber: "4469"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.autozone.com/locations/la/baton-rouge/4469-perkins-rd.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.autozone.com/locations/la/baton-rouge/4469-perkins-rd.html

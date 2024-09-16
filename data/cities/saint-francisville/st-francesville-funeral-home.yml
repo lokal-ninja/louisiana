@@ -1,11 +1,11 @@
 id: 1125315857
-type: way
+type: node
 latitude: 30.78495
 longitude: -91.37923
 postcode: "70775"
 city: Saint Francisville
-street: "Commerce Street"
-housenumber: 5914
+street: Commerce Street
+housenumber: "5914"
 phone: ""
 opening_hours: ""
 website: ""

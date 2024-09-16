@@ -1,11 +1,11 @@
 id: 1056127021
-type: way
+type: node
 latitude: 30.42126
 longitude: -91.21862
 postcode: "70767"
 city: Port Allen
-street: "LA-1"
-housenumber: 3265
+street: LA-1
+housenumber: "3265"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1017425420
-type: way
+type: node
 latitude: 30.44644
 longitude: -90.13024
 postcode: "70433"
 city: Covington
-street: "Pinnacle Parkway"
-housenumber: 6103
-phone: "+1 985-893-9466"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/la/covington-1110.shtml"
+street: Pinnacle Parkway
+housenumber: "6103"
+phone: +1 985-893-9466
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/la/covington-1110.shtml

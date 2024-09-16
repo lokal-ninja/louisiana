@@ -1,11 +1,11 @@
 id: 208558158
-type: way
+type: node
 latitude: 29.95515
 longitude: -90.06777
 postcode: "70130"
 city: New Orleans
-street: "Bienville Street"
-housenumber: 713
-phone: "+1 504-523-7888"
+street: Bienville Street
+housenumber: "713"
+phone: +1 504-523-7888
 opening_hours: ""
-website: "http://www.facebook.com/pages/Love-It/250712024957567?id=250712024957567&sk=info"
+website: http://www.facebook.com/pages/Love-It/250712024957567?id=250712024957567&sk=info

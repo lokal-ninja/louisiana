@@ -1,11 +1,11 @@
 id: 499761280
-type: way
+type: node
 latitude: 30.45228
 longitude: -90.96161
 postcode: "70726"
 city: Denham Springs
-street: "Bass Pro Boulevard"
-housenumber: 175
-phone: "+1-225-271-3100"
+street: Bass Pro Boulevard
+housenumber: "175"
+phone: +1-225-271-3100
 opening_hours: ""
-website: "http://www.basspro.com/"
+website: http://www.basspro.com/

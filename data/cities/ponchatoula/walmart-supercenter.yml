@@ -1,11 +1,11 @@
 id: 1311913881
-type: way
+type: node
 latitude: 30.44428
 longitude: -90.45288
 postcode: "70454"
 city: Ponchatoula
-street: "Highway 51"
-housenumber: 1331
-phone: "+1 985-467-8046"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/4129/ponchatoula-la/whats-new"
+street: Highway 51
+housenumber: "1331"
+phone: +1 985-467-8046
+opening_hours: 24/7
+website: https://www.walmart.com/store/4129/ponchatoula-la/whats-new

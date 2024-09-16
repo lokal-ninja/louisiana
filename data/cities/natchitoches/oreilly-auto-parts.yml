@@ -1,11 +1,11 @@
 id: 187863801
-type: way
+type: node
 latitude: 31.75252
 longitude: -93.07478
 postcode: ""
 city: Natchitoches
-street: "Keyser Ave"
-housenumber: 607
+street: Keyser Ave
+housenumber: "607"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/la/natchitoches/autoparts-1185.html"
+website: https://locations.oreillyauto.com/la/natchitoches/autoparts-1185.html

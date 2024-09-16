@@ -1,11 +1,11 @@
 id: 1027264413
-type: way
+type: node
 latitude: 32.5283
 longitude: -93.70118
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 3000
-phone: "(318) 742-9765"
-opening_hours: "Mo-Th 08:00-24:00, Fr-Sa 08:00-01:00, Su 10:30-19:00"
+street: East Texas Street
+housenumber: "3000"
+phone: (318) 742-9765
+opening_hours: Mo-Th 08:00-24:00, Fr-Sa 08:00-01:00, Su 10:30-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 712691406
-type: way
+type: node
 latitude: 29.95388
 longitude: -90.18117
 postcode: "70123"
 city: Harahan
-street: "South Clearview Parkway"
-housenumber: 808
+street: South Clearview Parkway
+housenumber: "808"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/la/harahan/808-s-clearview-pkwy.html"
+website: https://www.autozone.com/locations/la/harahan/808-s-clearview-pkwy.html

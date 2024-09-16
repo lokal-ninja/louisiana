@@ -4,8 +4,8 @@ latitude: 29.96276
 longitude: -90.06058
 postcode: "70116"
 city: New Orleans
-street: "Royal Street"
-housenumber: 1241
+street: Royal Street
+housenumber: "1241"
 phone: "5044128868"
-opening_hours: "Mo-Su 11:00-18:00"
+opening_hours: Mo-Su 11:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 978869316
-type: way
+type: node
 latitude: 32.50579
 longitude: -93.69955
 postcode: "71112"
 city: Bossier City
-street: "Barksdale Boulevard"
-housenumber: 2430
+street: Barksdale Boulevard
+housenumber: "2430"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/la/bossier-city/2430-barksdale-blvd"
+website: https://stores.advanceautoparts.com/la/bossier-city/2430-barksdale-blvd

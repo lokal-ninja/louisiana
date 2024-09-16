@@ -1,11 +1,11 @@
 id: 818915252
-type: way
+type: node
 latitude: 29.87876
 longitude: -90.03701
 postcode: "70056"
 city: Gretna
-street: "Lapalco Boulevard"
-housenumber: 625
+street: Lapalco Boulevard
+housenumber: "625"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/la/gretna/autoparts-5215.html"
+website: https://locations.oreillyauto.com/la/gretna/autoparts-5215.html

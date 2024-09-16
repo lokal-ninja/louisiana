@@ -1,11 +1,11 @@
 id: 977647873
-type: way
+type: node
 latitude: 32.56387
 longitude: -93.51466
 postcode: "71067"
 city: Princeton
-street: "US Highway 80"
-housenumber: 6511
+street: US Highway 80
+housenumber: "6511"
 phone: ""
 opening_hours: ""
 website: ""

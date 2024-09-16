@@ -1,11 +1,11 @@
 id: 608186339
-type: way
+type: node
 latitude: 30.79128
 longitude: -91.37997
 postcode: "70775"
 city: Saint Francisville
-street: "US 61"
-housenumber: 7259
-phone: "225-635-3895"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-16:30"
-website: "https://www.cecilgraves.com/"
+street: US 61
+housenumber: "7259"
+phone: 225-635-3895
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-16:30
+website: https://www.cecilgraves.com/

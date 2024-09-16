@@ -1,11 +1,11 @@
 id: 1151394997
-type: way
+type: node
 latitude: 30.38634
 longitude: -91.04489
 postcode: "70809"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 12336
-phone: "225-590-5489"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.brianharrisbmw.com/"
+street: Airline Highway
+housenumber: "12336"
+phone: 225-590-5489
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.brianharrisbmw.com/

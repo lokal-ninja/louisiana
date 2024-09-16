@@ -1,11 +1,11 @@
 id: 725692170
-type: way
+type: node
 latitude: 29.97655
 longitude: -90.18312
 postcode: "70001"
 city: Metairie
-street: "Airline Drive"
-housenumber: 4717
+street: Airline Drive
+housenumber: "4717"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://sequoiaoutdoorsupply.com"
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://sequoiaoutdoorsupply.com

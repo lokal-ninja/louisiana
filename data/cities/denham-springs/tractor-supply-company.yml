@@ -1,11 +1,11 @@
 id: 616186820
-type: way
+type: node
 latitude: 30.48221
 longitude: -90.95312
 postcode: "70726"
 city: Denham Springs
-street: "Florida Avenue Southeast"
-housenumber: 246
-phone: "+1 225-665-9042"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Florida Avenue Southeast
+housenumber: "246"
+phone: +1 225-665-9042
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

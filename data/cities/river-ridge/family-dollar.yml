@@ -1,11 +1,11 @@
 id: 1062424512
-type: way
+type: node
 latitude: 29.97042
 longitude: -90.23668
 postcode: "70123"
 city: River Ridge
-street: "Jefferson Highway"
-housenumber: 11400
+street: Jefferson Highway
+housenumber: "11400"
 phone: ""
 opening_hours: ""
 website: ""

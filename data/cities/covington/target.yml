@@ -1,11 +1,11 @@
 id: 404291902
-type: way
+type: node
 latitude: 30.44292
 longitude: -90.13975
-postcode: "70433-7220"
+postcode: 70433-7220
 city: Covington
-street: "Highway 21"
-housenumber: 69320
-phone: "+1 985-871-7093"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.target.com/sl/covington/1876"
+street: Highway 21
+housenumber: "69320"
+phone: +1 985-871-7093
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.target.com/sl/covington/1876

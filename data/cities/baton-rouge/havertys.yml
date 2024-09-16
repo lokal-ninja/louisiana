@@ -1,11 +1,11 @@
 id: 1239540197
-type: way
+type: node
 latitude: 30.39207
 longitude: -91.08246
 postcode: "70836"
 city: Baton Rouge
-street: "Bluebonnet Boulevard"
-housenumber: 5909
+street: Bluebonnet Boulevard
+housenumber: "5909"
 phone: ""
 opening_hours: ""
 website: ""

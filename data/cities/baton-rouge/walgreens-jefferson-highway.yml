@@ -1,11 +1,11 @@
 id: 916019222
-type: way
+type: node
 latitude: 30.43018
 longitude: -91.10977
 postcode: ""
 city: Baton Rouge
-street: "Jefferson Highway"
-housenumber: 7620
+street: Jefferson Highway
+housenumber: "7620"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7620+jefferson+hwy-baton+rouge-la-70809/id=3399"
+website: https://www.walgreens.com/locator/walgreens-7620+jefferson+hwy-baton+rouge-la-70809/id=3399

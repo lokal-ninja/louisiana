@@ -1,11 +1,11 @@
 id: 1010794668
-type: way
+type: node
 latitude: 32.54148
 longitude: -92.60554
 postcode: "71270"
 city: East
-street: "North Service Road"
-housenumber: 2507
-phone: "+1 318-255-9349"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: North Service Road
+housenumber: "2507"
+phone: +1 318-255-9349
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

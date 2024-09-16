@@ -4,8 +4,8 @@ latitude: 30.80318
 longitude: -91.38607
 postcode: "70775"
 city: Saint Francisville
-street: "US 61"
-housenumber: 7788
-phone: "225-635-6543"
-opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-13:00"
-website: "https://www.napaonline.com/en/la/saint-francisville/store/28116"
+street: US 61
+housenumber: "7788"
+phone: 225-635-6543
+opening_hours: Mo-Fr 07:00-17:00; Sa 07:00-13:00
+website: https://www.napaonline.com/en/la/saint-francisville/store/28116

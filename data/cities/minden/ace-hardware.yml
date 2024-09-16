@@ -2,10 +2,10 @@ id: 10973758108
 type: node
 latitude: 32.622
 longitude: -93.26356
-postcode: "71055-3021"
+postcode: 71055-3021
 city: Minden
-street: "Homer Road"
-housenumber: 807
-phone: "+1 318-382-9000"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 13:00-17:00"
+street: Homer Road
+housenumber: "807"
+phone: +1 318-382-9000
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 13:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1190972827
-type: way
+type: node
 latitude: 32.55034
 longitude: -93.77791
 postcode: "71107"
 city: Shreveport
-street: "Havens Road"
-housenumber: 862
+street: Havens Road
+housenumber: "862"
 phone: ""
 opening_hours: ""
 website: ""

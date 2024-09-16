@@ -1,11 +1,11 @@
 id: 187863759
-type: way
+type: node
 latitude: 31.75235
 longitude: -93.06946
 postcode: "71457"
 city: Natchitoches
-street: "Melrose Ave"
-housenumber: 90
+street: Melrose Ave
+housenumber: "90"
 phone: ""
 opening_hours: ""
 website: ""

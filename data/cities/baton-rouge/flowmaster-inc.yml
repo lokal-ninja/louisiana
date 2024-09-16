@@ -1,11 +1,11 @@
 id: 1175511807
-type: way
+type: node
 latitude: 30.3931
 longitude: -91.05224
 postcode: "70809"
 city: Baton Rouge
-street: "Investor Avenue"
-housenumber: 11529
-phone: "225-753-7315"
+street: Investor Avenue
+housenumber: "11529"
+phone: 225-753-7315
 opening_hours: ""
-website: "http://www.flowmaster-br.com/"
+website: http://www.flowmaster-br.com/

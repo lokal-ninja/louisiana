@@ -1,11 +1,11 @@
 id: 1027264419
-type: way
+type: node
 latitude: 32.53098
 longitude: -93.69795
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 3161
-phone: "+1 318-742-1977"
-opening_hours: "Mo-Su 09:00-21:00"
-website: "https://local.biglots.com/la/bossier-city/3161-e-texas-st"
+street: East Texas Street
+housenumber: "3161"
+phone: +1 318-742-1977
+opening_hours: Mo-Su 09:00-21:00
+website: https://local.biglots.com/la/bossier-city/3161-e-texas-st

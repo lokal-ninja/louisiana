@@ -1,11 +1,11 @@
 id: 684899917
-type: way
+type: node
 latitude: 30.53206
 longitude: -92.08161
 postcode: "70570"
 city: Opelousas
-street: "South Main Street"
-housenumber: 231
+street: South Main Street
+housenumber: "231"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/la/opelousas/231-s-main-st"
+website: https://stores.advanceautoparts.com/la/opelousas/231-s-main-st

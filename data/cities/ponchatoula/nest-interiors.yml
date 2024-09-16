@@ -1,11 +1,11 @@
 id: 1032767421
-type: way
+type: node
 latitude: 30.44015
 longitude: -90.43676
 postcode: "70454"
 city: Ponchatoula
-street: "East Pine Street"
-housenumber: 390
+street: East Pine Street
+housenumber: "390"
 phone: ""
 opening_hours: ""
 website: ""

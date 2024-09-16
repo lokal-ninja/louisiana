@@ -4,8 +4,8 @@ latitude: 29.94059
 longitude: -90.09525
 postcode: "70115"
 city: New Orleans
-street: "South Claiborne Avenue"
-housenumber: 2900
-phone: "+1 504-249-6305"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/la/new-orleans-store2375.html"
+street: South Claiborne Avenue
+housenumber: "2900"
+phone: +1 504-249-6305
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/la/new-orleans-store2375.html

@@ -1,11 +1,11 @@
 id: 1251309290
-type: way
+type: node
 latitude: 32.50659
 longitude: -93.75907
 postcode: "71101"
 city: Shreveport
-street: "Pete Harris Drive"
-housenumber: 530
-phone: "+1 (318) 226-1800"
+street: Pete Harris Drive
+housenumber: "530"
+phone: +1 (318) 226-1800
 opening_hours: ""
 website: ""

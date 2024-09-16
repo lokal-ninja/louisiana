@@ -1,11 +1,11 @@
 id: 321758410
-type: way
+type: node
 latitude: 30.19049
 longitude: -92.01438
 postcode: "70508"
 city: Lafayette
-street: "West Pinhook Road"
-housenumber: 1879
-phone: "+1 337-234-9900"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/la/lafayette/office-depot-385"
+street: West Pinhook Road
+housenumber: "1879"
+phone: +1 337-234-9900
+opening_hours: Mo-Fr 07:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/la/lafayette/office-depot-385

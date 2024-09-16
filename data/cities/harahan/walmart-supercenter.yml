@@ -1,11 +1,11 @@
 id: 712691404
-type: way
+type: node
 latitude: 29.94918
 longitude: -90.18059
 postcode: "70123"
 city: Harahan
-street: "Jefferson Highway"
-housenumber: 5110
-phone: "+1 504-733-4923"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/1353/harahan-la/whats-new"
+street: Jefferson Highway
+housenumber: "5110"
+phone: +1 504-733-4923
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/1353/harahan-la/whats-new

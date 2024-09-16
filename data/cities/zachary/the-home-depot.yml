@@ -1,11 +1,11 @@
 id: 1253728702
-type: way
+type: node
 latitude: 30.64815
 longitude: -91.1341
 postcode: "70791"
 city: Zachary
-street: "Main Street"
-housenumber: 6600
-phone: "+1 225-658-2592"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Zachary/LA/Zachary/70791/380"
+street: Main Street
+housenumber: "6600"
+phone: +1 225-658-2592
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Zachary/LA/Zachary/70791/380

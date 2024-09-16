@@ -1,11 +1,11 @@
 id: 704074962
-type: way
+type: node
 latitude: 30.26739
 longitude: -89.75821
 postcode: "70458"
 city: Slidell
-street: "Town Center Parkway"
-housenumber: 250
-phone: "+1 985-718-3252"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/la/slidell/1044/"
+street: Town Center Parkway
+housenumber: "250"
+phone: +1 985-718-3252
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/la/slidell/1044/

@@ -1,11 +1,11 @@
 id: 1064923388
-type: way
+type: node
 latitude: 29.85672
 longitude: -90.10363
 postcode: "70072"
 city: Marrero
-street: "Barataria Boulevard"
-housenumber: 2546
+street: Barataria Boulevard
+housenumber: "2546"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/la/marrero/2546-barataria-blvd.html"
+website: https://www.autozone.com/locations/la/marrero/2546-barataria-blvd.html

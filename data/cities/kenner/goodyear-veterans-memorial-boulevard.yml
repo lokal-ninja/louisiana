@@ -1,11 +1,11 @@
 id: 648288817
-type: way
+type: node
 latitude: 30.00602
 longitude: -90.23706
 postcode: "70062"
 city: Kenner
-street: "Veterans Memorial Boulevard"
-housenumber: 2233
+street: Veterans Memorial Boulevard
+housenumber: "2233"
 phone: ""
 opening_hours: ""
 website: ""

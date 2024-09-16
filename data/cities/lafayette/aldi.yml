@@ -1,11 +1,11 @@
 id: 1178148280
-type: way
+type: node
 latitude: 30.26578
 longitude: -91.99093
 postcode: "70501"
 city: Lafayette
-street: "Louisiana Avenue"
-housenumber: 3210
-phone: "+1 844-478-7185"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/la/lafayette/3210-louisiana-ave"
+street: Louisiana Avenue
+housenumber: "3210"
+phone: +1 844-478-7185
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/la/lafayette/3210-louisiana-ave

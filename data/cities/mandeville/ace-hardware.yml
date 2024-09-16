@@ -1,11 +1,11 @@
 id: 793093639
-type: way
+type: node
 latitude: 30.36813
 longitude: -90.06895
-postcode: "70448-3512"
+postcode: 70448-3512
 city: Mandeville
-street: "Florida Street"
-housenumber: 2445
-phone: "+1 985-626-3113"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-17:00; Su 11:00-16:00"
+street: Florida Street
+housenumber: "2445"
+phone: +1 985-626-3113
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-17:00; Su 11:00-16:00
 website: ""

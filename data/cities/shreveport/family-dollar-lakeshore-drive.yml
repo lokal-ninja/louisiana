@@ -1,11 +1,11 @@
 id: 1190775412
-type: way
+type: node
 latitude: 32.49334
 longitude: -93.78076
 postcode: "71109"
 city: Shreveport
-street: "Lakeshore Drive"
-housenumber: 2710
-phone: "+1 (318) 642-9387"
-opening_hours: "Mo-Su 09:00-21:00"
+street: Lakeshore Drive
+housenumber: "2710"
+phone: +1 (318) 642-9387
+opening_hours: Mo-Su 09:00-21:00
 website: ""

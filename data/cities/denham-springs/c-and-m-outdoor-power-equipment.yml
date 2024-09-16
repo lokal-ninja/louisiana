@@ -1,11 +1,11 @@
 id: 597082317
-type: way
+type: node
 latitude: 30.4827
 longitude: -90.91592
 postcode: "70726"
 city: Denham Springs
-street: "Florida Boulevard"
-housenumber: 8472
-phone: "+1-225-665-5379"
+street: Florida Boulevard
+housenumber: "8472"
+phone: +1-225-665-5379
 opening_hours: ""
-website: "https://www.cmoutdoorpower.com/"
+website: https://www.cmoutdoorpower.com/

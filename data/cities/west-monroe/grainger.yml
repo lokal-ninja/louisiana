@@ -1,11 +1,11 @@
 id: 987730560
-type: way
+type: node
 latitude: 32.49968
 longitude: -92.15772
 postcode: "71292"
 city: West Monroe
-street: "Thomas Road"
-housenumber: 500
+street: Thomas Road
+housenumber: "500"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:30"
-website: "https://www.grainger.com/branch/West-Monroe-Branch-508"
+opening_hours: Mo-Fr 08:00-16:30
+website: https://www.grainger.com/branch/West-Monroe-Branch-508

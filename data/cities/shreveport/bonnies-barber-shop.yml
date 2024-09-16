@@ -1,11 +1,11 @@
 id: 1009670153
-type: way
+type: node
 latitude: 32.58449
 longitude: -93.88249
 postcode: "71107"
 city: Shreveport
-street: "Pine Hill Road"
-housenumber: 528
+street: Pine Hill Road
+housenumber: "528"
 phone: ""
 opening_hours: ""
 website: ""

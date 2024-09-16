@@ -1,11 +1,11 @@
 id: 640670635
-type: way
+type: node
 latitude: 29.9636
 longitude: -90.18551
 postcode: "70123"
 city: Harahan
-street: "South Clearview Parkway"
-housenumber: 1138
-phone: "+1 504-731-2933"
+street: South Clearview Parkway
+housenumber: "1138"
+phone: +1 504-731-2933
 opening_hours: ""
-website: "https://stores.bestbuy.com/la/new-orleans/1138-s-clearview-pkwy-1456.html"
+website: https://stores.bestbuy.com/la/new-orleans/1138-s-clearview-pkwy-1456.html

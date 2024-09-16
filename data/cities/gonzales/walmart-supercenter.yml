@@ -1,11 +1,11 @@
 id: 402067582
-type: way
+type: node
 latitude: 30.23435
 longitude: -90.90957
 postcode: "70737"
 city: Gonzales
-street: "North Airline Highway"
-housenumber: 308
-phone: "+1 225-647-8950"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/532/gonzales-la/whats-new"
+street: North Airline Highway
+housenumber: "308"
+phone: +1 225-647-8950
+opening_hours: 24/7
+website: https://www.walmart.com/store/532/gonzales-la/whats-new

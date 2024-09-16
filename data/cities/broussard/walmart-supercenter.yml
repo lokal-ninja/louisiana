@@ -1,11 +1,11 @@
 id: 414269528
-type: way
+type: node
 latitude: 30.14378
 longitude: -91.94414
 postcode: "70518"
 city: Broussard
-street: "Saint Nazaire Road"
-housenumber: 123
-phone: "+1 337-837-8886"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/415/broussard-la/whats-new"
+street: Saint Nazaire Road
+housenumber: "123"
+phone: +1 337-837-8886
+opening_hours: 24/7
+website: https://www.walmart.com/store/415/broussard-la/whats-new

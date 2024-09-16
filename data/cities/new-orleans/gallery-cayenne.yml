@@ -1,11 +1,11 @@
 id: 478529611
-type: way
+type: node
 latitude: 29.95722
 longitude: -90.06208
 postcode: ""
 city: New Orleans
-street: "Decatur Street"
-housenumber: 702
-phone: "+1 504-585-1050"
+street: Decatur Street
+housenumber: "702"
+phone: +1 504-585-1050
 opening_hours: ""
-website: "https://www.gallerycayenne.com/"
+website: https://www.gallerycayenne.com/

@@ -1,11 +1,11 @@
 id: 1072545515
-type: way
+type: node
 latitude: 29.58442
 longitude: -90.69327
 postcode: "70363"
 city: Houma
-street: "Grand Caillou Road"
-housenumber: 933
-phone: "+1 985-917-0151"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3483/houma-la/whats-new"
+street: Grand Caillou Road
+housenumber: "933"
+phone: +1 985-917-0151
+opening_hours: 24/7
+website: https://www.walmart.com/store/3483/houma-la/whats-new

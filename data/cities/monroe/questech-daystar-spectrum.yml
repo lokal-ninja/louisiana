@@ -1,11 +1,11 @@
 id: 1056885750
-type: way
+type: node
 latitude: 32.53628
 longitude: -92.10876
 postcode: "71201"
 city: Monroe
-street: "Justice Street"
-housenumber: 2123
-phone: "(318) 896-4922"
+street: Justice Street
+housenumber: "2123"
+phone: (318) 896-4922
 opening_hours: ""
-website: "https://kleankingcarpet.com/"
+website: https://kleankingcarpet.com/

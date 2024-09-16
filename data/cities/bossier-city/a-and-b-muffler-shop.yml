@@ -1,11 +1,11 @@
 id: 1027262571
-type: way
+type: node
 latitude: 32.52762
 longitude: -93.72017
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 2132
-phone: "(318) 703-3568"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.golto.com"
+street: East Texas Street
+housenumber: "2132"
+phone: (318) 703-3568
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.golto.com

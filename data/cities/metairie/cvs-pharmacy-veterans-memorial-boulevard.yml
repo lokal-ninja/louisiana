@@ -1,11 +1,11 @@
 id: 712572993
-type: way
+type: node
 latitude: 30.00553
 longitude: -90.20035
 postcode: "70006"
 city: Metairie
-street: "Veterans Memorial Boulevard"
-housenumber: 5300
+street: Veterans Memorial Boulevard
+housenumber: "5300"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/metairie-la-pharmacies/5300-veterans-memorial-blvd-metairie-la-70003/storeid=1017"
+website: https://www.cvs.com/store-locator/metairie-la-pharmacies/5300-veterans-memorial-blvd-metairie-la-70003/storeid=1017

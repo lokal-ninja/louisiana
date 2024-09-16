@@ -1,11 +1,11 @@
 id: 1034857649
-type: way
+type: node
 latitude: 32.53901
 longitude: -93.65647
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
+street: East Texas Street
 housenumber: 5701 B
-phone: "(318) 584-7357"
-opening_hours: "Mo-Fr 10:00-17:00, Sa 10:00-12:00"
-website: "https://www.holmesautosalesla.com/"
+phone: (318) 584-7357
+opening_hours: Mo-Fr 10:00-17:00, Sa 10:00-12:00
+website: https://www.holmesautosalesla.com/

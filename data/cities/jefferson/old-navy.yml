@@ -1,11 +1,11 @@
 id: 662234299
-type: way
+type: node
 latitude: 29.96265
 longitude: -90.18664
 postcode: "70123"
 city: Jefferson
-street: "South Clearview Parkway"
-housenumber: 1136
+street: South Clearview Parkway
+housenumber: "1136"
 phone: ""
 opening_hours: ""
 website: ""

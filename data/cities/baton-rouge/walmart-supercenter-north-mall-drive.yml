@@ -1,11 +1,11 @@
 id: 739437886
-type: way
+type: node
 latitude: 30.3775
 longitude: -91.06036
 postcode: "70809"
 city: Baton Rouge
-street: "North Mall Drive"
-housenumber: 10606
-phone: "+1 225-291-8104"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/2132-baton-rouge-la"
+street: North Mall Drive
+housenumber: "10606"
+phone: +1 225-291-8104
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/2132-baton-rouge-la

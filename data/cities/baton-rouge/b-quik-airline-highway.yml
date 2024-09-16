@@ -1,11 +1,11 @@
 id: 1212654858
-type: way
+type: node
 latitude: 30.43396
 longitude: -91.08142
 postcode: "70815"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 9611
-phone: "+1-225-216-7181"
-opening_hours: "24/7"
-website: "https://www.exxon.com/en/find-station/batonrouge-la-bquik1-200319461"
+street: Airline Highway
+housenumber: "9611"
+phone: +1-225-216-7181
+opening_hours: 24/7
+website: https://www.exxon.com/en/find-station/batonrouge-la-bquik1-200319461

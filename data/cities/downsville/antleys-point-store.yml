@@ -1,11 +1,11 @@
 id: 1301675225
-type: way
+type: node
 latitude: 32.66123
 longitude: -92.27835
 postcode: "71234"
 city: Downsville
-street: "Highway 552"
-housenumber: 2374
+street: Highway 552
+housenumber: "2374"
 phone: ""
 opening_hours: ""
 website: ""

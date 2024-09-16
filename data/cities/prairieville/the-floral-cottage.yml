@@ -1,11 +1,11 @@
 id: 1200963733
-type: way
+type: node
 latitude: 30.32116
 longitude: -90.96097
 postcode: "70769"
 city: Prairieville
-street: "Highway 42"
-housenumber: 38480
-phone: "+1-225-677-2600"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.thefloralcottageflorist.com/"
+street: Highway 42
+housenumber: "38480"
+phone: +1-225-677-2600
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.thefloralcottageflorist.com/

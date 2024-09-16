@@ -1,11 +1,11 @@
 id: 225809911
-type: way
+type: node
 latitude: 32.44437
 longitude: -93.98293
 postcode: "71033"
 city: Greenwood
-street: "US Highway 80"
-housenumber: 9600
+street: US Highway 80
+housenumber: "9600"
 phone: ""
 opening_hours: ""
-website: "https://www.loves.com/locations/209"
+website: https://www.loves.com/locations/209

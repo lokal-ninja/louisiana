@@ -1,11 +1,11 @@
 id: 707530616
-type: way
+type: node
 latitude: 30.28373
 longitude: -90.92227
 postcode: "70737"
 city: Gonzales
-street: "LA-44"
-housenumber: 14521
-phone: "+1-225-341-7776"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://locations.familydollar.com"
+street: LA-44
+housenumber: "14521"
+phone: +1-225-341-7776
+opening_hours: Mo-Su 08:00-22:00
+website: https://locations.familydollar.com

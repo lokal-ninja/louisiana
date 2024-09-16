@@ -1,11 +1,11 @@
 id: 215599241
-type: way
+type: node
 latitude: 32.54794
 longitude: -93.70699
 postcode: "71111"
 city: Bossier City
-street: "Airline Drive"
-housenumber: 2536
-phone: "+1 318-747-0173"
-opening_hours: "06:00-23:00"
-website: "https://www.walmart.com/store/376-bossier-city-la"
+street: Airline Drive
+housenumber: "2536"
+phone: +1 318-747-0173
+opening_hours: 06:00-23:00
+website: https://www.walmart.com/store/376-bossier-city-la

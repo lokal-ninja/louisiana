@@ -1,11 +1,11 @@
 id: 1252098621
-type: way
+type: node
 latitude: 32.48603
 longitude: -93.77294
 postcode: "71103"
 city: Shreveport
-street: "Greenwood Road"
-housenumber: 2138
+street: Greenwood Road
+housenumber: "2138"
 phone: ""
 opening_hours: ""
 website: ""

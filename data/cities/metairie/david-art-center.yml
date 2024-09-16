@@ -1,11 +1,11 @@
 id: 473686305
-type: way
+type: node
 latitude: 30.00626
 longitude: -90.16116
 postcode: "70002"
 city: Metairie
-street: "North Arnoult Road"
-housenumber: 3020
-phone: "+1-504-888-3630"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.davidartcenter.com/"
+street: North Arnoult Road
+housenumber: "3020"
+phone: +1-504-888-3630
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.davidartcenter.com/

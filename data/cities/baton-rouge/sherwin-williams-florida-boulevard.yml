@@ -1,11 +1,11 @@
 id: 1253330070
-type: way
+type: node
 latitude: 30.45763
 longitude: -91.06321
 postcode: "70815"
 city: Baton Rouge
-street: "Florida Boulevard"
-housenumber: 10912
-phone: "+1-225-275-3780"
-opening_hours: "Su 10:00-16:00; Mo-Fr 07:00-18:00; Sa 08:00-17:00"
-website: "https://www.sherwin-williams.com/store-locator/paint-store/baton-rouge/la/707132?storeNumber=23867"
+street: Florida Boulevard
+housenumber: "10912"
+phone: +1-225-275-3780
+opening_hours: Su 10:00-16:00; Mo-Fr 07:00-18:00; Sa 08:00-17:00
+website: https://www.sherwin-williams.com/store-locator/paint-store/baton-rouge/la/707132?storeNumber=23867

@@ -4,8 +4,8 @@ latitude: 32.52654
 longitude: -93.70381
 postcode: "71111"
 city: Bossier City
-street: "East Texas St Ste 670"
-housenumber: 2950
+street: East Texas St Ste 670
+housenumber: "2950"
 phone: "3187475610"
-opening_hours: "Mo-Sa 10:00-21:00, Su 12:00-19:00"
-website: "https://www.jamesavery.com/custserv/store_details.jsp?storeId=883"
+opening_hours: Mo-Sa 10:00-21:00, Su 12:00-19:00
+website: https://www.jamesavery.com/custserv/store_details.jsp?storeId=883

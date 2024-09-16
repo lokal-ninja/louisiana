@@ -1,11 +1,11 @@
 id: 592985710
-type: way
+type: node
 latitude: 30.00902
 longitude: -90.26734
 postcode: "70065"
 city: Kenner
-street: "Loyola Drive"
-housenumber: 3011
-phone: "+1 504 4610011"
-opening_hours: "Tu-Sa 09:00-18:00; Mo,Su,PH off"
-website: "https://neworleanspowersports.com"
+street: Loyola Drive
+housenumber: "3011"
+phone: +1 504 4610011
+opening_hours: Tu-Sa 09:00-18:00; Mo,Su,PH off
+website: https://neworleanspowersports.com

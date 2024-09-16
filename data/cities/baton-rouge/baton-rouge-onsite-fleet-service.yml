@@ -1,11 +1,11 @@
 id: 1214454576
-type: way
+type: node
 latitude: 30.49233
 longitude: -91.12328
 postcode: "70805"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 6637
-phone: "+1-225-274-0535"
+street: Airline Highway
+housenumber: "6637"
+phone: +1-225-274-0535
 opening_hours: ""
-website: "http://batonrougeonsite.com/"
+website: http://batonrougeonsite.com/

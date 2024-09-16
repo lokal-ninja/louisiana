@@ -1,11 +1,11 @@
 id: 404291887
-type: way
+type: node
 latitude: 30.44444
 longitude: -90.13757
 postcode: "70433"
 city: Covington
-street: "Highway 21"
-housenumber: 69344
-phone: "+1 985-892-2457"
+street: Highway 21
+housenumber: "69344"
+phone: +1 985-892-2457
 opening_hours: ""
-website: "https://stores.bestbuy.com/la/covington/69344-highway-21-612.html"
+website: https://stores.bestbuy.com/la/covington/69344-highway-21-612.html

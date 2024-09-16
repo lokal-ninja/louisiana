@@ -1,11 +1,11 @@
 id: 977672582
-type: way
+type: node
 latitude: 32.53012
 longitude: -93.67263
 postcode: "71112"
 city: Bossier City
-street: "Industrial Drive"
-housenumber: 3818
+street: Industrial Drive
+housenumber: "3818"
 phone: ""
 opening_hours: ""
 website: ""

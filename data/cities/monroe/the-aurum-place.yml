@@ -4,8 +4,8 @@ latitude: 32.51111
 longitude: -92.11634
 postcode: "71201"
 city: Monroe
-street: "Louisville Ave"
-housenumber: 700
-phone: "318-323-5545"
-opening_hours: "Mo-Fr 09:30-20:00, Sa 09:30-19:00, Su closed"
-website: "https://www.aurumplace.com/"
+street: Louisville Ave
+housenumber: "700"
+phone: 318-323-5545
+opening_hours: Mo-Fr 09:30-20:00, Sa 09:30-19:00, Su closed
+website: https://www.aurumplace.com/

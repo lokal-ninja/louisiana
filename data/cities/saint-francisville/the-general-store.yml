@@ -1,11 +1,11 @@
 id: 1128308282
-type: way
+type: node
 latitude: 30.80391
 longitude: -91.38801
 postcode: "70775"
 city: Saint Francisville
-street: "US 61"
-housenumber: 7747
+street: US 61
+housenumber: "7747"
 phone: ""
 opening_hours: ""
-website: "https://themyrtles.myshopify.com/"
+website: https://themyrtles.myshopify.com/

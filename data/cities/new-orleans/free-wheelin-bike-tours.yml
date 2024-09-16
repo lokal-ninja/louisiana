@@ -4,8 +4,8 @@ latitude: 29.95718
 longitude: -90.06991
 postcode: "70112"
 city: New Orleans
-street: "Burgundy Street"
-housenumber: 317
-phone: "+1 504 522 4368"
-opening_hours: "Mo-Tu 09:30-16:30; We closed; Th-Sa 09:30-16:30; Su closed"
-website: "https://neworleansbiketour.com/"
+street: Burgundy Street
+housenumber: "317"
+phone: +1 504 522 4368
+opening_hours: Mo-Tu 09:30-16:30; We closed; Th-Sa 09:30-16:30; Su closed
+website: https://neworleansbiketour.com/

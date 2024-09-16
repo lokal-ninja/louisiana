@@ -1,11 +1,11 @@
 id: 534713386
-type: way
+type: node
 latitude: 30.02207
 longitude: -90.24073
 postcode: "70065"
 city: Kenner
-street: "Florida Avenue"
-housenumber: 3601
-phone: "+1-504-468-2300"
+street: Florida Avenue
+housenumber: "3601"
+phone: +1-504-468-2300
 opening_hours: ""
 website: ""

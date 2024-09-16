@@ -1,11 +1,11 @@
 id: 1183757333
-type: way
+type: node
 latitude: 32.48767
 longitude: -92.15484
 postcode: "71292"
 city: West Monroe
-street: "Thomas Road"
-housenumber: 1508
-phone: "(318) 323-6621"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.outlawordnance.com/"
+street: Thomas Road
+housenumber: "1508"
+phone: (318) 323-6621
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.outlawordnance.com/

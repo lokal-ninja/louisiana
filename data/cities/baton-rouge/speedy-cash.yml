@@ -1,11 +1,11 @@
 id: 1253330067
-type: way
+type: node
 latitude: 30.45751
 longitude: -91.06408
 postcode: "70815"
 city: Baton Rouge
-street: "Florida Boulevard"
-housenumber: 10828
+street: Florida Boulevard
+housenumber: "10828"
 phone: ""
 opening_hours: ""
 website: ""

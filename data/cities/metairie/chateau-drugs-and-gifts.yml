@@ -1,11 +1,11 @@
 id: 777890661
-type: way
+type: node
 latitude: 30.01446
 longitude: -90.16268
 postcode: "70002"
 city: Metairie
-street: "West Esplanade Avenue"
-housenumber: 3544
+street: West Esplanade Avenue
+housenumber: "3544"
 phone: ""
 opening_hours: ""
 website: ""

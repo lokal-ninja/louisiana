@@ -1,11 +1,11 @@
 id: 967603083
-type: way
+type: node
 latitude: 32.50748
 longitude: -92.17312
 postcode: "71292"
 city: West Monroe
-street: "Mane Street"
-housenumber: 201
-phone: "+1 318-329-1123"
-opening_hours: "Mo-Sa 08:00-21:00, Su 09:00-19:00"
+street: Mane Street
+housenumber: "201"
+phone: +1 318-329-1123
+opening_hours: Mo-Sa 08:00-21:00, Su 09:00-19:00
 website: ""

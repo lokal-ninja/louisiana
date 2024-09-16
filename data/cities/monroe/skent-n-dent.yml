@@ -1,11 +1,11 @@
 id: 1053651992
-type: way
+type: node
 latitude: 32.50426
 longitude: -92.11558
 postcode: "71201"
 city: Monroe
-street: "North 4th Street"
-housenumber: 200
-phone: "(318) 323-3000"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 09:00-13:00"
-website: "https://www.skentndent.com/"
+street: North 4th Street
+housenumber: "200"
+phone: (318) 323-3000
+opening_hours: Mo-Fr 08:00-17:00, Sa 09:00-13:00
+website: https://www.skentndent.com/

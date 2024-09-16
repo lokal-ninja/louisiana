@@ -1,11 +1,11 @@
 id: 895113229
-type: way
+type: node
 latitude: 32.58936
 longitude: -93.71369
 postcode: "71111"
 city: Bossier City
-street: "Airline Drive"
-housenumber: 4870
+street: Airline Drive
+housenumber: "4870"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/bossier-city-la-pharmacies/4870-airline-dr-bossier-city-la-71111/storeid=10218"
+website: https://www.cvs.com/store-locator/bossier-city-la-pharmacies/4870-airline-dr-bossier-city-la-71111/storeid=10218

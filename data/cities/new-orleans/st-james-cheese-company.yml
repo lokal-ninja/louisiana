@@ -4,8 +4,8 @@ latitude: 29.92451
 longitude: -90.1091
 postcode: "70115"
 city: New Orleans
-street: "Prytania Street"
-housenumber: 5004
-phone: "504-899-4737"
-opening_hours: "Mo-We 11:00-18:00; Th-Sa 11:00-20:00; Su 11:00-16:00"
-website: "https://stjamescheese.com/"
+street: Prytania Street
+housenumber: "5004"
+phone: 504-899-4737
+opening_hours: Mo-We 11:00-18:00; Th-Sa 11:00-20:00; Su 11:00-16:00
+website: https://stjamescheese.com/

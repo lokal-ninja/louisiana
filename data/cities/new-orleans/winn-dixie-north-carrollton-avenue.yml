@@ -1,11 +1,11 @@
 id: 326298140
-type: way
+type: node
 latitude: 29.97875
 longitude: -90.09941
 postcode: "70119"
 city: New Orleans
-street: "North Carrollton Avenue"
-housenumber: 401
-phone: "+1 504-482-6771"
+street: North Carrollton Avenue
+housenumber: "401"
+phone: +1 504-482-6771
 opening_hours: ""
-website: "https://www.winndixie.com/storedetails/new orleans/la?search=1472"
+website: https://www.winndixie.com/storedetails/new orleans/la?search=1472

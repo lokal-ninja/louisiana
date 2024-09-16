@@ -4,8 +4,8 @@ latitude: 30.49929
 longitude: -90.47997
 postcode: "70401"
 city: Hammond
-street: "West Thomas Street"
-housenumber: 1801
-phone: "+1 985-542-9720"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00"
-website: "https://local.albertsons.com/la/hammond/1801-w-thomas-st.html"
+street: West Thomas Street
+housenumber: "1801"
+phone: +1 985-542-9720
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-22:00; Su 06:00-22:00
+website: https://local.albertsons.com/la/hammond/1801-w-thomas-st.html

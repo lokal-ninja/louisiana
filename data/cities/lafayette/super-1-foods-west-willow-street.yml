@@ -1,11 +1,11 @@
 id: 1252675192
-type: way
+type: node
 latitude: 30.24325
 longitude: -92.01593
 postcode: "70501"
 city: Lafayette
-street: "West Willow Street"
-housenumber: 215
-phone: "+1-337-572-9340"
+street: West Willow Street
+housenumber: "215"
+phone: +1-337-572-9340
 opening_hours: ""
 website: ""

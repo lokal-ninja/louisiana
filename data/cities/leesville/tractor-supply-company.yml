@@ -1,11 +1,11 @@
 id: 552712753
-type: way
+type: node
 latitude: 31.12242
 longitude: -93.27169
 postcode: "71446"
 city: Leesville
-street: "Boone Street"
-housenumber: 1111
-phone: "+1 337-238-5153"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
-website: "https://www.tractorsupply.com/"
+street: Boone Street
+housenumber: "1111"
+phone: +1 337-238-5153
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
+website: https://www.tractorsupply.com/

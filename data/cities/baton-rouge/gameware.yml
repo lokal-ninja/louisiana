@@ -1,11 +1,11 @@
 id: 827902875
-type: way
+type: node
 latitude: 30.41868
 longitude: -91.14115
 postcode: "70808"
 city: Baton Rouge
-street: "College Drive"
-housenumber: 3131
-phone: "(225)927-9411"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "https://www.gameware.com/"
+street: College Drive
+housenumber: "3131"
+phone: (225)927-9411
+opening_hours: Mo-Sa 10:00-22:00
+website: https://www.gameware.com/

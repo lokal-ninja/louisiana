@@ -1,11 +1,11 @@
 id: 990226336
-type: way
+type: node
 latitude: 30.48887
 longitude: -91.12241
 postcode: "70805"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 6894
+street: Airline Highway
+housenumber: "6894"
 phone: ""
 opening_hours: ""
 website: ""

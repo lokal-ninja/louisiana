@@ -1,11 +1,11 @@
 id: 227235499
-type: way
+type: node
 latitude: 30.50262
 longitude: -90.49764
 postcode: "70401"
 city: Hammond
-street: "Highway 190 West"
-housenumber: 3007
-phone: "+1 985-345-5666"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "http://stores.lowes.com/lowes/cgi/site?site=1070"
+street: Highway 190 West
+housenumber: "3007"
+phone: +1 985-345-5666
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: http://stores.lowes.com/lowes/cgi/site?site=1070

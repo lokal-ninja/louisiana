@@ -1,11 +1,11 @@
 id: 857234112
-type: way
+type: node
 latitude: 32.47076
 longitude: -93.76409
 postcode: "71108"
 city: Shreveport
-street: "Linwood Avenue"
-housenumber: 3870
-phone: "+1 (318) 399-6658"
-opening_hours: "Mo-Su 08:00-21:00"
+street: Linwood Avenue
+housenumber: "3870"
+phone: +1 (318) 399-6658
+opening_hours: Mo-Su 08:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1175511819
-type: way
+type: node
 latitude: 30.3929
 longitude: -91.05161
 postcode: "70809"
 city: Baton Rouge
-street: "Investor Avenue"
-housenumber: 11569
-phone: "225-751-2633"
+street: Investor Avenue
+housenumber: "11569"
+phone: 225-751-2633
 opening_hours: ""
-website: "https://riverroadcoffees.com/"
+website: https://riverroadcoffees.com/

@@ -1,11 +1,11 @@
 id: 322552964
-type: way
+type: node
 latitude: 32.50114
 longitude: -92.13455
 postcode: "71291"
 city: West Monroe
-street: "Stella Street"
-housenumber: 700
+street: Stella Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1032487360
-type: way
+type: node
 latitude: 30.72835
 longitude: -90.50761
 postcode: "70422"
 city: Amite City
-street: "East Mulberry Street"
-housenumber: 111
+street: East Mulberry Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

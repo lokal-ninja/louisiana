@@ -1,11 +1,11 @@
 id: 1177119832
-type: way
+type: node
 latitude: 30.38916
 longitude: -91.05446
 postcode: "70809"
 city: Baton Rouge
-street: "Cedar Park Avenue"
-housenumber: 11522
-phone: "+1-225-335-2509"
+street: Cedar Park Avenue
+housenumber: "11522"
+phone: +1-225-335-2509
 opening_hours: ""
-website: "https://www.riomarineinc.com/"
+website: https://www.riomarineinc.com/

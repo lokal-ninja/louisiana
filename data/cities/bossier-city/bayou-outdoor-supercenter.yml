@@ -1,11 +1,11 @@
 id: 1034345559
-type: way
+type: node
 latitude: 32.53075
 longitude: -93.67623
 postcode: "71111"
 city: Bossier City
-street: "East Texas Street"
-housenumber: 4306
-phone: "(318) 213-2628"
-opening_hours: "Mo-Fr 08:30-17:00, Sa 08:30-12:00"
-website: "https://www.bayououtdoor.com"
+street: East Texas Street
+housenumber: "4306"
+phone: (318) 213-2628
+opening_hours: Mo-Fr 08:30-17:00, Sa 08:30-12:00
+website: https://www.bayououtdoor.com

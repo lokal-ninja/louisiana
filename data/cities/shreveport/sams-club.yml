@@ -1,11 +1,11 @@
 id: 1199691757
-type: way
+type: node
 latitude: 32.4387
 longitude: -93.71928
 postcode: "71105"
 city: Shreveport
-street: "Youree Drive"
-housenumber: 7400
-phone: "+1 318-798-2043"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/shreveport-la-sams-club/8273"
+street: Youree Drive
+housenumber: "7400"
+phone: +1 318-798-2043
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/shreveport-la-sams-club/8273

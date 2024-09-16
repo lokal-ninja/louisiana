@@ -1,11 +1,11 @@
 id: 187964883
-type: way
+type: node
 latitude: 31.75127
 longitude: -93.06474
 postcode: "71457"
 city: Natchitoches
-street: "Keyser Ave"
-housenumber: 929
+street: Keyser Ave
+housenumber: "929"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 10:00-20:00"
-website: "https://www.dollartree.com/locations/la/natchitoches/1996/"
+opening_hours: Mo-Sa 08:00-22:00; Su 10:00-20:00
+website: https://www.dollartree.com/locations/la/natchitoches/1996/

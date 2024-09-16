@@ -1,11 +1,11 @@
 id: 372873898
-type: way
+type: node
 latitude: 29.99066
 longitude: -90.05799
 postcode: "70122"
 city: New Orleans
-street: "Elysian Fields Avenue"
-housenumber: 3101
+street: Elysian Fields Avenue
+housenumber: "3101"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1213753339
-type: way
+type: node
 latitude: 30.47491
 longitude: -91.11092
 postcode: "70814"
 city: Baton Rouge
-street: "Airline Highway"
-housenumber: 7655
-phone: "+1-225-418-6940"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.sunbeltrentals.com/location/la/baton-rouge/flooring-equipment-rentals/1429/"
+street: Airline Highway
+housenumber: "7655"
+phone: +1-225-418-6940
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.sunbeltrentals.com/location/la/baton-rouge/flooring-equipment-rentals/1429/

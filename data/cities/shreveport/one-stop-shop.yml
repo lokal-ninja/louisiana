@@ -1,11 +1,11 @@
 id: 1191253645
-type: way
+type: node
 latitude: 32.51366
 longitude: -93.75509
 postcode: "71101"
 city: Shreveport
-street: "Common Street"
-housenumber: 101
+street: Common Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

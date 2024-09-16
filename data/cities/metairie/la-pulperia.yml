@@ -1,11 +1,11 @@
 id: 722613425
-type: way
+type: node
 latitude: 29.99943
 longitude: -90.2191
 postcode: "70003"
 city: Metairie
-street: "David Drive"
-housenumber: 2606
+street: David Drive
+housenumber: "2606"
 phone: ""
 opening_hours: ""
 website: ""
