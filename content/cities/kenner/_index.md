@@ -1,6 +1,6 @@
 ---
 title: Kenner
 url: /kenner/
-latitude: 29.98
-longitude: -90.245
+latitude: 30.023
+longitude: -90.253
 ---
