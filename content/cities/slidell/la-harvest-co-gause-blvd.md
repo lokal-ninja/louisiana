@@ -1,5 +1,5 @@
 ---
 title: "LA Harvest Co."
-url: /slidell/la-harvest-co-gause-blvd-w/
+url: /slidell/la-harvest-co-gause-blvd/
 shop: cannabis
 ---
