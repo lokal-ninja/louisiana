@@ -1,5 +1,5 @@
 ---
 title: "Lowe's"
-url: /baton-rouge/lowes-south-mall-drive/
+url: /baton-rouge/lowes-cortana-place/
 shop: doityourself
 ---
