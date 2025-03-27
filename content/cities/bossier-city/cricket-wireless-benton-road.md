@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
-url: /bossier-city/cricket-wireless-airline-drive/
+url: /bossier-city/cricket-wireless-benton-road/
 shop: mobile phone
 ---
