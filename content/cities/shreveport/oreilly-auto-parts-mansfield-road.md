@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
-url: /baton-rouge/oreilly-auto-parts-tom-drive/
+url: /shreveport/oreilly-auto-parts-mansfield-road/
 shop: car parts
 ---
