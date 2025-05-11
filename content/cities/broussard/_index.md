@@ -1,6 +1,6 @@
 ---
 title: Broussard
 url: /broussard/
-latitude: 30.138
-longitude: -91.989
+latitude: 30.14
+longitude: -91.949
 ---
