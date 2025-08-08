@@ -1,6 +1,6 @@
 ---
 title: Ragley
 url: /ragley/
-latitude: 30.414
-longitude: -93.12
+latitude: 30.478
+longitude: -93.233
 ---
