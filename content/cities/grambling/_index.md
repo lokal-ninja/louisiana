@@ -1,6 +1,6 @@
 ---
 title: Grambling
 url: /grambling/
-latitude: 32.531
-longitude: -92.712
+latitude: 32.53
+longitude: -92.716
 ---
