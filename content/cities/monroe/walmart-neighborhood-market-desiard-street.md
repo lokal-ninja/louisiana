@@ -1,5 +1,5 @@
 ---
 title: "Walmart Neighborhood Market"
-url: /monroe/walmart-neighborhood-market-mckeen-place/
+url: /monroe/walmart-neighborhood-market-desiard-street/
 shop: supermarket
 ---
