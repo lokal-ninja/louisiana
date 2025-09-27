@@ -1,6 +1,6 @@
 ---
 title: Luling
 url: /luling/
-latitude: 29.913
-longitude: -90.343
+latitude: 29.907
+longitude: -90.368
 ---

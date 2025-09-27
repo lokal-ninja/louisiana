@@ -1,6 +1,6 @@
 ---
 title: Boutte
 url: /boutte/
-latitude: 29.905
-longitude: -90.373
+latitude: 29.904
+longitude: -90.377
 ---
