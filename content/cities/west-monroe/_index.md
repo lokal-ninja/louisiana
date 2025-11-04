@@ -1,6 +1,6 @@
 ---
 title: West Monroe
 url: /west-monroe/
-latitude: 32.515
-longitude: -92.137
+latitude: 32.461
+longitude: -92.16
 ---
