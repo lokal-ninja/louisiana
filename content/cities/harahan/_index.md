@@ -1,6 +1,6 @@
 ---
 title: Harahan
 url: /harahan/
-latitude: 29.961
-longitude: -90.186
+latitude: 29.952
+longitude: -90.181
 ---
