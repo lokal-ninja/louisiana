@@ -1,6 +1,6 @@
 ---
 title: Destrehan
 url: /destrehan/
-latitude: 29.969
-longitude: -90.375
+latitude: 29.986
+longitude: -90.363
 ---
