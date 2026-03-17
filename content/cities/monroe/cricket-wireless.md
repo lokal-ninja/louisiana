@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
-url: /baton-rouge/cricket-wireless-airline-highway/
+url: /monroe/cricket-wireless/
 shop: mobile phone
 ---
