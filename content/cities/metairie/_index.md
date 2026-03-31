@@ -1,6 +1,6 @@
 ---
 title: Metairie
 url: /metairie/
-latitude: 30.01
-longitude: -90.16
+latitude: 30.003
+longitude: -90.161
 ---
