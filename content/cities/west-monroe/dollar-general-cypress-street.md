@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /haughton/dollar-general-south-elm-street/
+url: /west-monroe/dollar-general-cypress-street/
 shop: variety store
 ---
