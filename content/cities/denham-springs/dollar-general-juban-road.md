@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /haughton/dollar-general-highway-157/
+url: /denham-springs/dollar-general-juban-road/
 shop: variety store
 ---
