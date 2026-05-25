@@ -1,6 +1,6 @@
 ---
 title: Sterlington
 url: /sterlington/
-latitude: 32.675
-longitude: -92.043
+latitude: 32.707
+longitude: -92.06
 ---
