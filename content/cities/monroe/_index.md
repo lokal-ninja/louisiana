@@ -1,6 +1,6 @@
 ---
 title: Monroe
 url: /monroe/
-latitude: 32.517
-longitude: -92.106
+latitude: 32.535
+longitude: -92.109
 ---
