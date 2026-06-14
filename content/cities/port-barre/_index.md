@@ -1,6 +1,6 @@
 ---
 title: Port Barre
 url: /port-barre/
-latitude: 30.548
-longitude: -91.974
+latitude: 30.547
+longitude: -92.001
 ---
