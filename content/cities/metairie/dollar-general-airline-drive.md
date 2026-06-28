@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /sulphur/dollar-general-east-napoleon-street/
+url: /metairie/dollar-general-airline-drive/
 shop: variety store
 ---
