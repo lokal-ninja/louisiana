@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
-url: /haughton/dollar-general-south-elm-street/
+url: /denham-springs/dollar-general-arnold-road/
 shop: variety store
 ---
