@@ -1,6 +1,6 @@
 ---
 title: Iowa
 url: /iowa/
-latitude: 30.232
-longitude: -92.931
+latitude: 30.239
+longitude: -93.013
 ---

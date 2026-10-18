@@ -1,6 +1,6 @@
 ---
 title: Many
 url: /many/
-latitude: 31.572
-longitude: -93.489
+latitude: 31.567
+longitude: -93.493
 ---
