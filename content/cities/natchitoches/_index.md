@@ -1,6 +1,6 @@
 ---
 title: Natchitoches
 url: /natchitoches/
-latitude: 31.749
-longitude: -93.083
+latitude: 31.757
+longitude: -93.107
 ---

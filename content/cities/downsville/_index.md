@@ -1,6 +1,6 @@
 ---
 title: Downsville
 url: /downsville/
-latitude: 32.589
-longitude: -92.327
+latitude: 32.661
+longitude: -92.278
 ---
